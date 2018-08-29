@@ -1,0 +1,64 @@
+﻿15:02:17 BattlEye Server: Initialized (v1.217)
+15:02:17 Host identity created.
+15:02:17 Game Port: 2307, Steam Query Port: 2308
+15:02:17 Mission A3Wasteland Altis v1.4c read from bank.
+15:02:19 Roles assigned.
+15:02:19 Reading mission ...
+15:02:59 Mission read.
+15:02:59 Game started.
+15:04:03 Max Mota uses modified data file
+15:04:03 BattlEye Server: Player #0 Max Mota (190.75.120.106:2309) connected
+15:04:03 Player Max Mota connecting.
+15:04:03 BattlEye Server: Connected to BE Master
+15:04:06 BattlEye Server: Player #0 Max Mota - BE GUID: b24b492882c5bff2195677387329ee4f
+15:04:07 Player Max Mota connected (id=76561198004095068).
+15:04:07 BattlEye Server: Verified GUID (b24b492882c5bff2195677387329ee4f) of player #0 Max Mota
+15:05:09 Mason uses modified data file
+15:05:09 BattlEye Server: Player #1 Mason (24.207.152.238:2309) connected
+15:05:09 Player Mason connecting.
+15:05:11 BattlEye Server: Player #1 Mason - BE GUID: 955d09b6e1dde9360ceebc2963df084d
+15:05:12 Player Mason connected (id=76561198026943270).
+15:05:12 BattlEye Server: Verified GUID (955d09b6e1dde9360ceebc2963df084d) of player #1 Mason
+15:53:41 High Alert Highlander  uses modified data file
+15:53:41 BattlEye Server: Player #2 High Alert Highlander  (190.171.107.27:62725) connected
+15:53:41 Player High Alert Highlander  connecting.
+15:53:45 BattlEye Server: Player #2 High Alert Highlander  - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+15:53:48 Player High Alert Highlander  connected (id=76561198065774594).
+15:53:48 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #2 High Alert Highlander 
+17:04:57 Rou Kowalski uses modified data file
+17:04:57 BattlEye Server: Player #3 Rou Kowalski (73.147.1.91:2309) connected
+17:04:57 Player Rou Kowalski connecting.
+17:04:59 BattlEye Server: Player #3 Rou Kowalski - BE GUID: 58cae163ea9d3a0ff8adde240b436737
+17:05:01 Player Rou Kowalski connected (id=76561198034110598).
+17:05:01 BattlEye Server: Verified GUID (58cae163ea9d3a0ff8adde240b436737) of player #3 Rou Kowalski
+17:30:01 Hemlock Kowalski uses modified data file
+17:30:01 BattlEye Server: Player #4 Hemlock Kowalski (73.147.1.91:62314) connected
+17:30:01 Player Hemlock Kowalski connecting.
+17:30:04 BattlEye Server: Player #4 Hemlock Kowalski - BE GUID: 0e50d5bc222746efa845806a2af0fed1
+17:30:07 Player Hemlock Kowalski connected (id=76561198201473535).
+17:30:07 BattlEye Server: Verified GUID (0e50d5bc222746efa845806a2af0fed1) of player #4 Hemlock Kowalski
+17:53:28 BattlEye Server: (Side) Max Mota: we need base door key?
+18:03:45 Jacob uses modified data file
+18:03:45 BattlEye Server: Player #5 Jacob (128.163.236.44:45929) connected
+18:03:46 Player Jacob connecting.
+18:03:48 BattlEye Server: Player #5 Jacob - BE GUID: 97748960af453a9000adc8ad09ec8ac4
+18:03:48 Player Jacob connected (id=76561198197632528).
+18:03:48 BattlEye Server: Verified GUID (97748960af453a9000adc8ad09ec8ac4) of player #5 Jacob
+18:06:10 LT.Matt uses modified data file
+18:06:10 BattlEye Server: Player #6 LT.Matt (98.239.30.235:2309) connected
+18:06:10 Player LT.Matt connecting.
+18:06:13 BattlEye Server: Player #6 LT.Matt - BE GUID: 1ae43f8b6c403b9da909b7207b38a6cf
+18:06:13 Player LT.Matt connected (id=76561198189646014).
+18:06:13 BattlEye Server: Verified GUID (1ae43f8b6c403b9da909b7207b38a6cf) of player #6 LT.Matt
+18:06:27 Slurpee uses modified data file
+18:06:27 BattlEye Server: Player #7 Slurpee (38.130.83.84:2309) connected
+18:06:27 Player Slurpee connecting.
+18:06:30 BattlEye Server: Player #7 Slurpee - BE GUID: 3d47d9029f5dbbc60ea99eda41faa3ef
+18:06:30 Player Slurpee connected (id=76561198139563257).
+18:06:30 BattlEye Server: Verified GUID (3d47d9029f5dbbc60ea99eda41faa3ef) of player #7 Slurpee
+18:08:14 Oliver uses modified data file
+18:08:14 BattlEye Server: Player #8 Oliver (172.74.118.204:2309) connected
+18:08:14 Player Oliver connecting.
+18:08:17 BattlEye Server: Player #8 Oliver - BE GUID: b732f95867edd8951c1914276da3d38d
+18:08:17 Player Oliver connected (id=76561198145487935).
+18:08:17 BattlEye Server: Verified GUID (b732f95867edd8951c1914276da3d38d) of player #8 O

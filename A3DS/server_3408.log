@@ -1,0 +1,64 @@
+﻿21:01:29 BattlEye Server: Initialized (v1.217)
+21:01:29 Host identity created.
+21:01:29 Game Port: 2307, Steam Query Port: 2308
+21:01:29 Mission A3Wasteland Altis v1.4c read from bank.
+21:01:30 Roles assigned.
+21:01:30 Reading mission ...
+21:02:00 Mission read.
+21:02:01 Game started.
+21:13:00 Pe De Couve uses modified data file
+21:13:00 BattlEye Server: Player #0 Pe De Couve (200.9.16.30:2304) connected
+21:13:00 Player Pe De Couve connecting.
+21:13:00 BattlEye Server: Connected to BE Master
+21:13:02 BattlEye Server: Player #0 Pe De Couve - BE GUID: a061202e4d4e9c17beed82e15bb060f3
+21:13:02 Player Pe De Couve connected (id=76561198295934417).
+21:13:03 BattlEye Server: Verified GUID (a061202e4d4e9c17beed82e15bb060f3) of player #0 Pe De Couve
+21:22:25 Player Pe De Couve disconnected.
+21:22:25 BattlEye Server: Player #0 Pe De Couve disconnected
+21:29:39 Rou Kowalski uses modified data file
+21:29:39 BattlEye Server: Player #0 Rou Kowalski (73.147.1.91:2309) connected
+21:29:39 Player Rou Kowalski connecting.
+21:29:41 BattlEye Server: Player #0 Rou Kowalski - BE GUID: 58cae163ea9d3a0ff8adde240b436737
+21:29:44 Player Rou Kowalski connected (id=76561198034110598).
+21:29:44 BattlEye Server: Verified GUID (58cae163ea9d3a0ff8adde240b436737) of player #0 Rou Kowalski
+21:41:39 Joe Vasquez uses modified data file
+21:41:39 BattlEye Server: Player #1 Joe Vasquez (70.124.167.7:2304) connected
+21:41:39 Player Joe Vasquez connecting.
+21:41:41 BattlEye Server: Player #1 Joe Vasquez - BE GUID: 15c048d7b71aa2aebec0eb9fc5bb7926
+21:41:42 Player Joe Vasquez connected (id=76561198203583507).
+21:41:42 BattlEye Server: Verified GUID (15c048d7b71aa2aebec0eb9fc5bb7926) of player #1 Joe Vasquez
+21:48:11 Player Rou Kowalski kicked off by BattlEye: Client not responding
+21:48:11 Player Rou Kowalski disconnected.
+21:54:23 Rou Kowalski uses modified data file
+21:54:23 BattlEye Server: Player #2 Rou Kowalski (73.147.1.91:2309) connected
+21:54:24 Player Rou Kowalski connecting.
+21:54:26 BattlEye Server: Player #2 Rou Kowalski - BE GUID: 58cae163ea9d3a0ff8adde240b436737
+21:54:28 Player Rou Kowalski connected (id=76561198034110598).
+21:54:28 BattlEye Server: Verified GUID (58cae163ea9d3a0ff8adde240b436737) of player #2 Rou Kowalski
+21:56:12 Hemlock Kowalski uses modified data file
+21:56:12 BattlEye Server: Player #3 Hemlock Kowalski (73.147.1.91:2304) connected
+21:56:12 Player Hemlock Kowalski connecting.
+21:56:14 BattlEye Server: Player #3 Hemlock Kowalski - BE GUID: 0e50d5bc222746efa845806a2af0fed1
+21:56:16 Player Hemlock Kowalski connected (id=76561198201473535).
+21:56:16 BattlEye Server: Verified GUID (0e50d5bc222746efa845806a2af0fed1) of player #3 Hemlock Kowalski
+22:02:52 BattlEye Server: (Global) Rou Kowalski: Hello Joe.. Friendly?
+22:31:05 High Alert Highlander  uses modified data file
+22:31:05 BattlEye Server: Player #4 High Alert Highlander  (190.171.107.94:62725) connected
+22:31:05 Player High Alert Highlander  connecting.
+22:31:11 BattlEye Server: Player #4 High Alert Highlander  - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+22:31:12 Player High Alert Highlander  connected (id=76561198065774594).
+22:31:12 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #4 High Alert Highlander 
+23:05:45 Player High Alert Highlander  is losing connection
+23:07:05 Player High Alert Highlander  disconnected.
+23:07:05 BattlEye Server: Player #4 High Alert Highlander  disconnected
+23:12:14 EGgamer uses modified data file
+23:12:14 BattlEye Server: Player #4 EGgamer (172.119.16.46:2304) connected
+23:12:14 Player EGgamer connecting.
+23:12:16 BattlEye Server: Player #4 EGgamer - BE GUID: e097ca3e318a93a0d353882d3135395a
+23:12:17 Player EGgamer connected (id=76561198240204908).
+23:12:17 BattlEye Server: Verified GUID (e097ca3e318a93a0d353882d3135395a) of player #4 EGgamer
+23:13:25 Vortex_14 uses modified data file
+23:13:25 BattlEye Server: Player #5 Vortex_14 (104.172.229.38:2304) connected
+23:13:25 Player Vortex_14 connecting.
+23:13:27 BattlEye Server: Player #5 Vortex_14 - BE GUID: 40decffaef9aadd8a4d245ba1419b667
+23:13:27 Player Vortex_14 conn

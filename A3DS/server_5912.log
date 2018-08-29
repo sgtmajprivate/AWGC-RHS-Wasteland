@@ -1,0 +1,64 @@
+﻿ 9:01:42 BattlEye Server: Initialized (v1.217)
+ 9:01:42 Host identity created.
+ 9:01:42 Game Port: 2307, Steam Query Port: 2308
+ 9:01:42 Mission A3Wasteland Altis v1.4c read from bank.
+ 9:01:44 Roles assigned.
+ 9:01:44 Reading mission ...
+ 9:02:20 Mission read.
+ 9:02:20 Game started.
+ 9:53:48 Pv2.TonCo uses modified data file
+ 9:53:48 BattlEye Server: Player #0 Pv2.TonCo (179.25.72.104:2309) connected
+ 9:53:48 Player Pv2.TonCo connecting.
+ 9:53:49 Pv2.LocoRip uses modified data file
+ 9:53:49 BattlEye Server: Player #1 Pv2.LocoRip (186.50.21.65:2309) connected
+ 9:53:49 Player Pv2.LocoRip connecting.
+ 9:53:49 BattlEye Server: Connected to BE Master
+ 9:53:52 BattlEye Server: Player #0 Pv2.TonCo - BE GUID: ee833b841d43b4780d30bd9849396bba
+ 9:53:52 Player Pv2.TonCo connected (id=76561198432942871).
+ 9:53:52 BattlEye Server: Verified GUID (ee833b841d43b4780d30bd9849396bba) of player #0 Pv2.TonCo
+ 9:53:53 BattlEye Server: Player #1 Pv2.LocoRip - BE GUID: 6e14f10b0ec9d34577d93c5be4489630
+ 9:53:53 Player Pv2.LocoRip connected (id=76561198274624548).
+ 9:53:53 BattlEye Server: Verified GUID (6e14f10b0ec9d34577d93c5be4489630) of player #1 Pv2.LocoRip
+10:07:45 Player Pv2.LocoRip is losing connection
+10:08:12 Player Pv2.LocoRip disconnected.
+10:08:12 BattlEye Server: Player #1 Pv2.LocoRip disconnected
+10:08:53 Pv2.LocoRip uses modified data file
+10:08:53 BattlEye Server: Player #1 Pv2.LocoRip (186.54.22.97:2309) connected
+10:08:53 Player Pv2.LocoRip connecting.
+10:08:56 BattlEye Server: Player #1 Pv2.LocoRip - BE GUID: 6e14f10b0ec9d34577d93c5be4489630
+10:08:56 Player Pv2.LocoRip connected (id=76561198274624548).
+10:08:56 BattlEye Server: Verified GUID (6e14f10b0ec9d34577d93c5be4489630) of player #1 Pv2.LocoRip
+12:17:09 Rou Kowalski uses modified data file
+12:17:09 BattlEye Server: Player #2 Rou Kowalski (73.147.1.91:2309) connected
+12:17:09 Player Rou Kowalski connecting.
+12:17:12 BattlEye Server: Player #2 Rou Kowalski - BE GUID: 58cae163ea9d3a0ff8adde240b436737
+12:17:27 Player Rou Kowalski connected (id=76561198034110598).
+12:17:27 BattlEye Server: Verified GUID (58cae163ea9d3a0ff8adde240b436737) of player #2 Rou Kowalski
+12:19:20 BattlEye Server: (Global) Rou Kowalski: Hello all and welcome, You two friendly or PVP?
+12:22:01 BattlEye Server: (Global) Rou Kowalski: ?
+12:54:45 YamaoTao uses modified data file
+12:54:45 BattlEye Server: Player #3 YamaoTao (165.84.231.22:2304) connected
+12:54:45 Player YamaoTao connecting.
+12:54:49 BattlEye Server: Player #3 YamaoTao - BE GUID: 0c803d0b99ea2d7fb874eac5d5eb418f
+12:54:49 Player YamaoTao connected (id=76561198110917948).
+12:54:49 BattlEye Server: Verified GUID (0c803d0b99ea2d7fb874eac5d5eb418f) of player #3 YamaoTao
+13:03:07 Player YamaoTao disconnected.
+13:03:07 BattlEye Server: Player #3 YamaoTao disconnected
+14:18:14 BattlEye Server: (Global) Rou Kowalski: Need help?
+14:19:28 BattlEye Server: (Global) Rou Kowalski: 2 by body, 1 in warehouse
+14:19:48 BattlEye Server: (Global) Rou Kowalski: 1 in south side of woods
+14:20:15 BattlEye Server: (Global) Rou Kowalski: now 3 in woods
+14:21:15 BattlEye Server: (Global) Rou Kowalski: they are trying to flank
+14:21:28 BattlEye Server: (Global) Rou Kowalski: one on other side of wall
+14:22:25 BattlEye Server: (Global) Rou Kowalski: still behins wall/shack, to your north east
+14:25:02 BattlEye Server: (Global) Rou Kowalski: target in woods to your south east
+14:30:33 jabep uses modified data file
+14:30:33 BattlEye Server: Player #3 jabep (47.220.249.240:2304) connected
+14:30:33 Player jabep connecting.
+14:30:38 BattlEye Server: Player #3 jabep - BE GUID: ee0ed1052aabe05df8bea6645c16e83c
+14:30:39 Player jabep connected (id=76561198096233347).
+14:30:39 BattlEye Server: Verified GUID (ee0ed1052aabe05df8bea6645c16e83c) of player #3 jabep
+14:30:59 BattlEye Server: (Global) Rou Kowalski: gratz. 
+14:33:19 BattlEye Server: (Global) Rou Kowalski: If you put it becide the heli, and use the load into comand, its safer. The crates go physical when you hold them and can blow up heli
+14:36:31 Player jabep disconnected.
+14:36:31 BattlEye Server: Player #3 jabep

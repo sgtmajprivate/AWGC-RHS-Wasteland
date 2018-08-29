@@ -1,0 +1,65 @@
+﻿15:01:38 BattlEye Server: Initialized (v1.217)
+15:01:38 Host identity created.
+15:01:38 Game Port: 2307, Steam Query Port: 2308
+15:01:38 Mission awgc_rhs_wasteland.Altis read from bank.
+15:01:39 Roles assigned.
+15:01:39 Reading mission ...
+15:02:13 Mission read.
+15:02:13 Game started.
+15:24:49 0gr3 uses modified data file
+15:24:49 BattlEye Server: Player #0 0gr3 (216.164.240.132:2309) connected
+15:24:49 Player 0gr3 connecting.
+15:24:50 BattlEye Server: Connected to BE Master
+15:24:51 BattlEye Server: Player #0 0gr3 - BE GUID: 40ade6fb1b5b1dece70e3105ff81c450
+15:24:52 Player 0gr3 connected (id=76561198026563673).
+15:24:52 BattlEye Server: Verified GUID (40ade6fb1b5b1dece70e3105ff81c450) of player #0 0gr3
+15:43:28 Player 0gr3 disconnected.
+15:43:28 BattlEye Server: Player #0 0gr3 disconnected
+17:41:19 Mason uses modified data file
+17:41:19 BattlEye Server: Player #0 Mason (71.81.137.47:2309) connected
+17:41:19 Player Mason connecting.
+17:41:22 BattlEye Server: Player #0 Mason - BE GUID: 955d09b6e1dde9360ceebc2963df084d
+17:41:22 Player Mason connected (id=76561198026943270).
+17:41:22 BattlEye Server: Verified GUID (955d09b6e1dde9360ceebc2963df084d) of player #0 Mason
+18:05:33 BattlEye Server: Failed to receive from BE Master (0)
+18:05:33 BattlEye Server: Disconnected from BE Master
+18:07:29 BattlEye Server: Connected to BE Master
+19:08:37 Player Mason disconnected.
+19:08:37 BattlEye Server: Player #0 Mason disconnected
+19:41:04 Kerensky uses modified data file
+19:41:04 BattlEye Server: Player #0 Kerensky (71.38.197.34:2309) connected
+19:41:04 Player Kerensky connecting.
+19:41:07 BattlEye Server: Player #0 Kerensky - BE GUID: bc21aa630c1102744c5083865a5c77b6
+19:41:07 Player Kerensky connected (id=76561198035921482).
+19:41:07 BattlEye Server: Verified GUID (bc21aa630c1102744c5083865a5c77b6) of player #0 Kerensky
+19:41:20 Player Kerensky: Wrong signature for file C:\Program Files (x86)\Steam\steamapps\common\Arma 3\!Workshop\@RHSUSAF\addons\rhsusf_a2port_armor.pbo
+19:41:20 Player Kerensky disconnected.
+19:41:20 BattlEye Server: Player #0 Kerensky disconnected
+19:41:40 †3AD† S.T.A.R.S. Delta 7 uses modified data file
+19:41:40 BattlEye Server: Player #0 †3AD† S.T.A.R.S. Delta 7 (24.253.88.23:2309) connected
+19:41:40 Player †3AD† S.T.A.R.S. Delta 7 connecting.
+19:41:43 BattlEye Server: Player #0 †3AD† S.T.A.R.S. Delta 7 - BE GUID: 69261f86cb518407728b8524e88c34cc
+19:41:44 Player †3AD† S.T.A.R.S. Delta 7 connected (id=76561197974818709).
+19:41:44 BattlEye Server: Verified GUID (69261f86cb518407728b8524e88c34cc) of player #0 †3AD† S.T.A.R.S. Delta 7
+19:42:51 =Don Sanchez= uses modified data file
+19:42:51 BattlEye Server: Player #1 =Don Sanchez= (76.68.184.81:2404) connected
+19:42:51 Player =Don Sanchez= connecting.
+19:42:53 BattlEye Server: Player #1 =Don Sanchez= - BE GUID: 18787274276cc63a19c7a5ea4b889abe
+19:43:06 Player =Don Sanchez= connected (id=76561198303584162).
+19:43:06 BattlEye Server: Verified GUID (18787274276cc63a19c7a5ea4b889abe) of player #1 =Don Sanchez=
+19:43:12 Kerensky uses modified data file
+19:43:12 BattlEye Server: Player #2 Kerensky (71.38.197.34:2309) connected
+19:43:12 Player Kerensky connecting.
+19:43:15 BattlEye Server: Player #2 Kerensky - BE GUID: bc21aa630c1102744c5083865a5c77b6
+19:43:15 Player Kerensky connected (id=76561198035921482).
+19:43:15 BattlEye Server: Verified GUID (bc21aa630c1102744c5083865a5c77b6) of player #2 Kerensky
+19:43:28 Player Kerensky: Wrong signature for file C:\Program Files (x86)\Steam\steamapps\common\Arma 3\!Workshop\@RHSUSAF\addons\rhsusf_a2port_armor.pbo
+19:43:28 Player Kerensky disconnected.
+19:43:28 BattlEye Server: Player #2 Kerensky disconnected
+19:46:38 Kerensky uses modified data file
+19:46:38 BattlEye Server: Player #2 Kerensky (71.38.197.34:2309) connected
+19:46:38 Player Kerensky connecting.
+19:46:41 BattlEye Server: Player #2 Kerensky - BE GUID: bc21aa630c1102744c5083865a5c77b6
+19:46:41 Player Kerensky connected (id=76561198035921482).
+19:46:41 BattlEye Server: Verified GUID (bc21aa630c1102744c5083865a5c77b6) of player #2 Kerensky
+19:46:

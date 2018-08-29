@@ -1,0 +1,133 @@
+﻿21:01:37 BattlEye Server: Initialized (v1.217)
+21:01:37 Host identity created.
+21:01:37 Game Port: 2307, Steam Query Port: 2308
+21:01:37 Mission A3Wasteland Altis v1.4c read from bank.
+21:01:39 Roles assigned.
+21:01:39 Reading mission ...
+21:02:12 Mission read.
+21:02:12 Game started.
+21:02:23 Ironside uses modified data file
+21:02:24 BattlEye Server: Player #0 Ironside (24.118.118.85:2304) connected
+21:02:24 Player Ironside connecting.
+21:02:24 BattlEye Server: Connected to BE Master
+21:02:26 BattlEye Server: Player #0 Ironside - BE GUID: 8a2cf5db8b52210b8d418782d4ba31a9
+21:02:26 Player Ironside connected (id=76561198159407384).
+21:02:26 BattlEye Server: Verified GUID (8a2cf5db8b52210b8d418782d4ba31a9) of player #0 Ironside
+21:02:45 flow uses modified data file
+21:02:45 BattlEye Server: Player #1 flow (98.223.9.47:2304) connected
+21:02:45 Player flow connecting.
+21:02:47 BattlEye Server: Player #1 flow - BE GUID: 2f1988ec1f268e92b390c1d7d06902a9
+21:02:47 Player flow connected (id=76561198397747497).
+21:02:47 BattlEye Server: Verified GUID (2f1988ec1f268e92b390c1d7d06902a9) of player #1 flow
+21:02:54 BR1_Bandit uses modified data file
+21:02:54 BattlEye Server: Player #2 BR1_Bandit (134.41.96.129:2309) connected
+21:02:54 Player BR1_Bandit connecting.
+21:02:56 BattlEye Server: Player #2 BR1_Bandit - BE GUID: 8a701e7029ec21d8e45677830a84af43
+21:02:56 Player BR1_Bandit connected (id=76561198151022635).
+21:02:56 BattlEye Server: Verified GUID (8a701e7029ec21d8e45677830a84af43) of player #2 BR1_Bandit
+21:02:57 Odhaving uses modified data file
+21:02:57 BattlEye Server: Player #3 Odhaving (208.107.215.51:2304) connected
+21:02:57 Player Odhaving connecting.
+21:03:00 BattlEye Server: Player #3 Odhaving - BE GUID: 3dd45ae2aae999a097eb909cbc8278fa
+21:03:05 Player Odhaving connected (id=76561198281946559).
+21:03:05 BattlEye Server: Verified GUID (3dd45ae2aae999a097eb909cbc8278fa) of player #3 Odhaving
+21:03:20 Mason uses modified data file
+21:03:20 BattlEye Server: Player #4 Mason (71.81.137.47:2309) connected
+21:03:20 Player Mason connecting.
+21:03:22 BattlEye Server: Player #4 Mason - BE GUID: 955d09b6e1dde9360ceebc2963df084d
+21:03:22 Player Mason connected (id=76561198026943270).
+21:03:22 BattlEye Server: Verified GUID (955d09b6e1dde9360ceebc2963df084d) of player #4 Mason
+21:07:19 BattlEye Server: (Global) Odhaving: /////s
+21:07:21 BattlEye Server: (Global) Odhaving: ///
+21:08:34 Player Odhaving is losing connection
+21:09:12 Player Odhaving kicked off by BattlEye: Client not responding
+21:09:12 Player Odhaving disconnected.
+21:10:05 Odhaving uses modified data file
+21:10:05 BattlEye Server: Player #5 Odhaving (208.107.215.51:2304) connected
+21:10:05 Player Odhaving connecting.
+21:10:06 Player Odhaving disconnected.
+21:10:06 BattlEye Server: Player #5 Odhaving disconnected
+21:11:14 Odhaving uses modified data file
+21:11:14 BattlEye Server: Player #5 Odhaving (208.107.215.51:2309) connected
+21:11:15 Player Odhaving connecting.
+21:11:17 BattlEye Server: Player #5 Odhaving - BE GUID: 3dd45ae2aae999a097eb909cbc8278fa
+21:11:19 Player Odhaving connected (id=76561198281946559).
+21:11:19 BattlEye Server: Verified GUID (3dd45ae2aae999a097eb909cbc8278fa) of player #5 Odhaving
+21:16:08 Player Odhaving disconnected.
+21:16:08 BattlEye Server: Player #5 Odhaving disconnected
+21:18:07 Trans-fights uses modified data file
+21:18:07 BattlEye Server: Player #5 Trans-fights (72.79.210.61:2309) connected
+21:18:07 Player Trans-fights connecting.
+21:18:09 BattlEye Server: Player #5 Trans-fights - BE GUID: 5963ef09c03283890a08815e3b3b11f6
+21:18:10 Player Trans-fights connected (id=76561198275319572).
+21:18:10 BattlEye Server: Verified GUID (5963ef09c03283890a08815e3b3b11f6) of player #5 Trans-fights
+21:18:12 Odhaving uses modified data file
+21:18:12 BattlEye Server: Player #6 Odhaving (208.107.215.51:2304) connected
+21:18:12 Player Odhaving connecting.
+21:18:15 BattlEye Server: Player #6 Odhaving - BE GUID: 3dd45ae2aae999a097eb909cbc8278fa
+21:18:27 Player Odhaving connected (id=76561198281946559).
+21:18:27 BattlEye Server: Verified GUID (3dd45ae2aae999a097eb909cbc8278fa) of player #6 Odhaving
+21:33:26 BattlEye Server: (Side) Trans-fights: can anyone hear me?
+21:33:41 BattlEye Server: (Side) Trans-fights: wtf
+21:34:15 BattlEye Server: (Side) BR1_Bandit: ?
+21:34:28 BattlEye Server: (Side) BR1_Bandit: u mean in the game cant anyone hear u?
+21:34:45 BattlEye Server: (Side) Trans-fights: yeah ive been talking but I guess no one can hear me?
+21:34:58 BattlEye Server: (Side) Trans-fights: my mic be fucked or my settings
+21:35:00 BattlEye Server: (Side) Trans-fights: i can hear u
+21:35:13 BattlEye Server: (Side) Trans-fights: fack
+21:35:30 BattlEye Server: (Side) Trans-fights: Is an admin on?
+21:37:33 BattlEye Server: (Side) Trans-fights: can anyone help me?
+21:39:17 Player Mason disconnected.
+21:39:17 BattlEye Server: Player #4 Mason disconnected
+21:43:02 BattlEye Server: (Side) Trans-fights: are there resupply trucks
+21:43:35 BattlEye Server: (Side) Trans-fights: if i buy one, do i still need to pay>?
+21:45:15 BattlEye Server: (Side) Trans-fights: so if i buy one for 50k, ill still have to spend 125k to use it?
+21:45:46 BattlEye Server: (Side) Trans-fights: i know
+21:45:54 Player BR1_Bandit disconnected.
+21:45:54 BattlEye Server: Player #2 BR1_Bandit disconnected
+21:47:19 BattlEye Server: (Side) Trans-fights: mission?
+21:48:50 BattlEye Server: (Side) Trans-fights: invite me to group
+21:49:38 BattlEye Server: (Side) Trans-fights: iton
+21:49:40 BattlEye Server: (Side) Trans-fights: iron
+21:50:41 BattlEye Server: (Group) Trans-fights: i need an admin cuz the restart didnt save my resupply
+21:52:33 BattlEye Server: (Group) Trans-fights: where u guys at
+21:56:34 BattlEye Server: (Group) Trans-fights: WTF
+21:56:40 BattlEye Server: (Group) Odhaving: Its ok
+21:56:45 BattlEye Server: (Group) Odhaving: This is normal
+21:57:04 BattlEye Server: (Group) Trans-fights: BRO
+21:57:14 BattlEye Server: (Group) Trans-fights: i just crashed but landed at the same time
+21:57:18 BattlEye Server: (Group) Trans-fights: if onl;y you could see
+21:57:28 BattlEye Server: (Group) Trans-fights: i need help at weapon smugglers
+21:58:54 BattlEye Server: (Group) Trans-fights: wait till u see the jet
+22:00:28 BattlEye Server: (Group) Trans-fights: fuck
+22:01:10 Player Trans-fights disconnected.
+22:01:10 BattlEye Server: Player #5 Trans-fights disconnected
+22:15:08 High Alert Highlander  uses modified data file
+22:15:08 BattlEye Server: Player #7 High Alert Highlander  (190.171.107.63:62725) connected
+22:15:08 Player High Alert Highlander  connecting.
+22:15:12 BattlEye Server: Player #7 High Alert Highlander  - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+22:15:14 Player High Alert Highlander  connected (id=76561198065774594).
+22:15:15 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #7 High Alert Highlander 
+22:15:42 Player High Alert Highlander  disconnected.
+22:15:42 BattlEye Server: Player #7 High Alert Highlander  disconnected
+22:16:00 Yablo4ko uses modified data file
+22:16:00 BattlEye Server: Player #7 Yablo4ko (46.45.37.1:2304) connected
+22:16:00 Player Yablo4ko connecting.
+22:16:03 BattlEye Server: Player #7 Yablo4ko - BE GUID: e41914cb3d5411c6737b6e79a3e1b8a5
+22:16:03 Player Yablo4ko connected (id=76561198086596123).
+22:16:03 BattlEye Server: Verified GUID (e41914cb3d5411c6737b6e79a3e1b8a5) of player #7 Yablo4ko
+22:37:53 Player Ironside disconnected.
+22:37:53 BattlEye Server: Player #0 Ironside disconnected
+22:41:43 Player Odhaving disconnected.
+22:41:43 BattlEye Server: Player #6 Odhaving disconnected
+22:42:10 Player flow disconnected.
+22:42:10 BattlEye Server: Player #1 flow disconnected
+22:44:25 Player Yablo4ko disconnected.
+22:44:25 BattlEye Server: Player #7 Yablo4ko disconnected
+ 0:41:42 Isaac uses modified data file
+ 0:41:42 BattlEye Server: Player #0 Isaac (14.201.123.229:2309) connected
+ 0:41:42 Player Isaac connecting.
+ 0:41:45 BattlEye Server: Player #0 Isaac - BE GUID: 0eedee1f512207f60f338aa74f211d5f
+ 0:41:46 Player Isaac connected (id=76561198096351731).
+ 0:41:46 BattlEye Server: Verified GUID (0eedee1f512207f60f338aa74f211d5f) of player #0 Isaac
+ 1:44:11 BattlEye

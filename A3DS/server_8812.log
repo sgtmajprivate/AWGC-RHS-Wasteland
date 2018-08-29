@@ -1,0 +1,120 @@
+﻿15:02:27 BattlEye Server: Initialized (v1.217)
+15:02:27 Host identity created.
+15:02:27 Game Port: 2307, Steam Query Port: 2308
+15:02:27 Mission A3Wasteland Altis v1.4c read from bank.
+15:02:29 Roles assigned.
+15:02:29 Reading mission ...
+15:02:59 Mission read.
+15:03:00 Game started.
+15:44:36 Shudderfly uses modified data file
+15:44:36 BattlEye Server: Player #0 Shudderfly (162.200.20.108:2304) connected
+15:44:36 Player Shudderfly connecting.
+15:44:37 BattlEye Server: Connected to BE Master
+15:44:38 BattlEye Server: Player #0 Shudderfly - BE GUID: 697f1d9131c56f8ea012a4359839a8d5
+15:44:38 Player Shudderfly connected (id=76561197971063519).
+15:44:39 BattlEye Server: Verified GUID (697f1d9131c56f8ea012a4359839a8d5) of player #0 Shudderfly
+15:49:13 Rou Kowalski uses modified data file
+15:49:13 BattlEye Server: Player #1 Rou Kowalski (73.147.1.91:2309) connected
+15:49:13 Player Rou Kowalski connecting.
+15:49:15 BattlEye Server: Player #1 Rou Kowalski - BE GUID: 58cae163ea9d3a0ff8adde240b436737
+15:49:18 Player Rou Kowalski connected (id=76561198034110598).
+15:49:18 BattlEye Server: Verified GUID (58cae163ea9d3a0ff8adde240b436737) of player #1 Rou Kowalski
+15:55:41 BattlEye Server: (Global) Rou Kowalski: ?
+15:55:51 BattlEye Server: (Global) Shudderfly: ?
+16:27:54 ANATOLI CHEJOV uses modified data file
+16:27:54 BattlEye Server: Player #2 ANATOLI CHEJOV (190.171.107.50:62725) connected
+16:27:54 Player ANATOLI CHEJOV connecting.
+16:27:58 BattlEye Server: Player #2 ANATOLI CHEJOV - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+16:27:58 Player ANATOLI CHEJOV connected (id=76561198065774594).
+16:27:58 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #2 ANATOLI CHEJOV
+16:28:38 Mason uses modified data file
+16:28:38 BattlEye Server: Player #3 Mason (71.81.137.47:2309) connected
+16:28:38 Player Mason connecting.
+16:28:40 BattlEye Server: Player #3 Mason - BE GUID: 955d09b6e1dde9360ceebc2963df084d
+16:28:40 Player Mason connected (id=76561198026943270).
+16:28:40 BattlEye Server: Verified GUID (955d09b6e1dde9360ceebc2963df084d) of player #3 Mason
+16:30:27 BattlEye Server: (Side) Mason: can you invite me?
+16:31:19 BattlEye Server: (Group) Mason: thanks
+16:32:51 Player ANATOLI CHEJOV disconnected.
+16:32:51 BattlEye Server: Player #2 ANATOLI CHEJOV disconnected
+16:35:23 High Alert Highlander  uses modified data file
+16:35:23 BattlEye Server: Player #4 High Alert Highlander  (190.171.107.50:62725) connected
+16:35:23 Player High Alert Highlander  connecting.
+16:35:25 BattlEye Server: Player #4 High Alert Highlander  - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+16:35:27 Player High Alert Highlander  connected (id=76561198065774594).
+16:35:27 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #4 High Alert Highlander 
+16:37:56 Wrong admin password entered by player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+16:38:48 Player High Alert Highlander  is losing connection
+16:40:08 Player High Alert Highlander  disconnected.
+16:40:08 BattlEye Server: Player #4 High Alert Highlander  disconnected
+16:41:25 Userr uses modified data file
+16:41:25 BattlEye Server: Player #4 Userr (47.148.83.36:2304) connected
+16:41:25 Player Userr connecting.
+16:41:27 BattlEye Server: Player #4 Userr - BE GUID: dd4206f7e4e2e261270db61ea3b6bde1
+16:41:27 Player Userr connected (id=76561198212567220).
+16:41:27 BattlEye Server: Verified GUID (dd4206f7e4e2e261270db61ea3b6bde1) of player #4 Userr
+16:42:40 Player Userr disconnected.
+16:42:40 BattlEye Server: Player #4 Userr disconnected
+16:47:17 High Alert Highlander  uses modified data file
+16:47:17 BattlEye Server: Player #4 High Alert Highlander  (190.171.107.50:62725) connected
+16:47:17 Player High Alert Highlander  connecting.
+16:47:21 BattlEye Server: Player #4 High Alert Highlander  - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+16:47:23 Player High Alert Highlander  connected (id=76561198065774594).
+16:47:23 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #4 High Alert Highlander 
+16:47:49 Player High Alert Highlander  disconnected.
+16:47:49 BattlEye Server: Player #4 High Alert Highlander  disconnected
+16:50:21 High Alert Highlander  uses modified data file
+16:50:21 BattlEye Server: Player #4 High Alert Highlander  (190.171.107.50:62725) connected
+16:50:21 Player High Alert Highlander  connecting.
+16:50:23 BattlEye Server: Player #4 High Alert Highlander  - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+16:50:25 Player High Alert Highlander  connected (id=76561198065774594).
+16:50:25 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #4 High Alert Highlander 
+16:52:27 BattlEye Server: (Side) Mason: nice to see you properly dressed
+16:53:41 Wrong admin password entered by player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+16:54:57 BattlEye Server: (Group) High Alert Highlander : guys imdoing some testing 
+16:55:13 BattlEye Server: (Group) High Alert Highlander : not playing 
+16:55:22 BattlEye Server: (Group) High Alert Highlander : perfect 
+16:55:27 BattlEye Server: (Group) High Alert Highlander : iknow 
+16:55:42 BattlEye Server: (Group) High Alert Highlander : i disablethat with srag 
+16:56:04 Player Rou Kowalski disconnected.
+16:56:04 BattlEye Server: Player #1 Rou Kowalski disconnected
+16:57:09 BattlEye Server: (Group) High Alert Highlander : i was trying to access the rights but not clue how
+16:57:16 BattlEye Server: (Group) High Alert Highlander : im wroking on it {
+16:57:38 Rou Kowalski uses modified data file
+16:57:38 BattlEye Server: Player #5 Rou Kowalski (73.147.1.91:2309) connected
+16:57:38 Player Rou Kowalski connecting.
+16:57:41 BattlEye Server: Player #5 Rou Kowalski - BE GUID: 58cae163ea9d3a0ff8adde240b436737
+16:57:42 BattlEye Server: (Group) High Alert Highlander : yes
+16:57:43 Player Rou Kowalski connected (id=76561198034110598).
+16:57:43 BattlEye Server: Verified GUID (58cae163ea9d3a0ff8adde240b436737) of player #5 Rou Kowalski
+16:58:03 Wrong admin password entered by player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+16:59:11 Wrong admin password entered by player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+17:09:30 BattlEye Server: (Global) High Alert Highlander : Guys imsorry to say this 
+17:09:40 BattlEye Server: (Global) Shudderfly: ?
+17:09:45 BattlEye Server: (Global) High Alert Highlander : but i need everyone tolog off
+17:09:53 BattlEye Server: (Global) Shudderfly: Why'st hat?
+17:09:55 BattlEye Server: (Global) High Alert Highlander : we need to do a server restart 
+17:10:01 BattlEye Server: (Global) Shudderfly: Somethin' broke?
+17:10:17 BattlEye Server: (Global) High Alert Highlander : sopls u canlog back in in aboutr 10mintunees
+17:10:33 Player Rou Kowalski disconnected.
+17:10:33 BattlEye Server: Player #5 Rou Kowalski disconnected
+17:10:46 BattlEye Server: (Global) High Alert Highlander : thank you for understanding  bye 
+17:10:49 Player Mason disconnected.
+17:10:49 BattlEye Server: Player #3 Mason disconnected
+17:10:55 BattlEye Server: (Global) Shudderfly: gimme a sec
+17:10:59 BattlEye Server: (Global) Shudderfly: gotta get ownership of this car
+17:11:33 Player High Alert Highlander  disconnected.
+17:11:33 BattlEye Server: Player #4 High Alert Highlander  disconnected
+17:11:42 Player Shudderfly disconnected.
+17:11:42 BattlEye Server: Player #0 Shudderfly disconnected
+17:14:56 High Alert Highlander  uses modified data file
+17:14:56 BattlEye Server: Player #0 High Alert Highlander  (190.171.107.50:62725) connected
+17:14:56 Player High Alert Highlander  connecting.
+17:14:58 BattlEye Server: Player #0 High Alert Highlander  - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+17:15:00 Player High Alert Highlander  connected (id=76561198065774594).
+17:15:00 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #0 High Alert Highlander 
+17:16:08 Player High Alert Highlander  disconnected.
+17:16:08 BattlEye Server: Player #0 High Alert Highlander  disconnected
+17:17:03 psxboy uses modified data file
+17:17:03 BattlEye Server: Player #0 psxboy (71.238.6.29:2309) connected
+17:17

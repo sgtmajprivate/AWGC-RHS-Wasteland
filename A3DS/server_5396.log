@@ -1,0 +1,69 @@
+﻿ 3:01:31 BattlEye Server: Initialized (v1.217)
+ 3:01:31 Host identity created.
+ 3:01:32 Game Port: 2307, Steam Query Port: 2308
+ 3:01:32 Mission A3Wasteland Altis v1.4c read from bank.
+ 3:01:33 Roles assigned.
+ 3:01:33 Reading mission ...
+ 3:02:04 Mission read.
+ 3:02:04 Game started.
+ 3:05:02 Cdt. Chief uses modified data file
+ 3:05:02 BattlEye Server: Player #0 Cdt. Chief (68.230.78.151:2309) connected
+ 3:05:02 Player Cdt. Chief connecting.
+ 3:05:02 BattlEye Server: Connected to BE Master
+ 3:05:05 BattlEye Server: Player #0 Cdt. Chief - BE GUID: af11a3a01662bb40284c76228333ac1f
+ 3:05:06 Player Cdt. Chief connected (id=76561198311827157).
+ 3:05:06 BattlEye Server: Verified GUID (af11a3a01662bb40284c76228333ac1f) of player #0 Cdt. Chief
+ 3:24:37 Varluk uses modified data file
+ 3:24:37 BattlEye Server: Player #1 Varluk (188.170.74.180:1151) connected
+ 3:24:37 Player Varluk connecting.
+ 3:24:40 BattlEye Server: Player #1 Varluk - BE GUID: 40a5c124c81a14d4235b4453eb839ddf
+ 3:24:41 Player Varluk connected (id=76561198022459854).
+ 3:24:41 BattlEye Server: Verified GUID (40a5c124c81a14d4235b4453eb839ddf) of player #1 Varluk
+ 3:35:09 Player Varluk kicked off by BattlEye: Query Timeout
+ 3:35:09 Player Varluk disconnected.
+ 3:46:40 Player Cdt. Chief disconnected.
+ 3:46:40 BattlEye Server: Player #0 Cdt. Chief disconnected
+ 4:47:31 Мотиус uses modified data file
+ 4:47:31 BattlEye Server: Player #0 Мотиус (217.107.124.126:42657) connected
+ 4:47:31 Player Мотиус connecting.
+ 4:47:34 BattlEye Server: Player #0 Мотиус - BE GUID: 2954e377faa5e32fd2e4b41a09df7684
+ 4:47:34 Player Мотиус connected (id=76561198170950578).
+ 4:47:34 BattlEye Server: Verified GUID (2954e377faa5e32fd2e4b41a09df7684) of player #0 Мотиус
+ 4:49:50 Akov uses modified data file
+ 4:49:50 BattlEye Server: Player #1 Akov (5.100.74.198:2304) connected
+ 4:49:50 Player Akov connecting.
+ 4:49:53 BattlEye Server: Player #1 Akov - BE GUID: 99cc84a8ff4b4f16ac89e1fb8cbe0431
+ 4:49:53 Player Akov connected (id=76561198097571481).
+ 4:49:53 BattlEye Server: Verified GUID (99cc84a8ff4b4f16ac89e1fb8cbe0431) of player #1 Akov
+ 5:15:11 alexa uses modified data file
+ 5:15:11 BattlEye Server: Player #2 alexa (72.179.248.234:2309) connected
+ 5:15:11 Player alexa connecting.
+ 5:15:13 BattlEye Server: Player #2 alexa - BE GUID: 9df754327a039bcb46bb69b68daf8871
+ 5:15:14 Player alexa connected (id=76561198127113194).
+ 5:15:14 BattlEye Server: Verified GUID (9df754327a039bcb46bb69b68daf8871) of player #2 alexa
+ 5:16:54 Арвел uses modified data file
+ 5:16:54 BattlEye Server: Player #3 Арвел (31.130.95.149:2304) connected
+ 5:16:54 Player Арвел connecting.
+ 5:16:57 BattlEye Server: Player #3 Арвел - BE GUID: a2c514f01869a830d8e9ea90685b0f22
+ 5:16:57 Player Арвел connected (id=76561198305541717).
+ 5:16:57 BattlEye Server: Verified GUID (a2c514f01869a830d8e9ea90685b0f22) of player #3 Арвел
+ 5:19:40 Player alexa disconnected.
+ 5:19:40 BattlEye Server: Player #2 alexa disconnected
+ 5:30:39 alexa uses modified data file
+ 5:30:39 BattlEye Server: Player #4 alexa (72.179.248.234:2309) connected
+ 5:30:40 Player alexa connecting.
+ 5:30:42 BattlEye Server: Player #4 alexa - BE GUID: 9df754327a039bcb46bb69b68daf8871
+ 5:30:42 Player alexa connected (id=76561198127113194).
+ 5:30:42 BattlEye Server: Verified GUID (9df754327a039bcb46bb69b68daf8871) of player #4 alexa
+ 5:31:32 Player Akov disconnected.
+ 5:31:32 BattlEye Server: Player #1 Akov disconnected
+ 5:38:17 Player alexa kicked off by BattlEye: Client not responding
+ 5:38:17 Player alexa disconnected.
+ 5:41:36 alexa uses modified data file
+ 5:41:36 BattlEye Server: Player #4 alexa (72.179.248.234:2309) connected
+ 5:41:36 Player alexa connecting.
+ 5:41:38 BattlEye Server: Player #4 alexa - BE GUID: 9df754327a039bcb46bb69b68daf8871
+ 5:41:39 Player alexa connected (id=76561198127113194).
+ 5:41:39 BattlEye Server: Verified GUID (9df754327a039bcb46bb69b68daf8871) of player #4 alexa
+ 5:56:21 High Alert Highlander  uses modified data file
+ 5:56:21 BattlEye Server: Player #5 High Alert Highlande

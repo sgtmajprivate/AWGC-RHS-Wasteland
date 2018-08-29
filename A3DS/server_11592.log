@@ -1,0 +1,69 @@
+﻿ 3:01:52 BattlEye Server: Initialized (v1.217)
+ 3:01:52 Host identity created.
+ 3:01:52 Game Port: 2307, Steam Query Port: 2308
+ 3:01:52 Mission A3Wasteland Altis v1.4c read from bank.
+ 3:01:54 Roles assigned.
+ 3:01:54 Reading mission ...
+ 3:02:30 Mission read.
+ 3:02:30 Voodoo uses modified data file
+ 3:02:30 BattlEye Server: Player #0 Voodoo (173.28.50.147:2309) connected
+ 3:02:30 Player Voodoo connecting.
+ 3:02:30 Game started.
+ 3:02:31 BattlEye Server: Connected to BE Master
+ 3:02:32 BattlEye Server: Player #0 Voodoo - BE GUID: 9605ad9547ca662373aeb401ac8b079c
+ 3:02:33 Player Voodoo connected (id=76561198139226388).
+ 3:02:33 BattlEye Server: Verified GUID (9605ad9547ca662373aeb401ac8b079c) of player #0 Voodoo
+ 3:04:16 Tactical_Ranger uses modified data file
+ 3:04:16 BattlEye Server: Player #1 Tactical_Ranger (210.92.111.107:2309) connected
+ 3:04:16 Player Tactical_Ranger connecting.
+ 3:04:19 BattlEye Server: Player #1 Tactical_Ranger - BE GUID: cd4eec4ae70cc44750710d606baa71e6
+ 3:04:22 Player Tactical_Ranger connected (id=76561198144057706).
+ 3:04:22 BattlEye Server: Verified GUID (cd4eec4ae70cc44750710d606baa71e6) of player #1 Tactical_Ranger
+ 3:56:36 BattlEye Server: (Side) Voodoo: If you can get to my body I have a spawn beacon on it
+ 3:57:25 BattlEye Server: (Side) Voodoo: Brb
+ 4:35:18 BattlEye Server: (Side) Voodoo: Wanna be a ground patrol now? xD
+ 4:37:52 Полынь uses modified data file
+ 4:37:52 BattlEye Server: Player #2 Полынь (31.23.129.71:2309) connected
+ 4:37:52 Player Полынь connecting.
+ 4:38:05 Player Полынь disconnected.
+ 4:38:06 BattlEye Server: Player #2 Полынь disconnected
+ 5:24:18 BattlEye Server: (Side) Voodoo: Gnna revive or not caus e I gotta go
+ 5:25:40 Player Voodoo disconnected.
+ 5:25:40 BattlEye Server: Player #0 Voodoo disconnected
+ 5:47:04 Player Tactical_Ranger disconnected.
+ 5:47:04 BattlEye Server: Player #1 Tactical_Ranger disconnected
+ 6:14:04 benja uses modified data file
+ 6:14:04 BattlEye Server: Player #0 benja (108.71.232.101:2304) connected
+ 6:14:04 Player benja connecting.
+ 6:14:05 BattlEye Server: Player #0 benja - BE GUID: a5c84aad755719c362202a2d4fecfe70
+ 6:14:06 Player benja connected (id=76561198847976793).
+ 6:14:06 BattlEye Server: Verified GUID (a5c84aad755719c362202a2d4fecfe70) of player #0 benja
+ 6:14:06 Player benja disconnected.
+ 6:14:06 BattlEye Server: Player #0 benja disconnected
+ 6:16:49 RCT.MASSEY.T uses modified data file
+ 6:16:49 BattlEye Server: Player #0 RCT.MASSEY.T (174.194.24.17:7775) connected
+ 6:16:49 Player RCT.MASSEY.T connecting.
+ 6:16:51 BattlEye Server: Player #0 RCT.MASSEY.T - BE GUID: c32ead9d50d7c8b043291951e92544ad
+ 6:16:52 Player RCT.MASSEY.T connected (id=76561198036148836).
+ 6:16:52 BattlEye Server: Verified GUID (c32ead9d50d7c8b043291951e92544ad) of player #0 RCT.MASSEY.T
+ 6:55:12 CPT BROOKLYN uses modified data file
+ 6:55:12 BattlEye Server: Player #1 CPT BROOKLYN (78.147.201.122:2404) connected
+ 6:55:12 Player CPT BROOKLYN connecting.
+ 6:55:15 BattlEye Server: Player #1 CPT BROOKLYN - BE GUID: 3916055cfde73dce23f7787ba209548f
+ 6:55:24 Player CPT BROOKLYN connected (id=76561198387401971).
+ 6:55:24 BattlEye Server: Verified GUID (3916055cfde73dce23f7787ba209548f) of player #1 CPT BROOKLYN
+ 6:59:33 Player CPT BROOKLYN: Signature check timed out
+ 6:59:33 Player CPT BROOKLYN disconnected.
+ 6:59:33 BattlEye Server: Player #1 CPT BROOKLYN disconnected
+ 7:17:28 Player RCT.MASSEY.T disconnected.
+ 7:17:28 BattlEye Server: Player #0 RCT.MASSEY.T disconnected
+ 8:08:37 Bob Lee uses modified data file
+ 8:08:37 BattlEye Server: Player #0 Bob Lee (217.42.61.228:2309) connected
+ 8:08:37 Player Bob Lee connecting.
+ 8:08:41 BattlEye Server: Player #0 Bob Lee - BE GUID: 52d9ca92b8c3298ec24172bdac71006f
+ 8:08:41 Player Bob Lee connected (id=76561198354803567).
+ 8:08:41 BattlEye Server: Verified GUID (52d9ca92b8c3298ec24172bdac71006f) of player #0 Bob Lee
+ 8:12:58 Player Bob Lee: Signature check timed out
+ 8:12:58 Player Bob Lee disconnected.
+ 8:12:58 BattlEye Server: Player #0 Bob Lee disconnected
+ 8:55:00 Failed attempt to execu

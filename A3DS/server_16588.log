@@ -1,0 +1,109 @@
+﻿15:01:36 BattlEye Server: Initialized (v1.217)
+15:01:36 Host identity created.
+15:01:36 Game Port: 2307, Steam Query Port: 2308
+15:01:36 Mission A3Wasteland Altis v1.4c read from bank.
+15:01:38 Roles assigned.
+15:01:38 Reading mission ...
+15:02:09 Mission read.
+15:02:09 Game started.
+15:19:27 Mason uses modified data file
+15:19:27 BattlEye Server: Player #0 Mason (71.81.137.47:2309) connected
+15:19:27 Player Mason connecting.
+15:19:28 BattlEye Server: Connected to BE Master
+15:19:29 BattlEye Server: Player #0 Mason - BE GUID: 955d09b6e1dde9360ceebc2963df084d
+15:19:30 Player Mason connected (id=76561198026943270).
+15:19:30 BattlEye Server: Verified GUID (955d09b6e1dde9360ceebc2963df084d) of player #0 Mason
+15:23:33 High Alert Highlander  uses modified data file
+15:23:33 BattlEye Server: Player #1 High Alert Highlander  (190.171.107.98:62725) connected
+15:23:33 Player High Alert Highlander  connecting.
+15:23:37 BattlEye Server: Player #1 High Alert Highlander  - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+15:23:40 Player High Alert Highlander  connected (id=76561198065774594).
+15:23:40 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #1 High Alert Highlander 
+15:24:01 Player High Alert Highlander  disconnected.
+15:24:01 BattlEye Server: Player #1 High Alert Highlander  disconnected
+17:18:44 Elian uses modified data file
+17:18:44 BattlEye Server: Player #1 Elian (160.3.211.39:2309) connected
+17:18:44 Player Elian connecting.
+17:18:46 BattlEye Server: Player #1 Elian - BE GUID: 1cd4d73decebe31b06050102803b6a2f
+17:18:47 Player Elian connected (id=76561198169214534).
+17:18:47 BattlEye Server: Verified GUID (1cd4d73decebe31b06050102803b6a2f) of player #1 Elian
+17:18:54 Player Elian disconnected.
+17:18:54 BattlEye Server: Player #1 Elian disconnected
+17:52:48 Joe Vanderbilt uses modified data file
+17:52:48 BattlEye Server: Player #1 Joe Vanderbilt (73.226.6.127:2309) connected
+17:52:49 Player Joe Vanderbilt connecting.
+17:52:51 BattlEye Server: Player #1 Joe Vanderbilt - BE GUID: 9f1dadae5bbf291f4bc740d8163b75b8
+17:52:51 Player Joe Vanderbilt connected (id=76561198136555202).
+17:52:51 BattlEye Server: Verified GUID (9f1dadae5bbf291f4bc740d8163b75b8) of player #1 Joe Vanderbilt
+17:52:56 Player Joe Vanderbilt disconnected.
+17:52:56 BattlEye Server: Player #1 Joe Vanderbilt disconnected
+18:22:20 Medic uses modified data file
+18:22:20 BattlEye Server: Player #1 Medic (50.120.191.150:2309) connected
+18:22:20 Player Medic connecting.
+18:22:23 BattlEye Server: Player #1 Medic - BE GUID: 576d2b2915fbe20e9ce3bdab7227152e
+18:22:23 Player Medic connected (id=76561198003866194).
+18:22:23 BattlEye Server: Verified GUID (576d2b2915fbe20e9ce3bdab7227152e) of player #1 Medic
+18:23:59 Player Medic disconnected.
+18:23:59 BattlEye Server: Player #1 Medic disconnected
+18:55:23 High Alert Highlander  uses modified data file
+18:55:23 BattlEye Server: Player #1 High Alert Highlander  (190.171.107.98:62725) connected
+18:55:23 Player High Alert Highlander  connecting.
+18:55:27 BattlEye Server: Player #1 High Alert Highlander  - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+18:55:30 Player High Alert Highlander  connected (id=76561198065774594).
+18:55:30 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #1 High Alert Highlander 
+18:57:21 Wrong admin password entered by player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+18:57:35 Wrong admin password entered by player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+18:58:33 Wrong admin password entered by player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+18:59:19 Wrong admin password entered by player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+19:00:40 Wrong admin password entered by player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+19:02:27 BattlEye Server: (Side) Mason: hi
+19:02:43 BattlEye Server: (Side) High Alert Highlander : hi mason
+19:03:28 BattlEye Server: (Side) High Alert Highlander : it seems that thereis aproblem with the admin console i i cant log in as admin so im checking onthat 
+19:03:53 BattlEye Server: (Side) Mason: ok, when your free let me now, have something to show you
+19:22:57 Player High Alert Highlander  disconnected.
+19:22:57 BattlEye Server: Player #1 High Alert Highlander  disconnected
+20:03:00 High Alert Highlander  uses modified data file
+20:03:00 BattlEye Server: Player #1 High Alert Highlander  (190.171.107.98:62725) connected
+20:03:00 Player High Alert Highlander  connecting.
+20:03:04 BattlEye Server: Player #1 High Alert Highlander  - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+20:03:07 Player High Alert Highlander  connected (id=76561198065774594).
+20:03:07 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #1 High Alert Highlander 
+20:05:36 BattlEye Server: (Side) High Alert Highlander : hey Mason what u want to show me 
+20:06:09 BattlEye Server: (Side) High Alert Highlander : im not will be playing armaforawileimgoing totake vacations from this game
+20:06:14 BattlEye Server: (Side) High Alert Highlander : yesi can hear u
+20:07:15 BattlEye Server: (Side) High Alert Highlander : itsbeen toomuch of this game
+20:07:40 BattlEye Server: (Side) High Alert Highlander : so im out for now will be playing someting else
+20:07:58 BattlEye Server: (Side) High Alert Highlander : Sarg will be admin the server 
+20:08:26 BattlEye Server: (Side) High Alert Highlander : he is never in  but i gueess he will findout the way 
+20:09:00 BattlEye Server: (Side) High Alert Highlander : Dont know bro dont know
+20:09:28 BattlEye Server: (Side) High Alert Highlander : idont have admin right s
+20:09:48 BattlEye Server: (Side) High Alert Highlander : imjust anadmin by name nothing else
+20:10:27 BattlEye Server: (Side) High Alert Highlander : he did not tell me that he did that 
+20:10:38 BattlEye Server: (Side) High Alert Highlander : he just tookme off the rights 
+20:10:58 BattlEye Server: (Side) High Alert Highlander : ok basically this was his answer 
+20:11:12 BattlEye Server: (Side) High Alert Highlander : the 3  we pay that 
+20:11:29 BattlEye Server: (Side) High Alert Highlander : 3 people diferents jobs 
+20:11:51 BattlEye Server: (Side) High Alert Highlander : at the end he is the one  who pays the more
+20:13:37 BattlEye Server: (Side) High Alert Highlander : check discord
+20:15:12 BattlEye Server: (Side) High Alert Highlander : i wont be admin just by name
+20:15:24 BattlEye Server: (Side) High Alert Highlander : taking shit fromstupid players
+20:15:40 BattlEye Server: (Side) High Alert Highlander : admin a server that i diont have rights there
+20:15:54 BattlEye Server: (Side) High Alert Highlander : working my assoff 
+20:16:08 BattlEye Server: (Side) High Alert Highlander : tobring peoplemaintainning them
+20:16:14 BattlEye Server: (Side) High Alert Highlander : bieng a guest 
+20:16:23 BattlEye Server: (Side) High Alert Highlander : be in topof all iussues 
+20:16:33 BattlEye Server: (Side) High Alert Highlander : fix thedamnthings
+20:16:46 BattlEye Server: (Side) High Alert Highlander : so he can guive that job tosomeone else
+20:17:00 BattlEye Server: (Side) High Alert Highlander : yes i do
+20:17:10 BattlEye Server: (Side) High Alert Highlander : yes 
+20:17:30 BattlEye Server: (Side) High Alert Highlander : 30hour
+20:17:43 BattlEye Server: (Side) High Alert Highlander : 30 min 
+20:18:26 BattlEye Server: (Side) High Alert Highlander : i seeurpoint
+20:18:48 BattlEye Server: (Side) High Alert Highlander : yes
+20:19:02 BattlEye Server: (Side) High Alert Highlander : epoch is amazing 
+20:19:52 BattlEye Server: (Side) High Alert Highlander : no  in epoch u make  money or by killing or by scavaging 
+20:20:06 BattlEye Server: (Side) High Alert Highlander : no that much in killing 
+20:20:18 BattlEye Server: (Side) High Alert Highlander : more like in  scavaging 
+20:20:32 BattlEye Server: (Side) High Alert Highlander : no you build the base by chopping wood
+20:20:42 BattlEye Server: (Side) High Alert Highlander : crafting metals 
+20:21:15 BattlEye Server: (Side) High Alert Highlander

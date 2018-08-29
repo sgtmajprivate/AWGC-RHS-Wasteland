@@ -1,0 +1,134 @@
+﻿ 9:01:33 BattlEye Server: Initialized (v1.217)
+ 9:01:33 Host identity created.
+ 9:01:33 Game Port: 2307, Steam Query Port: 2308
+ 9:01:33 Mission A3Wasteland Altis v1.4c read from bank.
+ 9:01:34 Roles assigned.
+ 9:01:34 Reading mission ...
+ 9:02:05 Mission read.
+ 9:02:05 Game started.
+ 9:12:48 Feller uses modified data file
+ 9:12:48 BattlEye Server: Player #0 Feller (68.251.245.45:2309) connected
+ 9:12:48 Player Feller connecting.
+ 9:12:49 BattlEye Server: Connected to BE Master
+ 9:12:50 BattlEye Server: Player #0 Feller - BE GUID: 57722fbe19de6869f5a7407356ceaaba
+ 9:12:51 Player Feller connected (id=76561198044427738).
+ 9:12:51 BattlEye Server: Verified GUID (57722fbe19de6869f5a7407356ceaaba) of player #0 Feller
+10:54:44 karmay uses modified data file
+10:54:44 BattlEye Server: Player #1 karmay (2.139.2.164:2309) connected
+10:54:44 Player karmay connecting.
+10:54:47 BattlEye Server: Player #1 karmay - BE GUID: e31f124e7d128a472e667d56f28850b7
+10:54:47 Player karmay connected (id=76561198142708997).
+10:54:47 BattlEye Server: Verified GUID (e31f124e7d128a472e667d56f28850b7) of player #1 karmay
+11:12:05 Archie uses modified data file
+11:12:05 BattlEye Server: Player #2 Archie (172.9.169.67:2309) connected
+11:12:05 Player Archie connecting.
+11:12:08 BattlEye Server: Player #2 Archie - BE GUID: 8fb1df81d580cabe4592325c876aa692
+11:12:09 Player Archie connected (id=76561198203369788).
+11:12:09 BattlEye Server: Verified GUID (8fb1df81d580cabe4592325c876aa692) of player #2 Archie
+11:38:23 Player Feller disconnected.
+11:38:23 BattlEye Server: Player #0 Feller disconnected
+11:38:36 Player Archie disconnected.
+11:38:36 BattlEye Server: Player #2 Archie disconnected
+12:01:20 SheerEffort uses modified data file
+12:01:20 BattlEye Server: Player #2 SheerEffort (98.160.113.183:2304) connected
+12:01:20 Player SheerEffort connecting.
+12:01:22 BattlEye Server: Player #2 SheerEffort - BE GUID: 6c1f9f4d8df5a8e73fd1b3574ee573ae
+12:01:23 Player SheerEffort connected (id=76561198020818602).
+12:01:23 BattlEye Server: Verified GUID (6c1f9f4d8df5a8e73fd1b3574ee573ae) of player #2 SheerEffort
+12:03:33 Player SheerEffort disconnected.
+12:03:33 BattlEye Server: Player #2 SheerEffort disconnected
+12:03:53 SheerEffort uses modified data file
+12:03:53 BattlEye Server: Player #2 SheerEffort (98.160.113.183:2304) connected
+12:03:53 Player SheerEffort connecting.
+12:03:55 BattlEye Server: Player #2 SheerEffort - BE GUID: 6c1f9f4d8df5a8e73fd1b3574ee573ae
+12:03:55 Player SheerEffort connected (id=76561198020818602).
+12:03:55 BattlEye Server: Verified GUID (6c1f9f4d8df5a8e73fd1b3574ee573ae) of player #2 SheerEffort
+12:04:00 Player SheerEffort disconnected.
+12:04:00 BattlEye Server: Player #2 SheerEffort disconnected
+12:26:08 Rou Kowalski uses modified data file
+12:26:08 BattlEye Server: Player #2 Rou Kowalski (73.147.1.91:2309) connected
+12:26:08 Player Rou Kowalski connecting.
+12:26:11 BattlEye Server: Player #2 Rou Kowalski - BE GUID: 58cae163ea9d3a0ff8adde240b436737
+12:26:14 Player Rou Kowalski connected (id=76561198034110598).
+12:26:14 BattlEye Server: Verified GUID (58cae163ea9d3a0ff8adde240b436737) of player #2 Rou Kowalski
+12:30:34 João uses modified data file
+12:30:34 BattlEye Server: Player #3 João (187.101.180.210:2304) connected
+12:30:34 Player João connecting.
+12:30:37 BattlEye Server: Player #3 João - BE GUID: 5639ba6b04aed17526db33b5c4981fe3
+12:30:38 Player João connected (id=76561198064378973).
+12:30:38 BattlEye Server: Verified GUID (5639ba6b04aed17526db33b5c4981fe3) of player #3 João
+12:30:45 Player João disconnected.
+12:30:45 BattlEye Server: Player #3 João disconnected
+12:35:09 BattlEye Server: (Global) Rou Kowalski: Im not hunting you Karmay.. you can grab your heli safely
+12:35:39 BattlEye Server: (Global) karmay: yes
+12:42:57 shado uses modified data file
+12:42:57 BattlEye Server: Player #3 shado (108.214.33.113:2304) connected
+12:42:57 Player shado connecting.
+12:43:00 BattlEye Server: Player #3 shado - BE GUID: 950363b8989dcd1aa724eade6be94639
+12:43:00 Player shado connected (id=76561198271143125).
+12:43:00 BattlEye Server: Verified GUID (950363b8989dcd1aa724eade6be94639) of player #3 shado
+12:46:27 Player shado kicked off by BattlEye: Client not responding
+12:46:27 Player shado disconnected.
+12:59:52 ANATOLI CHEJOV uses modified data file
+12:59:52 BattlEye Server: Player #3 ANATOLI CHEJOV (190.171.107.94:62725) connected
+12:59:52 Player ANATOLI CHEJOV connecting.
+12:59:56 BattlEye Server: Player #3 ANATOLI CHEJOV - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+12:59:57 Player ANATOLI CHEJOV connected (id=76561198065774594).
+12:59:57 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #3 ANATOLI CHEJOV
+13:21:14 Player ANATOLI CHEJOV disconnected.
+13:21:14 BattlEye Server: Player #3 ANATOLI CHEJOV disconnected
+13:26:15 Hemlock Kowalski uses modified data file
+13:26:15 BattlEye Server: Player #3 Hemlock Kowalski (73.147.1.91:62604) connected
+13:26:15 Player Hemlock Kowalski connecting.
+13:26:18 BattlEye Server: Player #3 Hemlock Kowalski - BE GUID: 0e50d5bc222746efa845806a2af0fed1
+13:26:19 Player Hemlock Kowalski connected (id=76561198201473535).
+13:26:19 BattlEye Server: Verified GUID (0e50d5bc222746efa845806a2af0fed1) of player #3 Hemlock Kowalski
+13:36:06 Player karmay disconnected.
+13:36:06 BattlEye Server: Player #1 karmay disconnected
+14:12:06 Player Hemlock Kowalski disconnected.
+14:12:06 BattlEye Server: Player #3 Hemlock Kowalski disconnected
+14:13:58 Player Rou Kowalski disconnected.
+14:13:58 BattlEye Server: Player #2 Rou Kowalski disconnected
+14:17:06 Joey uses modified data file
+14:17:06 BattlEye Server: Player #0 Joey (174.234.12.210:3255) connected
+14:17:06 Player Joey connecting.
+14:17:09 BattlEye Server: Player #0 Joey - BE GUID: 4a229150a8b72a287ebf113b7e640ee6
+14:17:09 Player Joey connected (id=76561198137328966).
+14:17:09 BattlEye Server: Verified GUID (4a229150a8b72a287ebf113b7e640ee6) of player #0 Joey
+14:17:52 Player Joey disconnected.
+14:17:52 BattlEye Server: Player #0 Joey disconnected
+14:36:09 Feller uses modified data file
+14:36:09 BattlEye Server: Player #0 Feller (68.251.245.45:2309) connected
+14:36:09 Player Feller connecting.
+14:36:16 BattlEye Server: Player #0 Feller - BE GUID: 57722fbe19de6869f5a7407356ceaaba
+14:36:16 Player Feller connected (id=76561198044427738).
+14:36:16 BattlEye Server: Verified GUID (57722fbe19de6869f5a7407356ceaaba) of player #0 Feller
+14:36:41 matt uses modified data file
+14:36:41 BattlEye Server: Player #1 matt (72.207.207.84:2304) connected
+14:36:41 Player matt connecting.
+14:36:43 CamsCheezid uses modified data file
+14:36:43 BattlEye Server: Player #2 CamsCheezid (107.138.81.9:2304) connected
+14:36:43 Player CamsCheezid connecting.
+14:36:45 BattlEye Server: Player #2 CamsCheezid - BE GUID: 2367070bc7749db1fdcc75e3738fbad9
+14:36:46 Player CamsCheezid connected (id=76561198050933684).
+14:36:46 BattlEye Server: Verified GUID (2367070bc7749db1fdcc75e3738fbad9) of player #2 CamsCheezid
+14:36:47 BattlEye Server: Player #1 matt - BE GUID: 012140143b7412008938a9029b6dbd31
+14:36:48 Player matt connected (id=76561198272972039).
+14:36:48 BattlEye Server: Verified GUID (012140143b7412008938a9029b6dbd31) of player #1 matt
+14:36:55 Player matt disconnected.
+14:36:55 BattlEye Server: Player #1 matt disconnected
+14:46:32 TinyChrist uses modified data file
+14:46:32 BattlEye Server: Player #3 TinyChrist (68.119.75.237:2309) connected
+14:46:32 Player TinyChrist connecting.
+14:46:34 BattlEye Server: Player #3 TinyChrist - BE GUID: 56dda631a60a3388434334cea290908a
+14:46:35 Player TinyChrist connected (id=76561198021880735).
+14:46:35 BattlEye Server: Verified GUID (56dda631a60a3388434334cea290908a) of player #3 TinyChrist
+14:55:01 Failed attempt to execute serverCommand '#lock' by server.
+14:56:07 Player TinyChrist disconnected.
+14:56:07 BattlEye Server: Player #3 TinyChrist disconnected
+14:58:38 Archie uses modified data file
+14:58:38 BattlEye Server: Player #3 Archie (172.9.169.67:2309) connected
+14:58:38 Player Archie connecting.
+14:58:41 BattlEye Server: Player #3 Archie - BE GUID: 8fb1df81d580cabe4592325c876aa692
+14:58:41 Player Archie connected (id=76561198203369788).
+14:58:41 Bat

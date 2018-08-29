@@ -1,0 +1,125 @@
+﻿ 9:01:53 BattlEye Server: Initialized (v1.217)
+ 9:01:53 Host identity created.
+ 9:01:53 Game Port: 2307, Steam Query Port: 2308
+ 9:01:54 Mission A3Wasteland Altis v1.4c read from bank.
+ 9:01:55 Roles assigned.
+ 9:01:55 Reading mission ...
+ 9:02:46 Mission read.
+ 9:02:46 Game started.
+ 9:17:06 Pe De Couve uses modified data file
+ 9:17:06 BattlEye Server: Player #0 Pe De Couve (200.9.16.39:2304) connected
+ 9:17:06 Player Pe De Couve connecting.
+ 9:17:06 BattlEye Server: Connected to BE Master
+ 9:17:08 BattlEye Server: Player #0 Pe De Couve - BE GUID: a061202e4d4e9c17beed82e15bb060f3
+ 9:17:08 Player Pe De Couve connected (id=76561198295934417).
+ 9:17:08 BattlEye Server: Verified GUID (a061202e4d4e9c17beed82e15bb060f3) of player #0 Pe De Couve
+ 9:59:05 Pe De Tumate uses modified data file
+ 9:59:05 BattlEye Server: Player #1 Pe De Tumate (177.157.91.74:2304) connected
+ 9:59:05 Player Pe De Tumate connecting.
+ 9:59:08 BattlEye Server: Player #1 Pe De Tumate - BE GUID: 238ce8a30d0ff25b8bbe5558fc7713e7
+ 9:59:08 Player Pe De Tumate connected (id=76561198296457606).
+ 9:59:08 BattlEye Server: Verified GUID (238ce8a30d0ff25b8bbe5558fc7713e7) of player #1 Pe De Tumate
+10:55:01 irwin uses modified data file
+10:55:01 BattlEye Server: Player #2 irwin (73.56.167.107:2304) connected
+10:55:01 Player irwin connecting.
+10:55:03 BattlEye Server: Player #2 irwin - BE GUID: 43da4ac4d048aae301e041572b8fcae2
+10:55:03 Player irwin connected (id=76561198097737996).
+10:55:03 BattlEye Server: Verified GUID (43da4ac4d048aae301e041572b8fcae2) of player #2 irwin
+10:55:36 Chinook uses modified data file
+10:55:36 BattlEye Server: Player #3 Chinook (73.189.231.44:2304) connected
+10:55:36 Player Chinook connecting.
+10:55:38 BattlEye Server: Player #3 Chinook - BE GUID: 05d78a29ac8b3eb0a20a9adb397dacec
+10:55:42 Player Chinook disconnected.
+10:55:42 BattlEye Server: Player #3 Chinook disconnected
+10:58:55 Chinook uses modified data file
+10:58:55 BattlEye Server: Player #3 Chinook (73.189.231.44:2309) connected
+10:58:55 Player Chinook connecting.
+10:58:57 BattlEye Server: Player #3 Chinook - BE GUID: 05d78a29ac8b3eb0a20a9adb397dacec
+10:59:17 Player Chinook connected (id=76561198015906136).
+10:59:17 BattlEye Server: Verified GUID (05d78a29ac8b3eb0a20a9adb397dacec) of player #3 Chinook
+11:02:50 Player irwin disconnected.
+11:02:50 BattlEye Server: Player #2 irwin disconnected
+11:23:46 Yeet McDabbington uses modified data file
+11:23:46 BattlEye Server: Player #4 Yeet McDabbington (73.21.180.37:2309) connected
+11:23:46 Player Yeet McDabbington connecting.
+11:23:48 BattlEye Server: Player #4 Yeet McDabbington - BE GUID: e0845e254755825b22e6d30dc7e61b99
+11:24:08 Player Yeet McDabbington connected (id=76561198032540425).
+11:24:08 BattlEye Server: Verified GUID (e0845e254755825b22e6d30dc7e61b99) of player #4 Yeet McDabbington
+11:25:56 Player Chinook disconnected.
+11:25:56 BattlEye Server: Player #3 Chinook disconnected
+11:27:56 Player Yeet McDabbington disconnected.
+11:27:56 BattlEye Server: Player #4 Yeet McDabbington disconnected
+11:34:10 Yeet McDabbington uses modified data file
+11:34:10 BattlEye Server: Player #2 Yeet McDabbington (73.21.180.37:2309) connected
+11:34:10 Player Yeet McDabbington connecting.
+11:34:13 BattlEye Server: Player #2 Yeet McDabbington - BE GUID: e0845e254755825b22e6d30dc7e61b99
+11:34:15 Player Yeet McDabbington connected (id=76561198032540425).
+11:34:15 BattlEye Server: Verified GUID (e0845e254755825b22e6d30dc7e61b99) of player #2 Yeet McDabbington
+11:40:16 Player Yeet McDabbington disconnected.
+11:40:16 BattlEye Server: Player #2 Yeet McDabbington disconnected
+11:51:37 Player Pe De Couve disconnected.
+11:51:37 BattlEye Server: Player #0 Pe De Couve disconnected
+11:52:10 Player Pe De Tumate disconnected.
+11:52:10 BattlEye Server: Player #1 Pe De Tumate disconnected
+11:53:40 Yeet McDabbington uses modified data file
+11:53:40 BattlEye Server: Player #0 Yeet McDabbington (73.21.180.37:2309) connected
+11:53:41 Player Yeet McDabbington connecting.
+11:53:43 BattlEye Server: Player #0 Yeet McDabbington - BE GUID: e0845e254755825b22e6d30dc7e61b99
+11:53:46 Player Yeet McDabbington connected (id=76561198032540425).
+11:53:46 BattlEye Server: Verified GUID (e0845e254755825b22e6d30dc7e61b99) of player #0 Yeet McDabbington
+11:59:59 Player Yeet McDabbington kicked off by BattlEye: Client not responding
+12:00:00 Player Yeet McDabbington disconnected.
+12:06:19 Yeet McDabbington uses modified data file
+12:06:19 BattlEye Server: Player #0 Yeet McDabbington (73.21.180.37:2309) connected
+12:06:19 Player Yeet McDabbington connecting.
+12:06:21 BattlEye Server: Player #0 Yeet McDabbington - BE GUID: e0845e254755825b22e6d30dc7e61b99
+12:06:24 Player Yeet McDabbington connected (id=76561198032540425).
+12:06:24 BattlEye Server: Verified GUID (e0845e254755825b22e6d30dc7e61b99) of player #0 Yeet McDabbington
+12:07:49 Player Yeet McDabbington disconnected.
+12:07:49 BattlEye Server: Player #0 Yeet McDabbington disconnected
+12:42:43 Max Mota uses modified data file
+12:42:43 BattlEye Server: Player #0 Max Mota (190.75.120.106:2309) connected
+12:42:43 Player Max Mota connecting.
+12:42:46 BattlEye Server: Player #0 Max Mota - BE GUID: b24b492882c5bff2195677387329ee4f
+12:42:47 Player Max Mota connected (id=76561198004095068).
+12:42:47 BattlEye Server: Verified GUID (b24b492882c5bff2195677387329ee4f) of player #0 Max Mota
+12:43:57 Player Max Mota disconnected.
+12:43:58 BattlEye Server: Player #0 Max Mota disconnected
+12:45:45 Max Mota uses modified data file
+12:45:45 BattlEye Server: Player #0 Max Mota (190.75.120.106:2309) connected
+12:45:45 Player Max Mota connecting.
+12:45:50 BattlEye Server: Player #0 Max Mota - BE GUID: b24b492882c5bff2195677387329ee4f
+12:45:51 Player Max Mota connected (id=76561198004095068).
+12:45:51 BattlEye Server: Verified GUID (b24b492882c5bff2195677387329ee4f) of player #0 Max Mota
+12:47:35 Yeet McDabbington uses modified data file
+12:47:35 BattlEye Server: Player #1 Yeet McDabbington (73.21.180.37:2309) connected
+12:47:35 Player Yeet McDabbington connecting.
+12:47:37 BattlEye Server: Player #1 Yeet McDabbington - BE GUID: e0845e254755825b22e6d30dc7e61b99
+12:47:41 Player Yeet McDabbington connected (id=76561198032540425).
+12:47:41 BattlEye Server: Verified GUID (e0845e254755825b22e6d30dc7e61b99) of player #1 Yeet McDabbington
+12:50:29 Rou Kowalski uses modified data file
+12:50:29 BattlEye Server: Player #2 Rou Kowalski (73.147.1.91:2309) connected
+12:50:29 Player Rou Kowalski connecting.
+12:50:32 BattlEye Server: Player #2 Rou Kowalski - BE GUID: 58cae163ea9d3a0ff8adde240b436737
+12:50:35 Player Rou Kowalski connected (id=76561198034110598).
+12:50:35 BattlEye Server: Verified GUID (58cae163ea9d3a0ff8adde240b436737) of player #2 Rou Kowalski
+12:58:26 BattlEye Server: (Direct) Max Mota: im going to build a base later
+12:59:17 BattlEye Server: (Group) Max Mota: yeah 
+12:59:37 BattlEye Server: (Group) Max Mota: but i have to see how i going to build the floor
+12:59:45 BattlEye Server: (Group) Max Mota: yeah later thx
+12:59:50 BattlEye Server: (Group) Max Mota: no all the way
+12:59:58 BattlEye Server: (Group) Max Mota: but yeah some
+13:00:28 BattlEye Server: (Group) Max Mota: would be nice to have this floor in the store
+13:02:03 High Alert Highlander  uses modified data file
+13:02:03 BattlEye Server: Player #3 High Alert Highlander  (190.171.107.27:62725) connected
+13:02:03 Player High Alert Highlander  connecting.
+13:02:07 BattlEye Server: Player #3 High Alert Highlander  - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+13:02:09 Player High Alert Highlander  connected (id=76561198065774594).
+13:02:09 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #3 High Alert Highlander 
+13:06:33 BattlEye Server: (Group) Max Mota: i need to put push to talk 
+13:10:13 BattlEye Server: (Group) Max Mota: you have to put sonthing to block that door
+13:14:22 BattlEye Server: (Group) Max Mota: i told him the drones are not.. maybe is the driver
+13:14:34 BattlEye Server: (Group) Max Mota: xD
+13:15:02 BattlEye Server: (Group) Max Mota: hahahaha yeah but the other day i told in voice chat
+13:15:04 BattlEye Server: (Group) Max Mota: hahahahahaha
+13:19:39 BattlEye Serve

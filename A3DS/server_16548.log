@@ -1,0 +1,136 @@
+﻿15:01:31 BattlEye Server: Initialized (v1.217)
+15:01:31 Host identity created.
+15:01:31 Game Port: 2307, Steam Query Port: 2308
+15:01:32 Mission A3Wasteland Altis v1.4c read from bank.
+15:01:33 Roles assigned.
+15:01:33 Reading mission ...
+15:02:05 Mission read.
+15:02:05 Game started.
+15:21:37 Mason uses modified data file
+15:21:37 BattlEye Server: Player #0 Mason (71.81.137.47:2309) connected
+15:21:37 Player Mason connecting.
+15:21:38 BattlEye Server: Connected to BE Master
+15:21:39 BattlEye Server: Player #0 Mason - BE GUID: 955d09b6e1dde9360ceebc2963df084d
+15:21:40 Player Mason connected (id=76561198026943270).
+15:21:40 BattlEye Server: Verified GUID (955d09b6e1dde9360ceebc2963df084d) of player #0 Mason
+15:31:48 High Alert Highlander  uses modified data file
+15:31:48 BattlEye Server: Player #1 High Alert Highlander  (190.171.107.98:62725) connected
+15:31:48 Player High Alert Highlander  connecting.
+15:31:53 BattlEye Server: Player #1 High Alert Highlander  - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+15:31:55 Player High Alert Highlander  connected (id=76561198065774594).
+15:31:56 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #1 High Alert Highlander 
+15:33:18 Admin logged in, player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+15:45:24 BattlEye Server: (Global) High Alert Highlander : how that soyunds
+15:56:15 BattlEye Server: (Global) Mason: ??
+15:56:47 BattlEye Server: (Global) High Alert Highlander : learning how to fly avtol 
+16:05:35 Player Mason is losing connection
+16:06:01 Player Mason disconnected.
+16:06:01 BattlEye Server: Player #0 Mason disconnected
+16:06:01 Mason uses modified data file
+16:06:01 BattlEye Server: Player #2 Mason (71.81.137.47:2309) connected
+16:06:01 Player Mason connecting.
+16:06:09 Player Mason disconnected.
+16:06:09 BattlEye Server: Player #2 Mason disconnected
+16:07:00 Mason uses modified data file
+16:07:00 BattlEye Server: Player #2 Mason (71.81.137.47:2309) connected
+16:07:00 Player Mason connecting.
+16:07:02 BattlEye Server: Player #2 Mason - BE GUID: 955d09b6e1dde9360ceebc2963df084d
+16:07:03 Player Mason connected (id=76561198026943270).
+16:07:03 BattlEye Server: Verified GUID (955d09b6e1dde9360ceebc2963df084d) of player #2 Mason
+16:08:58 Player Mason kicked off by BattlEye: Client not responding
+16:08:58 Player Mason disconnected.
+16:10:13 Mason uses modified data file
+16:10:13 BattlEye Server: Player #2 Mason (71.81.137.47:2309) connected
+16:10:13 Player Mason connecting.
+16:10:15 BattlEye Server: Player #2 Mason - BE GUID: 955d09b6e1dde9360ceebc2963df084d
+16:10:16 Player Mason connected (id=76561198026943270).
+16:10:16 BattlEye Server: Verified GUID (955d09b6e1dde9360ceebc2963df084d) of player #2 Mason
+16:12:11 Player Mason kicked off by BattlEye: Client not responding
+16:12:11 Player Mason disconnected.
+16:13:09 Mason uses modified data file
+16:13:09 BattlEye Server: Player #2 Mason (71.81.137.47:2309) connected
+16:13:09 Player Mason connecting.
+16:13:11 BattlEye Server: Player #2 Mason - BE GUID: 955d09b6e1dde9360ceebc2963df084d
+16:13:11 Player Mason connected (id=76561198026943270).
+16:13:11 BattlEye Server: Verified GUID (955d09b6e1dde9360ceebc2963df084d) of player #2 Mason
+16:15:01 Player Mason kicked off by BattlEye: Client not responding
+16:15:01 Player Mason disconnected.
+16:16:52 Mason uses modified data file
+16:16:52 BattlEye Server: Player #2 Mason (71.81.137.47:2309) connected
+16:16:52 Player Mason connecting.
+16:16:54 BattlEye Server: Player #2 Mason - BE GUID: 955d09b6e1dde9360ceebc2963df084d
+16:16:54 Player Mason connected (id=76561198026943270).
+16:16:55 BattlEye Server: Verified GUID (955d09b6e1dde9360ceebc2963df084d) of player #2 Mason
+16:18:44 Player Mason kicked off by BattlEye: Client not responding
+16:18:44 Player Mason disconnected.
+16:20:08 Player High Alert Highlander  disconnected.
+16:20:08 BattlEye Server: Player #1 High Alert Highlander  disconnected
+16:20:08 Admin logged out, player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+16:20:10 Mason uses modified data file
+16:20:10 BattlEye Server: Player #0 Mason (71.81.137.47:2309) connected
+16:20:10 Player Mason connecting.
+16:20:12 BattlEye Server: Player #0 Mason - BE GUID: 955d09b6e1dde9360ceebc2963df084d
+16:20:12 Player Mason connected (id=76561198026943270).
+16:20:12 BattlEye Server: Verified GUID (955d09b6e1dde9360ceebc2963df084d) of player #0 Mason
+16:20:23 Player Mason disconnected.
+16:20:23 BattlEye Server: Player #0 Mason disconnected
+16:21:14 Mason uses modified data file
+16:21:14 BattlEye Server: Player #0 Mason (71.81.137.47:2309) connected
+16:21:14 Player Mason connecting.
+16:21:16 BattlEye Server: Player #0 Mason - BE GUID: 955d09b6e1dde9360ceebc2963df084d
+16:21:16 Player Mason connected (id=76561198026943270).
+16:21:16 BattlEye Server: Verified GUID (955d09b6e1dde9360ceebc2963df084d) of player #0 Mason
+16:23:07 Player Mason kicked off by BattlEye: Client not responding
+16:23:07 Player Mason disconnected.
+16:24:39 Mason uses modified data file
+16:24:39 BattlEye Server: Player #0 Mason (71.81.137.47:2309) connected
+16:24:39 Player Mason connecting.
+16:24:41 BattlEye Server: Player #0 Mason - BE GUID: 955d09b6e1dde9360ceebc2963df084d
+16:24:41 Player Mason connected (id=76561198026943270).
+16:24:41 BattlEye Server: Verified GUID (955d09b6e1dde9360ceebc2963df084d) of player #0 Mason
+16:26:32 Player Mason kicked off by BattlEye: Client not responding
+16:26:32 Player Mason disconnected.
+16:27:50 Mason uses modified data file
+16:27:50 BattlEye Server: Player #0 Mason (71.81.137.47:2309) connected
+16:27:50 Player Mason connecting.
+16:27:52 BattlEye Server: Player #0 Mason - BE GUID: 955d09b6e1dde9360ceebc2963df084d
+16:27:53 Player Mason connected (id=76561198026943270).
+16:27:53 BattlEye Server: Verified GUID (955d09b6e1dde9360ceebc2963df084d) of player #0 Mason
+16:29:43 Player Mason kicked off by BattlEye: Client not responding
+16:29:44 Player Mason disconnected.
+16:32:42 Mason uses modified data file
+16:32:42 BattlEye Server: Player #0 Mason (71.81.137.47:2309) connected
+16:32:42 Player Mason connecting.
+16:32:50 BattlEye Server: Player #0 Mason - BE GUID: 955d09b6e1dde9360ceebc2963df084d
+16:32:50 Player Mason connected (id=76561198026943270).
+16:32:51 BattlEye Server: Verified GUID (955d09b6e1dde9360ceebc2963df084d) of player #0 Mason
+16:34:45 Player Mason kicked off by BattlEye: Client not responding
+16:34:45 Player Mason disconnected.
+16:35:58 Mason uses modified data file
+16:35:58 BattlEye Server: Player #0 Mason (71.81.137.47:2309) connected
+16:35:58 Player Mason connecting.
+16:36:00 BattlEye Server: Player #0 Mason - BE GUID: 955d09b6e1dde9360ceebc2963df084d
+16:36:01 Player Mason connected (id=76561198026943270).
+16:36:01 BattlEye Server: Verified GUID (955d09b6e1dde9360ceebc2963df084d) of player #0 Mason
+16:37:52 Player Mason kicked off by BattlEye: Client not responding
+16:37:52 Player Mason disconnected.
+16:38:57 Mason uses modified data file
+16:38:57 BattlEye Server: Player #0 Mason (71.81.137.47:2309) connected
+16:38:57 Player Mason connecting.
+16:39:00 BattlEye Server: Player #0 Mason - BE GUID: 955d09b6e1dde9360ceebc2963df084d
+16:39:00 Player Mason connected (id=76561198026943270).
+16:39:00 BattlEye Server: Verified GUID (955d09b6e1dde9360ceebc2963df084d) of player #0 Mason
+16:40:51 Player Mason kicked off by BattlEye: Client not responding
+16:40:51 Player Mason disconnected.
+16:49:21 Mason uses modified data file
+16:49:21 BattlEye Server: Player #0 Mason (71.81.137.47:2309) connected
+16:49:21 Player Mason connecting.
+16:49:23 BattlEye Server: Player #0 Mason - BE GUID: 955d09b6e1dde9360ceebc2963df084d
+16:49:24 Player Mason connected (id=76561198026943270).
+16:49:24 BattlEye Server: Verified GUID (955d09b6e1dde9360ceebc2963df084d) of player #0 Mason
+16:51:15 Player Mason kicked off by BattlEye: Client not responding
+16:51:15 Player Mason disconnected.
+17:09:41 InstantClassic uses modified data file
+17:09:41 BattlEye Server: Player #0 InstantClassic (86.168.135.4:2309) connected
+17:09:41 Player InstantClassic connecting.
+17:09:43 BattlEye Server: Player #0 InstantClassic - BE GUID: 4c76b938f6f2fff1ec86ba

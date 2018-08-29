@@ -1,0 +1,65 @@
+﻿ 9:01:59 BattlEye Server: Initialized (v1.217)
+ 9:01:59 Host identity created.
+ 9:01:59 Game Port: 2307, Steam Query Port: 2308
+ 9:01:59 Mission A3Wastela read from bank.
+ 9:02:01 Roles assigned.
+ 9:02:01 Reading mission ...
+ 9:02:51 Mission read.
+ 9:02:51 Game started.
+10:04:10 SgtMajPrivate uses modified data file
+10:04:10 BattlEye Server: Player #0 SgtMajPrivate (73.93.167.13:2304) connected
+10:04:11 Player SgtMajPrivate connecting.
+10:04:11 BattlEye Server: Connected to BE Master
+10:04:12 BattlEye Server: Player #0 SgtMajPrivate - BE GUID: 4c2b9d687447cbad1213b89cfae82f46
+10:04:13 Player SgtMajPrivate connected (id=76561198164565751).
+10:04:13 BattlEye Server: Verified GUID (4c2b9d687447cbad1213b89cfae82f46) of player #0 SgtMajPrivate
+10:12:53 Admin logged in, player: SgtMajPrivate, playerUID: 76561198164565751, IP: 192.168.0.11:2304.
+10:26:22 Player SgtMajPrivate disconnected.
+10:26:22 BattlEye Server: Player #0 SgtMajPrivate disconnected
+10:26:22 Admin logged out, player: SgtMajPrivate, playerUID: 76561198164565751, IP: 192.168.0.11:2304.
+11:24:02 Rodriguez uses modified data file
+11:24:02 BattlEye Server: Player #0 Rodriguez (179.185.120.133:2304) connected
+11:24:02 Player Rodriguez connecting.
+11:24:05 BattlEye Server: Player #0 Rodriguez - BE GUID: b1aaca1be2863f97498927c878afab82
+11:24:07 Player Rodriguez connected (id=76561198055295921).
+11:24:07 BattlEye Server: Verified GUID (b1aaca1be2863f97498927c878afab82) of player #0 Rodriguez
+11:29:52 Player Rodriguez disconnected.
+11:29:52 BattlEye Server: Player #0 Rodriguez disconnected
+12:10:24 Rodriguez uses modified data file
+12:10:24 BattlEye Server: Player #0 Rodriguez (179.185.120.133:2304) connected
+12:10:24 Player Rodriguez connecting.
+12:10:27 BattlEye Server: Player #0 Rodriguez - BE GUID: b1aaca1be2863f97498927c878afab82
+12:10:29 Player Rodriguez connected (id=76561198055295921).
+12:10:29 BattlEye Server: Verified GUID (b1aaca1be2863f97498927c878afab82) of player #0 Rodriguez
+12:14:37 Player Rodriguez disconnected.
+12:14:37 BattlEye Server: Player #0 Rodriguez disconnected
+12:20:14 sinci uses modified data file
+12:20:14 BattlEye Server: Player #0 sinci (61.213.184.127:2309) connected
+12:20:15 Player sinci connecting.
+12:20:18 BattlEye Server: Player #0 sinci - BE GUID: e1b372840fc10aa97bdd26ed3750a75e
+12:20:18 Player sinci connected (id=76561198099048337).
+12:20:18 BattlEye Server: Verified GUID (e1b372840fc10aa97bdd26ed3750a75e) of player #0 sinci
+12:20:33 Player sinci disconnected.
+12:20:33 BattlEye Server: Player #0 sinci disconnected
+14:09:00 Sniff uses modified data file
+14:09:00 BattlEye Server: Player #0 Sniff (47.55.78.23:2304) connected
+14:09:00 Player Sniff connecting.
+14:09:02 BattlEye Server: Player #0 Sniff - BE GUID: 22bd84babc17601ec126c6c0677517b3
+14:09:03 Player Sniff connected (id=76561198147597622).
+14:09:03 BattlEye Server: Verified GUID (22bd84babc17601ec126c6c0677517b3) of player #0 Sniff
+14:13:06 Player Sniff disconnected.
+14:13:06 BattlEye Server: Player #0 Sniff disconnected
+14:13:19 SgtMajPrivate uses modified data file
+14:13:19 BattlEye Server: Player #0 SgtMajPrivate (73.93.167.13:2309) connected
+14:13:19 Player SgtMajPrivate connecting.
+14:13:21 BattlEye Server: Player #0 SgtMajPrivate - BE GUID: 4c2b9d687447cbad1213b89cfae82f46
+14:13:22 Player SgtMajPrivate connected (id=76561198164565751).
+14:13:22 BattlEye Server: Verified GUID (4c2b9d687447cbad1213b89cfae82f46) of player #0 SgtMajPrivate
+14:22:44 Admin logged in, player: SgtMajPrivate, playerUID: 76561198164565751, IP: 192.168.0.11:2309.
+14:23:16 Admin logged out, player: SgtMajPrivate, playerUID: 76561198164565751, IP: 192.168.0.11:2309.
+14:53:25 High Alert Highlander  uses modified data file
+14:53:25 BattlEye Server: Player #1 High Alert Highlander  (190.171.107.20:62725) connected
+14:53:25 Player High Alert Highlander  connecting.
+14:53:29 BattlEye Server: Player #1 High Alert Highlander  - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+14:53:32 Player High Alert Highlander  connected (id=76561198065774594).
+14:53:32 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c

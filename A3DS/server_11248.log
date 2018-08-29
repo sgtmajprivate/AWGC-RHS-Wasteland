@@ -1,0 +1,68 @@
+﻿ 9:01:40 BattlEye Server: Initialized (v1.217)
+ 9:01:40 Host identity created.
+ 9:01:40 Game Port: 2307, Steam Query Port: 2308
+ 9:01:40 Mission A3Wasteland Altis v1.4c read from bank.
+ 9:01:42 Roles assigned.
+ 9:01:42 Reading mission ...
+ 9:02:12 Mission read.
+ 9:02:12 ANATOLI CHEJOV uses modified data file
+ 9:02:12 BattlEye Server: Player #0 ANATOLI CHEJOV (190.171.107.50:62725) connected
+ 9:02:12 Player ANATOLI CHEJOV connecting.
+ 9:02:12 Game started.
+ 9:02:13 BattlEye Server: Connected to BE Master
+ 9:02:14 BattlEye Server: Player #0 ANATOLI CHEJOV - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+ 9:02:15 Player ANATOLI CHEJOV connected (id=76561198065774594).
+ 9:02:15 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #0 ANATOLI CHEJOV
+ 9:02:55 Мотиус uses modified data file
+ 9:02:55 BattlEye Server: Player #1 Мотиус (217.107.124.126:4248) connected
+ 9:02:55 Player Мотиус connecting.
+ 9:02:59 BattlEye Server: Player #1 Мотиус - BE GUID: 2954e377faa5e32fd2e4b41a09df7684
+ 9:02:59 Player Мотиус connected (id=76561198170950578).
+ 9:02:59 BattlEye Server: Verified GUID (2954e377faa5e32fd2e4b41a09df7684) of player #1 Мотиус
+ 9:03:05 Pavline uses modified data file
+ 9:03:05 BattlEye Server: Player #2 Pavline (37.190.37.198:1261) connected
+ 9:03:05 Player Pavline connecting.
+ 9:03:07 BattlEye Server: Player #2 Pavline - BE GUID: 2bd0f27815adba81c5152f9eff011db3
+ 9:03:08 Player Pavline connected (id=76561198071472480).
+ 9:03:08 BattlEye Server: Verified GUID (2bd0f27815adba81c5152f9eff011db3) of player #2 Pavline
+ 9:07:16 Rou Kowalski uses modified data file
+ 9:07:16 BattlEye Server: Player #3 Rou Kowalski (73.147.1.91:2309) connected
+ 9:07:16 Player Rou Kowalski connecting.
+ 9:07:18 BattlEye Server: Player #3 Rou Kowalski - BE GUID: 58cae163ea9d3a0ff8adde240b436737
+ 9:08:14 mskarupa uses modified data file
+ 9:08:14 BattlEye Server: Player #4 mskarupa (96.248.96.77:2304) connected
+ 9:08:14 Player mskarupa connecting.
+ 9:08:16 BattlEye Server: Player #4 mskarupa - BE GUID: bc586594cfc8cde3104416e6d030ac67
+ 9:08:16 Player mskarupa connected (id=76561198135968316).
+ 9:08:16 BattlEye Server: Verified GUID (bc586594cfc8cde3104416e6d030ac67) of player #4 mskarupa
+ 9:09:56 Player Rou Kowalski disconnected.
+ 9:09:56 BattlEye Server: Player #3 Rou Kowalski disconnected
+ 9:11:06 Rou Kowalski uses modified data file
+ 9:11:06 BattlEye Server: Player #5 Rou Kowalski (73.147.1.91:2309) connected
+ 9:11:06 Player Rou Kowalski connecting.
+ 9:11:08 BattlEye Server: Player #5 Rou Kowalski - BE GUID: 58cae163ea9d3a0ff8adde240b436737
+ 9:12:50 Player Rou Kowalski connected (id=76561198034110598).
+ 9:12:50 BattlEye Server: Verified GUID (58cae163ea9d3a0ff8adde240b436737) of player #5 Rou Kowalski
+ 9:16:07 Player Pavline kicked off by BattlEye: Query Timeout
+ 9:16:07 Player Pavline disconnected.
+ 9:20:39 BattlEye Server: (Group) ANATOLI CHEJOV: none
+ 9:20:42 BattlEye Server: (Group) ANATOLI CHEJOV: gs
+ 9:20:49 BattlEye Server: (Group) ANATOLI CHEJOV: yea
+ 9:24:32 Pavline uses modified data file
+ 9:24:32 BattlEye Server: Player #6 Pavline (37.190.37.198:4395) connected
+ 9:24:32 Player Pavline connecting.
+ 9:24:35 BattlEye Server: Player #6 Pavline - BE GUID: 2bd0f27815adba81c5152f9eff011db3
+ 9:24:36 Player Pavline connected (id=76561198071472480).
+ 9:24:36 BattlEye Server: Verified GUID (2bd0f27815adba81c5152f9eff011db3) of player #6 Pavline
+ 9:25:05 Player mskarupa: Wrong signature for file addons\air_f.pbo
+ 9:25:05 Player mskarupa disconnected.
+ 9:25:05 BattlEye Server: Player #4 mskarupa disconnected
+ 9:25:14 mskarupa uses modified data file
+ 9:25:14 BattlEye Server: Player #7 mskarupa (96.248.96.77:2304) connected
+ 9:25:14 Player mskarupa connecting.
+ 9:25:16 BattlEye Server: Player #7 mskarupa - BE GUID: bc586594cfc8cde3104416e6d030ac67
+ 9:25:16 Player mskarupa connected (id=76561198135968316).
+ 9:25:16 BattlEye Server: Verified GUID (bc586594cfc8cde3104416e6d030ac67) of player #7 mskarupa
+ 9:31:28 Player Мотиус is losing connection
+ 9:32:24 Player Мотиус disconnected.
+ 9:3

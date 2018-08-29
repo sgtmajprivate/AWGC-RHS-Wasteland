@@ -1,0 +1,317 @@
+﻿21:01:30 BattlEye Server: Initialized (v1.217)
+21:01:30 Host identity created.
+21:01:30 Game Port: 2307, Steam Query Port: 2308
+21:01:30 Mission A3Wasteland Altis v1.4c read from bank.
+21:01:32 Roles assigned.
+21:01:32 Reading mission ...
+21:02:02 Mission read.
+21:02:03 Rou Kowalski uses modified data file
+21:02:03 BattlEye Server: Player #0 Rou Kowalski (73.147.1.91:62461) connected
+21:02:03 Player Rou Kowalski connecting.
+21:02:03 Ser Eblan uses modified data file
+21:02:03 BattlEye Server: Player #1 Ser Eblan (95.25.13.35:2304) connected
+21:02:03 Player Ser Eblan connecting.
+21:02:03 Game started.
+21:02:04 BattlEye Server: Connected to BE Master
+21:02:05 BattlEye Server: Player #0 Rou Kowalski - BE GUID: 58cae163ea9d3a0ff8adde240b436737
+21:02:05 BattlEye Server: Player #1 Ser Eblan - BE GUID: 244b637f4295715693785e75e605bc1e
+21:02:05 Player Ser Eblan connected (id=76561198140085058).
+21:02:05 BattlEye Server: Verified GUID (244b637f4295715693785e75e605bc1e) of player #1 Ser Eblan
+21:02:09 Player Rou Kowalski connected (id=76561198034110598).
+21:02:09 BattlEye Server: Verified GUID (58cae163ea9d3a0ff8adde240b436737) of player #0 Rou Kowalski
+21:02:31 Hemlock Kowalski uses modified data file
+21:02:31 BattlEye Server: Player #2 Hemlock Kowalski (73.147.1.91:2304) connected
+21:02:31 Player Hemlock Kowalski connecting.
+21:02:33 BattlEye Server: Player #2 Hemlock Kowalski - BE GUID: 0e50d5bc222746efa845806a2af0fed1
+21:02:34 Player Hemlock Kowalski connected (id=76561198201473535).
+21:02:34 BattlEye Server: Verified GUID (0e50d5bc222746efa845806a2af0fed1) of player #2 Hemlock Kowalski
+21:03:27 Akov uses modified data file
+21:03:27 BattlEye Server: Player #3 Akov (5.100.74.198:2304) connected
+21:03:27 Player Akov connecting.
+21:03:30 BattlEye Server: Player #3 Akov - BE GUID: 99cc84a8ff4b4f16ac89e1fb8cbe0431
+21:03:30 Player Akov connected (id=76561198097571481).
+21:03:30 BattlEye Server: Verified GUID (99cc84a8ff4b4f16ac89e1fb8cbe0431) of player #3 Akov
+21:06:33 ANATOLI CHEJOV uses modified data file
+21:06:33 BattlEye Server: Player #4 ANATOLI CHEJOV (190.171.107.50:62725) connected
+21:06:33 Player ANATOLI CHEJOV connecting.
+21:06:37 BattlEye Server: Player #4 ANATOLI CHEJOV - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+21:06:37 Player ANATOLI CHEJOV connected (id=76561198065774594).
+21:06:37 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #4 ANATOLI CHEJOV
+21:07:16 psxboy uses modified data file
+21:07:16 BattlEye Server: Player #5 psxboy (71.238.6.29:2309) connected
+21:07:16 Player psxboy connecting.
+21:07:18 BattlEye Server: Player #5 psxboy - BE GUID: 343405ee14d8d0c649051ed13a14cd9c
+21:07:19 Player psxboy connected (id=76561198011462176).
+21:07:19 BattlEye Server: Verified GUID (343405ee14d8d0c649051ed13a14cd9c) of player #5 psxboy
+21:07:25 alexa uses modified data file
+21:07:25 BattlEye Server: Player #6 alexa (72.179.248.234:2309) connected
+21:07:25 Player alexa connecting.
+21:07:28 BattlEye Server: Player #6 alexa - BE GUID: 9df754327a039bcb46bb69b68daf8871
+21:07:28 Player alexa connected (id=76561198127113194).
+21:07:28 BattlEye Server: Verified GUID (9df754327a039bcb46bb69b68daf8871) of player #6 alexa
+21:09:56 Player alexa disconnected.
+21:09:56 BattlEye Server: Player #6 alexa disconnected
+21:11:08 Player Rou Kowalski disconnected.
+21:11:08 BattlEye Server: Player #0 Rou Kowalski disconnected
+21:11:25 Player Hemlock Kowalski disconnected.
+21:11:25 BattlEye Server: Player #2 Hemlock Kowalski disconnected
+21:12:57 Rou Kowalski uses modified data file
+21:12:57 BattlEye Server: Player #6 Rou Kowalski (73.147.1.91:62461) connected
+21:12:57 Player Rou Kowalski connecting.
+21:12:59 BattlEye Server: Player #6 Rou Kowalski - BE GUID: 58cae163ea9d3a0ff8adde240b436737
+21:13:02 Player Rou Kowalski connected (id=76561198034110598).
+21:13:02 BattlEye Server: Verified GUID (58cae163ea9d3a0ff8adde240b436737) of player #6 Rou Kowalski
+21:14:36 Hemlock Kowalski uses modified data file
+21:14:36 BattlEye Server: Player #7 Hemlock Kowalski (73.147.1.91:2304) connected
+21:14:36 Player Hemlock Kowalski connecting.
+21:14:38 BattlEye Server: Player #7 Hemlock Kowalski - BE GUID: 0e50d5bc222746efa845806a2af0fed1
+21:14:40 Player Hemlock Kowalski connected (id=76561198201473535).
+21:14:40 BattlEye Server: Verified GUID (0e50d5bc222746efa845806a2af0fed1) of player #7 Hemlock Kowalski
+21:19:34 BattlEye Server: (Group) ANATOLI CHEJOV: mmmmmok
+21:19:45 BattlEye Server: (Group) ANATOLI CHEJOV: nice way toget in
+21:19:56 SgtMajPrivate uses modified data file
+21:19:56 BattlEye Server: Player #8 SgtMajPrivate (73.93.167.13:2309) connected
+21:19:56 Player SgtMajPrivate connecting.
+21:19:58 BattlEye Server: Player #8 SgtMajPrivate - BE GUID: 4c2b9d687447cbad1213b89cfae82f46
+21:19:59 Player SgtMajPrivate connected (id=76561198164565751).
+21:19:59 BattlEye Server: Verified GUID (4c2b9d687447cbad1213b89cfae82f46) of player #8 SgtMajPrivate
+21:20:07 BattlEye Server: (Group) ANATOLI CHEJOV: see what i mean
+21:20:26 BattlEye Server: (Group) ANATOLI CHEJOV: sarg have to fix those 
+21:20:39 BattlEye Server: (Group) ANATOLI CHEJOV: bacause they are not working properly 
+21:20:57 BattlEye Server: (Group) ANATOLI CHEJOV: no 
+21:21:07 BattlEye Server: (Group) ANATOLI CHEJOV: lockdown has nothing to do with that 
+21:22:02 BattlEye Server: (Group) ANATOLI CHEJOV: try again ifulike
+21:22:55 BattlEye Server: (Group) ANATOLI CHEJOV: you cantremoved becons 
+21:24:26 BattlEye Server: (Group) ANATOLI CHEJOV: dude we have try everything 
+21:25:12 BattlEye Server: (Group) ANATOLI CHEJOV: killme
+21:26:25 BattlEye Server: (Group) ANATOLI CHEJOV: DUDE I FUCKING LOVE YOU 
+21:32:24 ChivasBR uses modified data file
+21:32:24 BattlEye Server: Player #9 ChivasBR (189.63.91.212:2304) connected
+21:32:24 Player ChivasBR connecting.
+21:32:26 BattlEye Server: Player #9 ChivasBR - BE GUID: 20c8850e5b858a82f5482ea4cf699ca1
+21:32:27 Player ChivasBR connected (id=76561198117345364).
+21:32:27 BattlEye Server: Verified GUID (20c8850e5b858a82f5482ea4cf699ca1) of player #9 ChivasBR
+21:33:02 Player ChivasBR disconnected.
+21:33:02 BattlEye Server: Player #9 ChivasBR disconnected
+21:35:41 BattlEye Server: (Group) ANATOLI CHEJOV: JIM CAN U PICKMEUP
+21:35:52 BattlEye Server: (Group) ANATOLI CHEJOV: i crahs i water 
+21:35:58 BattlEye Server: (Group) ANATOLI CHEJOV: yes u caN
+21:36:09 BattlEye Server: (Group) ANATOLI CHEJOV: jim
+21:36:50 BattlEye Server: (Group) ANATOLI CHEJOV: checkmap
+21:37:02 Player psxboy disconnected.
+21:37:02 BattlEye Server: Player #5 psxboy disconnected
+21:40:15 BattlEye Server: (Group) ANATOLI CHEJOV: more
+21:43:13 BattlEye Server: (Group) ANATOLI CHEJOV: IJUST SUICIDE
+21:46:21 Player Rou Kowalski disconnected.
+21:46:21 BattlEye Server: Player #6 Rou Kowalski disconnected
+21:46:36 Rou Kowalski uses modified data file
+21:46:36 BattlEye Server: Player #9 Rou Kowalski (73.147.1.91:62461) connected
+21:46:36 Player Rou Kowalski connecting.
+21:46:38 BattlEye Server: Player #9 Rou Kowalski - BE GUID: 58cae163ea9d3a0ff8adde240b436737
+21:46:41 Player Rou Kowalski connected (id=76561198034110598).
+21:46:41 BattlEye Server: Verified GUID (58cae163ea9d3a0ff8adde240b436737) of player #9 Rou Kowalski
+21:48:06 BattlEye Server: (Group) ANATOLI CHEJOV: omw
+21:50:50 BattlEye Server: (Group) ANATOLI CHEJOV: what
+21:51:16 Player SgtMajPrivate disconnected.
+21:51:16 BattlEye Server: Player #8 SgtMajPrivate disconnected
+21:52:55 BattlEye Server: (Group) ANATOLI CHEJOV: uhave my gun
+21:53:58 BattlEye Server: (Group) ANATOLI CHEJOV: it isfortaking armor
+21:54:04 BattlEye Server: (Group) ANATOLI CHEJOV: ap he bullets
+21:54:20 BattlEye Server: (Group) ANATOLI CHEJOV: 50 cal
+21:54:34 BattlEye Server: (Group) ANATOLI CHEJOV: thnks for this tip
+21:55:02 BattlEye Server: (Group) ANATOLI CHEJOV: yes
+21:55:51 BattlEye Server: (Group) ANATOLI CHEJOV: letsgogear up
+21:56:12 BattlEye Server: (Group) ANATOLI CHEJOV: hemwhereu at 
+21:56:33 BattlEye Server: (Group) ANATOLI CHEJOV: no
+22:03:23 BattlEye Server: (Group) ANATOLI CHEJOV: ok
+22:10:56 BattlEye Server: (Group) ANATOLI CHEJOV: G3
+22:11:06 BattlEye Server: (Group) ANATOLI CHEJOV: -TACTICAL VEST 
+22:11:17 BattlEye Server: (Group) ANATOLI CHEJOV: VIPERHARNESS
+22:11:28 BattlEye Server: (Group) ANATOLI CHEJOV: M97 BLCK
+22:13:07 BattlEye Server: (Group) ANATOLI CHEJOV: UNIFORM G3 BLCK
+22:13:31 BattlEye Server: (Group) ANATOLI CHEJOV: m97 black
+22:15:03 BattlEye Server: (Group) ANATOLI CHEJOV: whereisshe
+22:30:51 BattlEye Server: (Group) ANATOLI CHEJOV: whereis hem
+22:34:35 BattlEye Server: (Group) ANATOLI CHEJOV: hemyouknow that we have atms here right 
+22:34:53 BattlEye Server: (Group) ANATOLI CHEJOV: ok
+22:35:13 BattlEye Server: (Group) ANATOLI CHEJOV: what doors
+22:35:39 BattlEye Server: (Group) ANATOLI CHEJOV: thosebelong to other players
+22:35:46 BattlEye Server: (Group) ANATOLI CHEJOV: that iswhy rclose
+22:37:07 BattlEye Server: (Group) ANATOLI CHEJOV: u have the 4 towers
+22:37:15 BattlEye Server: (Group) ANATOLI CHEJOV: choose one
+22:38:42 BattlEye Server: (Group) ANATOLI CHEJOV: u both can have this tower if you want 
+22:39:00 BattlEye Server: (Group) ANATOLI CHEJOV: yw
+22:40:00 BattlEye Server: (Group) ANATOLI CHEJOV: i searching for thispeople
+22:42:48 BattlEye Server: (Group) ANATOLI CHEJOV: markwith x 
+22:43:02 BattlEye Server: (Group) ANATOLI CHEJOV: yes
+22:43:27 BattlEye Server: (Group) ANATOLI CHEJOV: dk  they arelikewhere to buildone 
+22:45:55 BattlEye Server: (Group) ANATOLI CHEJOV: hemgrab this 
+22:46:15 BattlEye Server: (Group) ANATOLI CHEJOV: hem
+22:48:19 BattlEye Server: (Group) ANATOLI CHEJOV: new positionmark
+22:56:40 BattlEye Server: (Group) ANATOLI CHEJOV: yes
+22:56:49 BattlEye Server: (Group) ANATOLI CHEJOV: they are kids
+22:57:07 BattlEye Server: (Group) ANATOLI CHEJOV: lol
+22:57:27 BattlEye Server: (Group) ANATOLI CHEJOV: ulocked that 
+22:57:39 BattlEye Server: (Group) ANATOLI CHEJOV: jajajaja
+22:58:03 BattlEye Server: (Group) ANATOLI CHEJOV: thats the way hemimsoproud 
+22:58:54 BattlEye Server: (Group) ANATOLI CHEJOV: waching this guys 
+22:59:01 BattlEye Server: (Group) ANATOLI CHEJOV: is like waching amovie 
+22:59:09 BattlEye Server: (Group) ANATOLI CHEJOV: astupid one 
+22:59:28 BattlEye Server: (Group) Hemlock Kowalski: THEY ARE NOT EVEN MOVING
+22:59:35 BattlEye Server: (Group) ANATOLI CHEJOV: like thosemovies that u dont know why ukeepwaching youjust have too
+22:59:48 BattlEye Server: (Group) Hemlock Kowalski: yeah
+23:00:06 BattlEye Server: (Group) ANATOLI CHEJOV: imgoing to scare them
+23:00:06 BattlEye Server: (Group) Hemlock Kowalski: i see my heli and the car still there
+23:00:41 BattlEye Server: (Group) Hemlock Kowalski: where is other one I just see the one with the ugly heli
+23:01:01 BattlEye Server: (Group) ANATOLI CHEJOV: gs
+23:01:17 BattlEye Server: (Group) Hemlock Kowalski: ah
+23:02:17 BattlEye Server: (Group) Hemlock Kowalski: they are flying
+23:04:08 BattlEye Server: (Group) ANATOLI CHEJOV: that heli is like a freaking bullseye 
+23:05:05 BattlEye Server: (Group) Hemlock Kowalski: landing
+23:05:43 BattlEye Server: (Group) ANATOLI CHEJOV: interesting 
+23:05:56 BattlEye Server: (Group) Hemlock Kowalski: they are walkijg
+23:06:23 BattlEye Server: (Group) ANATOLI CHEJOV: to a city with nothonit 
+23:07:17 BattlEye Server: (Group) Hemlock Kowalski: atms?
+23:07:49 BattlEye Server: (Group) ANATOLI CHEJOV: yes
+23:08:00 BattlEye Server: (Group) Hemlock Kowalski: they poof
+23:08:11 Player Ser Eblan disconnected.
+23:08:11 BattlEye Server: Player #1 Ser Eblan disconnected
+23:08:29 BattlEye Server: (Group) ANATOLI CHEJOV: yea
+23:08:47 Player Akov disconnected.
+23:08:47 BattlEye Server: Player #3 Akov disconnected
+23:08:58 BattlEye Server: (Group) Hemlock Kowalski: we should get that heli
+23:09:41 BattlEye Server: (Group) ANATOLI CHEJOV: have u checkthis hem
+23:11:21 BattlEye Server: (Group) ANATOLI CHEJOV: jim where u at 
+23:14:31 BattlEye Server: (Group) ANATOLI CHEJOV: nicejim
+23:19:48 BattlEye Server: (Group) ANATOLI CHEJOV: nice
+23:21:39 BattlEye Server: (Group) ANATOLI CHEJOV: im hungry
+23:21:55 BattlEye Server: (Group) ANATOLI CHEJOV: eati9ng
+23:22:04 BattlEye Server: (Group) ANATOLI CHEJOV: lol
+23:22:23 BattlEye Server: (Group) ANATOLI CHEJOV: nothing 
+23:22:29 BattlEye Server: (Group) ANATOLI CHEJOV: havent doneshopping 
+23:22:37 BattlEye Server: (Group) ANATOLI CHEJOV: dudeim guy 
+23:22:41 BattlEye Server: (Group) ANATOLI CHEJOV: ihave beer
+23:22:54 BattlEye Server: (Group) ANATOLI CHEJOV: left overs
+23:22:58 BattlEye Server: (Group) ANATOLI CHEJOV: yea
+23:23:10 BattlEye Server: (Group) ANATOLI CHEJOV: oldpizza
+23:23:55 BattlEye Server: (Group) ANATOLI CHEJOV: i think i have some pork steaks 
+23:23:59 BattlEye Server: (Group) ANATOLI CHEJOV: niot sure
+23:23:59 Bunny uses modified data file
+23:23:59 BattlEye Server: Player #10 Bunny (75.134.38.51:2309) connected
+23:23:59 Player Bunny connecting.
+23:24:02 BattlEye Server: Player #10 Bunny - BE GUID: 8bf32fc375522b3832684dc869ad3a0e
+23:24:02 Player Bunny connected (id=76561198113436203).
+23:24:02 BattlEye Server: Verified GUID (8bf32fc375522b3832684dc869ad3a0e) of player #10 Bunny
+23:24:13 BattlEye Server: (Group) ANATOLI CHEJOV: maybe is ashe
+23:24:48 Player Bunny disconnected.
+23:24:48 BattlEye Server: Player #10 Bunny disconnected
+23:24:51 BattlEye Server: (Group) ANATOLI CHEJOV: nopeat thistime
+23:24:58 BattlEye Server: (Group) ANATOLI CHEJOV: mac donalds
+23:25:11 BattlEye Server: (Group) ANATOLI CHEJOV: inn andout 
+23:25:39 BattlEye Server: (Group) ANATOLI CHEJOV: hell i dontknpwimstaving shit 
+23:25:49 BattlEye Server: (Group) ANATOLI CHEJOV: ijfuck
+23:26:19 BattlEye Server: (Group) ANATOLI CHEJOV: yea tellmeewhere
+23:26:28 BattlEye Server: (Group) ANATOLI CHEJOV: close
+23:26:37 BattlEye Server: (Group) ANATOLI CHEJOV: no
+23:26:42 BattlEye Server: (Group) ANATOLI CHEJOV: no
+23:26:46 BattlEye Server: (Group) ANATOLI CHEJOV: yes
+23:26:51 BattlEye Server: (Group) ANATOLI CHEJOV: both{
+23:26:58 BattlEye Server: (Group) ANATOLI CHEJOV: true 
+23:29:11 BattlEye Server: (Group) ANATOLI CHEJOV: no
+23:29:23 BattlEye Server: (Group) ANATOLI CHEJOV: theonefromtherebetter
+23:29:54 BattlEye Server: (Group) ANATOLI CHEJOV: wtf
+23:30:25 BattlEye Server: (Group) ANATOLI CHEJOV: this is the strider of mason
+23:30:36 BattlEye Server: (Group) ANATOLI CHEJOV: this is the only strider in game 
+23:30:59 BattlEye Server: (Group) ANATOLI CHEJOV: no 
+23:31:08 BattlEye Server: (Group) ANATOLI CHEJOV: this is theone from sniper
+23:31:45 BattlEye Server: (Group) ANATOLI CHEJOV: that onisfrom anothwer admin
+23:33:24 BattlEye Server: (Group) ANATOLI CHEJOV: pls  move
+23:33:56 BattlEye Server: (Group) ANATOLI CHEJOV: razor and snioperisthesame person
+23:34:05 BattlEye Server: (Group) ANATOLI CHEJOV: likeme  andhighlander
+23:35:14 BattlEye Server: (Group) ANATOLI CHEJOV: uguys want this
+23:35:23 BattlEye Server: (Group) ANATOLI CHEJOV: yes
+23:35:34 BattlEye Server: (Group) ANATOLI CHEJOV: thisisnotmasons
+23:36:31 BattlEye Server: (Group) ANATOLI CHEJOV: no this strider belongs tosniper ghostmyrish friend 
+23:36:51 BattlEye Server: (Group) ANATOLI CHEJOV: the best fucking sniperinall arma
+23:36:58 BattlEye Server: (Group) ANATOLI CHEJOV: my teacher
+23:37:22 BattlEye Server: (Group) ANATOLI CHEJOV: stupid
+23:37:28 BattlEye Server: (Group) ANATOLI CHEJOV: iwastocose
+23:37:52 BattlEye Server: (Group) ANATOLI CHEJOV: pls res
+23:37:58 BattlEye Server: (Group) ANATOLI CHEJOV: ido
+23:38:21 BattlEye Server: (Group) ANATOLI CHEJOV: snipercannot rez people
+23:38:48 BattlEye Server: (Group) ANATOLI CHEJOV: because uusemymedic pac
+23:39:05 BattlEye Server: (Group) ANATOLI CHEJOV: im disableking 
+23:39:39 BattlEye Server: (Group) ANATOLI CHEJOV: what 
+23:39:48 BattlEye Server: (Group) ANATOLI CHEJOV: didnot know
+23:40:03 BattlEye Server: (Group) ANATOLI CHEJOV: seethis is why we need hemin game
+23:40:30 BattlEye Server: (Group) ANATOLI CHEJOV: hemu keepit 
+23:40:39 BattlEye Server: (Group) ANATOLI CHEJOV: ipickudownn
+23:43:13 BattlEye Server: (Group) ANATOLI CHEJOV: plsput a beacon
+23:43:22 BattlEye Server: (Group) ANATOLI CHEJOV: no 
+23:43:28 BattlEye Server: (Group) ANATOLI CHEJOV: no worries
+23:47:46 BattlEye Server: (Group) ANATOLI CHEJOV: lol
+23:47:54 BattlEye Server: (Group) ANATOLI CHEJOV: kabala
+23:47:59 BattlEye Server: (Group) ANATOLI CHEJOV: ineedammo pls
+23:57:29 BattlEye Server: (Group) ANATOLI CHEJOV: no
+ 0:00:32 BattlEye Server: (Group) ANATOLI CHEJOV: illsaty inside
+ 0:00:39 BattlEye Server: (Group) ANATOLI CHEJOV: looking forsomething to eat 
+ 0:06:26 BattlEye Server: (Group) ANATOLI CHEJOV: ok back 
+ 0:06:42 BattlEye Server: (Group) ANATOLI CHEJOV: wtf
+ 0:07:02 BattlEye Server: (Group) ANATOLI CHEJOV: someone is buiding something here
+ 0:08:46 BattlEye Server: (Group) ANATOLI CHEJOV: empty crates
+ 0:08:53 BattlEye Server: (Group) ANATOLI CHEJOV: they were rided 
+ 0:09:18 BattlEye Server: (Group) ANATOLI CHEJOV: yes
+ 0:10:15 BattlEye Server: (Group) Hemlock Kowalski: whatever crates you want put in truck
+ 0:12:37 BattlEye Server: (Group) Hemlock Kowalski: WHATS A WAR CHEST?
+ 0:12:40 BattlEye Server: (Group) ANATOLI CHEJOV: u put monmey 
+ 0:13:59 BattlEye Server: (Group) ANATOLI CHEJOV: ok 
+ 0:18:22 BattlEye Server: (Group) ANATOLI CHEJOV: okback
+ 0:19:23 BattlEye Server: (Group) ANATOLI CHEJOV: yea he do that iknow the feeling 
+ 0:19:37 BattlEye Server: (Group) ANATOLI CHEJOV: right jim
+ 0:21:29 BattlEye Server: (Group) ANATOLI CHEJOV: no sa´pace
+ 0:23:27 BattlEye Server: (Group) ANATOLI CHEJOV: whobuild a base in themiddleof kabalaand in the hospital
+ 0:23:57 BattlEye Server: (Group) ANATOLI CHEJOV: i bet are thosekids
+ 0:27:02 BattlEye Server: (Group) ANATOLI CHEJOV: uknow what they say of womendriving 
+ 0:27:06 BattlEye Server: (Group) ANATOLI CHEJOV: lol
+ 0:27:15 BattlEye Server: (Group) ANATOLI CHEJOV: imjoking 
+ 0:34:07 BattlEye Server: (Group) ANATOLI CHEJOV: y
+ 0:35:06 BattlEye Server: (Group) ANATOLI CHEJOV: wtf 
+ 0:35:17 BattlEye Server: (Group) ANATOLI CHEJOV: jimjust die
+ 0:35:39 BattlEye Server: (Group) ANATOLI CHEJOV: no rex
+ 0:35:44 BattlEye Server: (Group) ANATOLI CHEJOV: sty
+ 0:35:49 BattlEye Server: (Group) ANATOLI CHEJOV: stay there
+ 0:36:11 BattlEye Server: (Group) ANATOLI CHEJOV: shit happens  dude relax 
+ 0:36:13 BattlEye Server: (Group) ANATOLI CHEJOV: is arma
+ 0:36:21 BattlEye Server: (Group) ANATOLI CHEJOV: thats ishowit is always 
+ 0:36:27 BattlEye Server: (Group) ANATOLI CHEJOV: get use to it
+ 0:45:28 BattlEye Server: (Side) ANATOLI CHEJOV: ibut that 
+ 0:45:44 BattlEye Server: (Side) ANATOLI CHEJOV: yes
+ 0:45:49 BattlEye Server: (Side) ANATOLI CHEJOV: coke
+ 0:46:07 BattlEye Server: (Side) ANATOLI CHEJOV: yes
+ 0:46:21 BattlEye Server: (Side) ANATOLI CHEJOV: nohere
+ 0:46:30 BattlEye Server: (Side) ANATOLI CHEJOV: whenirevive jim
+ 0:46:49 BattlEye Server: (Side) ANATOLI CHEJOV: lol
+ 0:46:52 BattlEye Server: (Side) ANATOLI CHEJOV: no
+ 0:48:39 BattlEye Server: (Group) ANATOLI CHEJOV: i kill somany copsfrom here
+ 0:49:09 BattlEye Server: (Group) ANATOLI CHEJOV: exile4 wasallscare ofme}
+ 0:50:53 BattlEye Server: (Group) ANATOLI CHEJOV: ufly
+ 0:53:46 BattlEye Server: (Group) ANATOLI CHEJOV: what 
+ 0:54:00 BattlEye Server: (Group) ANATOLI CHEJOV: ah
+ 0:54:13 BattlEye Server: (Group) ANATOLI CHEJOV: a what 
+ 0:54:43 BattlEye Server: (Group) ANATOLI CHEJOV: noidea what is that
+ 0:54:51 BattlEye Server: (Group) ANATOLI CHEJOV: ah a 
+ 0:54:56 BattlEye Server: (Group) ANATOLI CHEJOV: yea 
+ 0:54:58 BattlEye Server: (Group) ANATOLI CHEJOV: ok
+ 0:55:13 BattlEye Server: (Group) ANATOLI CHEJOV: that big truck 
+ 0:55:19 BattlEye Server: (Group) ANATOLI CHEJOV: the old russian  one
+ 0:56:18 BattlEye Server: (Group) ANATOLI CHEJOV: thereisin exile
+ 0:56:26 BattlEye Server: (Group) ANATOLI CHEJOV: but the zombies are so doll
+ 0:56:51 BattlEye Server: (Group) Hemlock Kowalski: dull I think you mean
+ 0:57:44 BattlEye Server: (Group) ANATOLI CHEJOV: imhaving a smoke in mysnipoing post in kabalahospital when iuse too kill cops  and rebelsand civ  and anything that moves  tobe honest 
+ 0:58:27 BattlEye Server: (Group) ANATOLI CHEJOV: thoser was the days that i start learning sniping 
+ 0:58:33 BattlEye Server: (Group) ANATOLI CHEJOV: withsniperghost 
+ 1:04:47 BattlEye Server: (Group) ANATOLI CHEJOV: a pick uptruck
+ 1:04:53 BattlEye Server: (Group) ANATOLI CHEJOV: at 1 click
+ 1:05:09 BattlEye Server: (Group) ANATOLI CHEJOV: just explote 
+ 1:05:31 BattlEye Server: (Group) ANATOLI CHEJOV: my sniping limit is 16mts
+ 1:05:37 BattlEye Server: 

@@ -1,0 +1,306 @@
+﻿15:01:51 BattlEye Server: Initialized (v1.217)
+15:01:51 Host identity created.
+15:01:51 Game Port: 2307, Steam Query Port: 2308
+15:01:51 Mission A3Wasteland Altis v1.4c read from bank.
+15:01:56 Roles assigned.
+15:01:56 Reading mission ...
+15:02:41 Mission read.
+15:02:41 Game started.
+15:06:38 JUAN BRITOS uses modified data file
+15:06:39 BattlEye Server: Player #0 JUAN BRITOS (190.133.238.206:2309) connected
+15:06:39 Player JUAN BRITOS connecting.
+15:06:39 BattlEye Server: Connected to BE Master
+15:06:41 BattlEye Server: Player #0 JUAN BRITOS - BE GUID: 25a06ef7d52b271a225d04fbadb91d98
+15:06:42 Player JUAN BRITOS connected (id=76561198158129249).
+15:06:42 BattlEye Server: Verified GUID (25a06ef7d52b271a225d04fbadb91d98) of player #0 JUAN BRITOS
+15:11:13 Hermanos uses modified data file
+15:11:13 BattlEye Server: Player #1 Hermanos (186.138.42.245:2309) connected
+15:11:13 Player Hermanos connecting.
+15:11:56 Player Hermanos disconnected.
+15:11:56 BattlEye Server: Player #1 Hermanos disconnected
+15:12:45 Hermanos uses modified data file
+15:12:45 BattlEye Server: Player #1 Hermanos (186.138.42.245:2309) connected
+15:12:46 Player Hermanos connecting.
+15:12:48 BattlEye Server: Player #1 Hermanos - BE GUID: 28e12aefeb6194f3c94af6b88cb6357a
+15:12:49 Player Hermanos connected (id=76561198112403643).
+15:12:49 BattlEye Server: Verified GUID (28e12aefeb6194f3c94af6b88cb6357a) of player #1 Hermanos
+15:13:18 Diego Nunez uses modified data file
+15:13:18 BattlEye Server: Player #2 Diego Nunez (93.109.78.120:2309) connected
+15:13:18 Player Diego Nunez connecting.
+15:13:21 BattlEye Server: Player #2 Diego Nunez - BE GUID: e9174e76ab28bbf80e4acbc591976992
+15:13:22 Player Diego Nunez connected (id=76561198083583311).
+15:13:22 BattlEye Server: Verified GUID (e9174e76ab28bbf80e4acbc591976992) of player #2 Diego Nunez
+15:22:52 Mason uses modified data file
+15:22:52 BattlEye Server: Player #3 Mason (24.207.152.238:2309) connected
+15:22:52 Player Mason connecting.
+15:22:54 BattlEye Server: Player #3 Mason - BE GUID: 955d09b6e1dde9360ceebc2963df084d
+15:22:54 Player Mason connected (id=76561198026943270).
+15:22:54 BattlEye Server: Verified GUID (955d09b6e1dde9360ceebc2963df084d) of player #3 Mason
+15:25:04 Player Mason: Wrong signature for file addons\sounds_f_arsenal.pbo
+15:25:04 Player Mason disconnected.
+15:25:04 BattlEye Server: Player #3 Mason disconnected
+15:26:06 Mason uses modified data file
+15:26:06 BattlEye Server: Player #3 Mason (24.207.152.238:2309) connected
+15:26:06 Player Mason connecting.
+15:26:08 BattlEye Server: Player #3 Mason - BE GUID: 955d09b6e1dde9360ceebc2963df084d
+15:26:08 Player Mason connected (id=76561198026943270).
+15:26:08 BattlEye Server: Verified GUID (955d09b6e1dde9360ceebc2963df084d) of player #3 Mason
+15:27:37 Max Mota uses modified data file
+15:27:37 BattlEye Server: Player #4 Max Mota (201.211.80.165:2309) connected
+15:27:37 Player Max Mota connecting.
+15:27:40 BattlEye Server: Player #4 Max Mota - BE GUID: b24b492882c5bff2195677387329ee4f
+15:27:42 Player Max Mota connected (id=76561198004095068).
+15:27:42 BattlEye Server: Verified GUID (b24b492882c5bff2195677387329ee4f) of player #4 Max Mota
+15:29:37 Player Max Mota disconnected.
+15:29:37 BattlEye Server: Player #4 Max Mota disconnected
+15:30:39 Max Mota uses modified data file
+15:30:39 BattlEye Server: Player #4 Max Mota (201.211.80.165:2309) connected
+15:30:39 Player Max Mota connecting.
+15:30:42 BattlEye Server: Player #4 Max Mota - BE GUID: b24b492882c5bff2195677387329ee4f
+15:30:43 Player Max Mota connected (id=76561198004095068).
+15:30:43 BattlEye Server: Verified GUID (b24b492882c5bff2195677387329ee4f) of player #4 Max Mota
+15:31:51 BattlEye Server: (Global) Max Mota: sup mason
+15:32:59 Player Hermanos kicked off by BattlEye: Client not responding
+15:33:00 Player Hermanos disconnected.
+15:33:33 BattlEye Server: (Global) Max Mota: what are you doing?
+15:37:56 MyLeon9 uses modified data file
+15:37:56 BattlEye Server: Player #5 MyLeon9 (186.138.42.245:2309) connected
+15:37:56 Player MyLeon9 connecting.
+15:38:12 Player MyLeon9 disconnected.
+15:38:12 BattlEye Server: Player #5 MyLeon9 disconnected
+15:38:35 MyLeon9 uses modified data file
+15:38:35 BattlEye Server: Player #5 MyLeon9 (186.138.42.245:2309) connected
+15:38:35 Player MyLeon9 connecting.
+15:38:38 BattlEye Server: Player #5 MyLeon9 - BE GUID: 28e12aefeb6194f3c94af6b88cb6357a
+15:38:39 Player MyLeon9 connected (id=76561198112403643).
+15:38:39 BattlEye Server: Verified GUID (28e12aefeb6194f3c94af6b88cb6357a) of player #5 MyLeon9
+15:58:08 High Alert Highlander  uses modified data file
+15:58:08 BattlEye Server: Player #6 High Alert Highlander  (190.171.107.27:62725) connected
+15:58:08 Player High Alert Highlander  connecting.
+15:58:13 BattlEye Server: Player #6 High Alert Highlander  - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+15:58:23 Player High Alert Highlander  connected (id=76561198065774594).
+15:58:23 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #6 High Alert Highlander 
+15:59:38 BattlEye Server: (Global) Max Mota: bro
+16:00:00 Player MyLeon9 kicked off by BattlEye: Client not responding
+16:00:00 Player MyLeon9 disconnected.
+16:03:26 BattlEye Server: (Global) High Alert Highlander : GOOD DAY ALL 
+16:03:38 BattlEye Server: (Global) High Alert Highlander : JUAN 
+16:03:48 BattlEye Server: (Global) High Alert Highlander : need  to talktoyou 
+16:04:06 BattlEye Server: (Global) High Alert Highlander : yesterday  u did acombat loging 
+16:04:32 BattlEye Server: (Global) High Alert Highlander : taking 700k fromsomeone and then logging out
+16:04:41 BattlEye Server: (Global) High Alert Highlander : that is not acceptable here
+16:04:55 BattlEye Server: (Global) Max Mota: el habla español
+16:04:57 BattlEye Server: (Global) High Alert Highlander : combat loggers  are punish 
+16:05:07 BattlEye Server: (Global) High Alert Highlander : juandeten elheli 
+16:05:28 BattlEye Server: (Global) High Alert Highlander : soy el admin de este server 
+16:05:37 BattlEye Server: (Global) High Alert Highlander : el dia de ayer 
+16:05:49 BattlEye Server: (Global) High Alert Highlander : hiciste un log out en combate 
+16:06:10 BattlEye Server: (Global) High Alert Highlander : tomando  700kde un kill
+16:06:27 BattlEye Server: (Global) High Alert Highlander : y deslogueandote inmediata mente 
+16:06:28 BattlEye Server: (Global) JUAN BRITOS: para guardar mi eli
+16:06:38 BattlEye Server: (Global) High Alert Highlander : despues dela muerte 
+16:06:51 BattlEye Server: (Global) High Alert Highlander : eso se llama combat logging 
+16:07:07 BattlEye Server: (Global) High Alert Highlander : y esconsiderado tramp en este server 
+16:07:19 BattlEye Server: (Global) High Alert Highlander : no es acceptable 
+16:07:26 BattlEye Server: (Global) High Alert Highlander : nunca 
+16:07:36 BattlEye Server: (Global) JUAN BRITOS: y consegui la plata despues que mate a uno plyer
+16:07:37 BattlEye Server: (Global) High Alert Highlander : puedes desloguearte  enmedio de batalla 
+16:08:00 BattlEye Server: (Global) High Alert Highlander : si y desloguandote apenas te empezaron a czar 
+16:08:05 BattlEye Server: (Global) JUAN BRITOS: y recogi las cosas
+16:08:05 BattlEye Server: (Global) High Alert Highlander : cazar
+16:08:38 BattlEye Server: (Global) High Alert Highlander : esta esla situiacion
+16:08:48 BattlEye Server: (Global) High Alert Highlander : por esta ves sera una advertencia 
+16:08:58 BattlEye Server: (Global) High Alert Highlander : no recurire a bannear 
+16:09:11 BattlEye Server: (Global) High Alert Highlander : pero los 700k  seran eliminados dela cuenta 
+16:10:30 BattlEye Server: (Global) High Alert Highlander : espero haber sido claroel dinerosera devuelto al yeet 
+16:10:38 BattlEye Server: (Global) High Alert Highlander : el personaje alquemataste 
+16:10:41 BattlEye Server: (Global) High Alert Highlander : ahora 
+16:10:56 BattlEye Server: (Global) High Alert Highlander : si hubieras  quedadoen juegomas tiempo
+16:11:06 BattlEye Server: (Global) High Alert Highlander : no habria problema
+16:11:16 BattlEye Server: (Global) High Alert Highlander : el problema fue desloguearte apenas 
+16:11:25 BattlEye Server: (Global) High Alert Highlander : recojiste el dinero 
+16:11:35 treekiller uses modified data file
+16:11:36 BattlEye Server: Player #7 treekiller (70.172.213.31:2309) connected
+16:11:36 Player treekiller connecting.
+16:11:38 BattlEye Server: Player #7 treekiller - BE GUID: d691ddeed1c08967a553743488e36405
+16:11:39 Player treekiller connected (id=76561197960489699).
+16:11:39 BattlEye Server: Verified GUID (d691ddeed1c08967a553743488e36405) of player #7 treekiller
+16:11:58 BattlEye Server: (Global) High Alert Highlander : reglas basicas para todoslos habla española
+16:12:03 BattlEye Server: (Global) High Alert Highlander : no se admiten 
+16:12:19 BattlEye Server: (Global) High Alert Highlander : aviones  conmenos de 20 jugadores en juego 
+16:12:31 BattlEye Server: (Global) High Alert Highlander : amenos quesean solopara misiones 
+16:12:49 BattlEye Server: (Global) High Alert Highlander : -no seadmiten  elabuso de drones 
+16:12:59 BattlEye Server: (Global) High Alert Highlander : maximo 2 por persona 
+16:13:20 BattlEye Server: (Global) High Alert Highlander : esperoque pasen buen dia y que disfruten del server 
+16:13:22 BattlEye Server: (Global) Max Mota: esa se la tienes que explicar a yeet hahahaha
+16:13:32 BattlEye Server: (Global) High Alert Highlander : si de hecho 
+16:13:48 BattlEye Server: (Global) High Alert Highlander : aparte que me toca hablar seriamente con el 
+16:14:27 BattlEye Server: (Global) Max Mota: ahora entro al disc les estoy explicando como hacer las cosas por aqui
+16:14:36 BattlEye Server: (Global) High Alert Highlander : ok
+16:14:48 BattlEye Server: (Global) High Alert Highlander : si tiene algunadudaque melo dejen saber
+16:17:08 John Iser uses modified data file
+16:17:08 BattlEye Server: Player #8 John Iser (73.160.184.158:2309) connected
+16:17:08 Player John Iser connecting.
+16:17:10 BattlEye Server: Player #8 John Iser - BE GUID: 62b6cd73f27a292914a188bd529bf942
+16:17:11 Player John Iser connected (id=76561198155489324).
+16:17:11 BattlEye Server: Verified GUID (62b6cd73f27a292914a188bd529bf942) of player #8 John Iser
+16:21:32 BattlEye Server: (Side) John Iser: hi
+16:25:14 MyLeon9 uses modified data file
+16:25:14 BattlEye Server: Player #9 MyLeon9 (186.138.42.245:2309) connected
+16:25:14 Player MyLeon9 connecting.
+16:25:17 BattlEye Server: Player #9 MyLeon9 - BE GUID: 28e12aefeb6194f3c94af6b88cb6357a
+16:25:18 Player MyLeon9 connected (id=76561198112403643).
+16:25:18 BattlEye Server: Verified GUID (28e12aefeb6194f3c94af6b88cb6357a) of player #9 MyLeon9
+16:26:21 BattlEye Server: (Global) John Iser: hey
+16:26:35 BattlEye Server: (Group) Diego Nunez: hey
+16:26:45 BattlEye Server: (Side) Diego Nunez: hey
+16:27:04 BattlEye Server: (Side) Diego Nunez: let  do a mision
+16:27:09 BattlEye Server: (Side) John Iser: okay
+16:27:35 BattlEye Server: (Side) John Iser: want me to get in gunners seat?
+16:27:45 BattlEye Server: (Side) Diego Nunez: DRIVE DUDE TILL THE AIRPORT
+16:27:53 BattlEye Server: (Side) Diego Nunez: THANKS
+16:29:08 BattlEye Server: (Side) Diego Nunez: follow juan britos
+16:31:39 BattlEye Server: (Side) John Iser: repairing
+16:40:19 BattlEye Server: (Global) Max Mota: john iser
+16:40:24 BattlEye Server: (Global) John Iser: yea
+16:40:24 BattlEye Server: (Global) Max Mota: the money is for share
+16:40:41 BattlEye Server: (Global) John Iser: okay
+16:41:32 BattlEye Server: (Direct) MyLeon9: i want to eat a sandwich of meat
+16:42:51 BattlEye Server: (Side) Diego Nunez: jhohn iser 
+16:42:56 BattlEye Server: (Side) John Iser: yea
+16:42:57 BattlEye Server: (Side) Diego Nunez: give me 100k for repair pleaso
+16:43:02 BattlEye Server: (Side) Diego Nunez: please
+16:43:05 BattlEye Server: (Side) John Iser: dont have 100k
+16:43:31 BattlEye Server: (Side) John Iser: just started playing on this server
+16:43:53 BattlEye Server: (Global) Max Mota: dude you dont share the money_
+16:43:57 BattlEye Server: (Global) Max Mota: ??
+16:44:03 BattlEye Server: (Global) John Iser: i dont have 100k
+16:46:46 BattlEye Server: (Side) Max Mota: john
+16:46:51 BattlEye Server: (Side) Max Mota: you take all the money
+16:46:54 BattlEye Server: (Side) Max Mota: and one tank
+16:46:55 BattlEye Server: (Side) John Iser: no
+16:47:02 BattlEye Server: (Side) John Iser: did not take money
+16:47:07 BattlEye Server: (Side) Max Mota: is for share the money and the profit with the tanks
+16:47:15 BattlEye Server: (Side) Max Mota: dude we dont have the money
+16:47:22 BattlEye Server: (Side) John Iser: you lie
+16:47:23 BattlEye Server: (Side) Max Mota: if you want to stole go green
+16:47:33 BattlEye Server: (Side) John Iser: only took tank not money
+16:47:44 BattlEye Server: (Side) John Iser: why u lie?
+16:50:06 BattlEye Server: (Side) John Iser: get shit on kid
+16:50:15 Player John Iser disconnected.
+16:50:16 BattlEye Server: Player #8 John Iser disconnected
+16:50:58 BattlEye Server: (Global) High Alert Highlander : AVISENME CUANDO VUELVA A ENTRAR
+16:51:03 BattlEye Server: (Global) High Alert Highlander : por favor 
+16:57:13 Player treekiller disconnected.
+16:57:13 BattlEye Server: Player #7 treekiller disconnected
+17:00:02 Player MyLeon9 kicked off by BattlEye: Client not responding
+17:00:02 Player MyLeon9 disconnected.
+17:44:02 ARIEL DI LEO uses modified data file
+17:44:02 BattlEye Server: Player #7 ARIEL DI LEO (186.190.136.240:2309) connected
+17:44:02 Player ARIEL DI LEO connecting.
+17:44:06 BattlEye Server: Player #7 ARIEL DI LEO - BE GUID: 3e347e90daa917ff8bb91e3ce1a343f8
+17:44:06 Player ARIEL DI LEO connected (id=76561198346328823).
+17:44:06 BattlEye Server: Verified GUID (3e347e90daa917ff8bb91e3ce1a343f8) of player #7 ARIEL DI LEO
+17:46:45 SgtMajPrivate uses modified data file
+17:46:45 BattlEye Server: Player #8 SgtMajPrivate (73.93.167.13:2309) connected
+17:46:46 Player SgtMajPrivate connecting.
+17:46:48 BattlEye Server: Player #8 SgtMajPrivate - BE GUID: 4c2b9d687447cbad1213b89cfae82f46
+17:46:48 Player SgtMajPrivate connected (id=76561198164565751).
+17:46:48 BattlEye Server: Verified GUID (4c2b9d687447cbad1213b89cfae82f46) of player #8 SgtMajPrivate
+17:54:03 BattlEye Server: Failed to receive from BE Master (10054)
+17:54:03 BattlEye Server: Disconnected from BE Master
+17:54:32 Admin logged in, player: SgtMajPrivate, playerUID: 76561198164565751, IP: 192.168.0.12:2309.
+17:56:20 BattlEye Server: Could not connect to BE Master
+17:56:20 BattlEye Server: Disconnected from BE Master
+17:58:16 BattlEye Server: Connected to BE Master
+18:00:56 Player SgtMajPrivate disconnected.
+18:00:56 BattlEye Server: Player #8 SgtMajPrivate disconnected
+18:00:56 Admin logged out, player: SgtMajPrivate, playerUID: 76561198164565751, IP: 192.168.0.12:2309.
+18:03:39 SgtMajPrivate uses modified data file
+18:03:39 BattlEye Server: Player #8 SgtMajPrivate (73.93.167.13:2309) connected
+18:03:39 Player SgtMajPrivate connecting.
+18:03:41 BattlEye Server: Player #8 SgtMajPrivate - BE GUID: 4c2b9d687447cbad1213b89cfae82f46
+18:03:42 Player SgtMajPrivate connected (id=76561198164565751).
+18:03:42 BattlEye Server: Verified GUID (4c2b9d687447cbad1213b89cfae82f46) of player #8 SgtMajPrivate
+18:04:56 AJ uses modified data file
+18:04:56 BattlEye Server: Player #9 AJ (142.59.100.69:2309) connected
+18:04:56 Player AJ connecting.
+18:04:58 BattlEye Server: Player #9 AJ - BE GUID: 1f059c541e3e8d5963cd6ccb777a1713
+18:04:59 Player AJ connected (id=76561198080094233).
+18:04:59 BattlEye Server: Verified GUID (1f059c541e3e8d5963cd6ccb777a1713) of player #9 AJ
+18:09:02 Maharrynuts uses modified data file
+18:09:02 BattlEye Server: Player #10 Maharrynuts (45.20.100.221:2309) connected
+18:09:02 Player Maharrynuts connecting.
+18:09:04 BattlEye Server: Player #10 Maharrynuts - BE GUID: 60901be13ce2e1d4119c441f0e50f3ca
+18:09:05 Player Maharrynuts connected (id=76561198853052829).
+18:09:05 BattlEye Server: Verified GUID (60901be13ce2e1d4119c441f0e50f3ca) of player #10 Maharrynuts
+18:11:44 Player Maharrynuts disconnected.
+18:11:44 BattlEye Server: Player #10 Maharrynuts disconnected
+18:21:55 BattlEye Server: (Side) High Alert Highlander : carefukk AJ 
+18:22:01 BattlEye Server: (Side) High Alert Highlander : carefull aj
+18:22:09 BattlEye Server: (Side) High Alert Highlander : Those guys r good
+18:22:15 BattlEye Server: (Side) High Alert Highlander : ok
+18:22:59 Player AJ disconnected.
+18:22:59 BattlEye Server: Player #9 AJ disconnected
+18:26:40 Player SgtMajPrivate disconnected.
+18:26:40 BattlEye Server: Player #8 SgtMajPrivate disconnected
+18:42:19 GhostSpartan uses modified data file
+18:42:19 BattlEye Server: Player #8 GhostSpartan (99.7.133.197:2304) connected
+18:42:19 Player GhostSpartan connecting.
+18:42:21 BattlEye Server: Player #8 GhostSpartan - BE GUID: 4d87586b5646e579f6514ad3f70a8935
+18:42:21 Player GhostSpartan disconnected.
+18:42:21 BattlEye Server: Player #8 GhostSpartan disconnected
+18:42:43 Player Max Mota disconnected.
+18:42:43 BattlEye Server: Player #4 Max Mota disconnected
+18:49:31 Maxx Muller uses modified data file
+18:49:31 BattlEye Server: Player #8 Maxx Muller (181.166.61.50:2309) connected
+18:49:31 Player Maxx Muller connecting.
+18:49:34 BattlEye Server: Player #8 Maxx Muller - BE GUID: fd439a898d945bf0998f58d05e64852b
+18:49:34 Player Maxx Muller connected (id=76561198290569724).
+18:49:34 BattlEye Server: Verified GUID (fd439a898d945bf0998f58d05e64852b) of player #8 Maxx Muller
+18:49:35 Player Maxx Muller disconnected.
+18:49:35 BattlEye Server: Player #8 Maxx Muller disconnected
+18:51:34 Maxx Muller uses modified data file
+18:51:34 BattlEye Server: Player #8 Maxx Muller (181.166.61.50:2309) connected
+18:51:34 Player Maxx Muller connecting.
+18:51:37 BattlEye Server: Player #8 Maxx Muller - BE GUID: fd439a898d945bf0998f58d05e64852b
+18:51:37 Player Maxx Muller connected (id=76561198290569724).
+18:51:37 BattlEye Server: Verified GUID (fd439a898d945bf0998f58d05e64852b) of player #8 Maxx Muller
+18:51:38 Player Maxx Muller disconnected.
+18:51:38 BattlEye Server: Player #8 Maxx Muller disconnected
+18:54:50 Player Diego Nunez disconnected.
+18:54:50 BattlEye Server: Player #2 Diego Nunez disconnected
+18:55:51 Maxx Muller uses modified data file
+18:55:51 BattlEye Server: Player #8 Maxx Muller (181.166.61.50:2309) connected
+18:55:51 Player Maxx Muller connecting.
+18:55:54 BattlEye Server: Player #8 Maxx Muller - BE GUID: fd439a898d945bf0998f58d05e64852b
+18:55:55 Player Maxx Muller connected (id=76561198290569724).
+18:55:55 BattlEye Server: Verified GUID (fd439a898d945bf0998f58d05e64852b) of player #8 Maxx Muller
+18:55:56 Player Maxx Muller disconnected.
+18:55:56 BattlEye Server: Player #8 Maxx Muller disconnected
+18:56:45 Hemlock Kowalski uses modified data file
+18:56:45 BattlEye Server: Player #8 Hemlock Kowalski (73.147.1.91:2309) connected
+18:56:45 Player Hemlock Kowalski connecting.
+18:56:48 BattlEye Server: Player #8 Hemlock Kowalski - BE GUID: 0e50d5bc222746efa845806a2af0fed1
+18:56:50 Player Hemlock Kowalski connected (id=76561198201473535).
+18:56:50 BattlEye Server: Verified GUID (0e50d5bc222746efa845806a2af0fed1) of player #8 Hemlock Kowalski
+18:59:01 Maxx Muller uses modified data file
+18:59:01 BattlEye Server: Player #9 Maxx Muller (181.166.61.50:2309) connected
+18:59:01 Player Maxx Muller connecting.
+18:59:04 BattlEye Server: Player #9 Maxx Muller - BE GUID: fd439a898d945bf0998f58d05e64852b
+18:59:04 Player Maxx Muller connected (id=76561198290569724).
+18:59:04 BattlEye Server: Verified GUID (fd439a898d945bf0998f58d05e64852b) of player #9 Maxx Muller
+18:59:05 Player Maxx Muller disconnected.
+18:59:05 BattlEye Server: Player #9 Maxx Muller disconnected
+18:59:25 Andres Falcone uses modified data file
+18:59:25 BattlEye Server: Player #9 Andres Falcone (179.24.105.239:20553) connected
+18:59:26 Player Andres Falcone connecting.
+18:59:28 BattlEye Server: Player #9 Andres Falcone - BE GUID: 605e0d82da0f4e8b0e735a1032f5f71c
+18:59:29 Player Andres Falcone connected (id=76561198057329389).
+18:59:29 BattlEye Server: Verified GUID (605e0d82da0f4e8b0e735a1032f5f71c) of player #9 Andres Falcone
+19:02:18 Maxx Muller uses modified data file
+19:02:18 BattlEye Server: Player #10 Maxx Muller (181.166.61.50:2309) connected
+19:02:18 Player Maxx Muller connecting.
+19:02:21 BattlEye Server: Player #10 Maxx Muller - BE GUID: fd439a898d945bf0998f58d05e64852b
+19:02:22 Player Maxx Muller connected (id=76561198290569724).
+19:02:22 BattlEye Server: Verified G

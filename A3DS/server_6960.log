@@ -1,0 +1,66 @@
+﻿ 3:01:33 BattlEye Server: Initialized (v1.217)
+ 3:01:33 Host identity created.
+ 3:01:33 Game Port: 2307, Steam Query Port: 2308
+ 3:01:33 Mission A3Wasteland Altis v1.4c read from bank.
+ 3:01:35 Roles assigned.
+ 3:01:35 Reading mission ...
+ 3:02:08 Mission read.
+ 3:02:08 Game started.
+ 6:43:47 Xanno uses modified data file
+ 6:43:47 BattlEye Server: Player #0 Xanno (80.112.171.126:2309) connected
+ 6:43:47 Player Xanno connecting.
+ 6:43:48 BattlEye Server: Connected to BE Master
+ 6:43:50 BattlEye Server: Player #0 Xanno - BE GUID: 2ea00043c34112ca786384c137547095
+ 6:43:50 Player Xanno connected (id=76561198071116458).
+ 6:43:50 BattlEye Server: Verified GUID (2ea00043c34112ca786384c137547095) of player #0 Xanno
+ 7:11:46 Gopnik Cyka uses modified data file
+ 7:11:46 BattlEye Server: Player #1 Gopnik Cyka (190.219.125.9:2309) connected
+ 7:11:46 Player Gopnik Cyka connecting.
+ 7:11:52 BattlEye Server: Player #1 Gopnik Cyka - BE GUID: e98736657d7c43344812818c10d01708
+ 7:11:56 Player Gopnik Cyka connected (id=76561198390780858).
+ 7:11:56 BattlEye Server: Verified GUID (e98736657d7c43344812818c10d01708) of player #1 Gopnik Cyka
+ 7:15:45 Player Xanno disconnected.
+ 7:15:45 BattlEye Server: Player #0 Xanno disconnected
+ 8:05:25 MaX uses modified data file
+ 8:05:25 BattlEye Server: Player #2 MaX (92.79.32.247:2309) connected
+ 8:05:25 Player MaX connecting.
+ 8:05:28 BattlEye Server: Player #2 MaX - BE GUID: e314145bd7710aa81d3ef16169587a4a
+ 8:05:37 Player MaX connected (id=76561198039556623).
+ 8:05:37 BattlEye Server: Verified GUID (e314145bd7710aa81d3ef16169587a4a) of player #2 MaX
+ 8:06:52 Player MaX disconnected.
+ 8:06:52 BattlEye Server: Player #2 MaX disconnected
+ 8:09:35 samuka uses modified data file
+ 8:09:35 BattlEye Server: Player #2 samuka (177.154.48.30:26764) connected
+ 8:09:35 Player samuka connecting.
+ 8:09:38 BattlEye Server: Player #2 samuka - BE GUID: b46051d376d527ce995d24cae71bd4af
+ 8:09:38 Player samuka connected (id=76561198065631287).
+ 8:09:38 BattlEye Server: Verified GUID (b46051d376d527ce995d24cae71bd4af) of player #2 samuka
+ 8:16:51 Player samuka: Signature check timed out
+ 8:16:52 Player samuka disconnected.
+ 8:16:52 BattlEye Server: Player #2 samuka disconnected
+ 8:39:03 samuka uses modified data file
+ 8:39:03 BattlEye Server: Player #2 samuka (177.154.48.30:26764) connected
+ 8:39:03 Player samuka connecting.
+ 8:39:05 BattlEye Server: Player #2 samuka - BE GUID: b46051d376d527ce995d24cae71bd4af
+ 8:39:06 Player samuka connected (id=76561198065631287).
+ 8:39:06 BattlEye Server: Verified GUID (b46051d376d527ce995d24cae71bd4af) of player #2 samuka
+ 8:42:21 Player samuka: Signature check timed out
+ 8:42:21 Player samuka disconnected.
+ 8:42:21 BattlEye Server: Player #2 samuka disconnected
+ 8:46:06 High Alert Highlander  uses modified data file
+ 8:46:06 BattlEye Server: Player #2 High Alert Highlander  (190.171.107.63:62725) connected
+ 8:46:06 Player High Alert Highlander  connecting.
+ 8:46:10 BattlEye Server: Player #2 High Alert Highlander  - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+ 8:46:13 Player High Alert Highlander  connected (id=76561198065774594).
+ 8:46:13 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #2 High Alert Highlander 
+ 8:48:11 BattlEye Server: (Side) High Alert Highlander : good morning
+ 8:49:05 Admin logged in, player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+ 8:50:34 BattlEye Server: (Side) High Alert Highlander : u drive 
+ 8:50:45 BattlEye Server: (Side) High Alert Highlander : i dont have apex
+ 8:51:24 BattlEye Server: (Side) High Alert Highlander : lets go to the parking lot 
+ 8:53:44 BattlEye Server: (Side) High Alert Highlander : oik
+ 8:55:00 Failed attempt to execute serverCommand '#lock' by server.
+ 8:55:01 BattlEye Server: (Side) High Alert Highlander : get in 
+ 8:55:18 BattlEye Server: (Side) High Alert Highlander : server is just locked 
+ 8:56:49 BattlEye Server: (Side) High Alert Highlander : never is execive 
+ 8:57:53 BattlEye Server: (Side) High Alert Highlander : it seems that mustly everyone is on vacations rig

@@ -1,0 +1,130 @@
+﻿21:03:23 BattlEye Server: Initialized (v1.217)
+21:03:23 Host identity created.
+21:03:24 Game Port: 2307, Steam Query Port: 2308
+21:03:24 Mission A3Wasteland Altis v1.4c read from bank.
+21:03:25 Roles assigned.
+21:03:25 Reading mission ...
+21:04:11 Mission read.
+21:04:12 Rou Kowalski uses modified data file
+21:04:12 BattlEye Server: Player #0 Rou Kowalski (73.147.1.91:2309) connected
+21:04:12 Player Rou Kowalski connecting.
+21:04:12 Game started.
+21:04:12 BattlEye Server: Connected to BE Master
+21:04:14 BattlEye Server: Player #0 Rou Kowalski - BE GUID: 58cae163ea9d3a0ff8adde240b436737
+21:04:16 Player Rou Kowalski connected (id=76561198034110598).
+21:04:16 BattlEye Server: Verified GUID (58cae163ea9d3a0ff8adde240b436737) of player #0 Rou Kowalski
+21:06:46 Will uses modified data file
+21:06:46 BattlEye Server: Player #1 Will (104.173.7.95:2304) connected
+21:06:46 Player Will connecting.
+21:06:48 BattlEye Server: Player #1 Will - BE GUID: 1e07a04ed27a2a75442a4ae1f28519fa
+21:06:48 Player Will connected (id=76561198304195990).
+21:06:48 BattlEye Server: Verified GUID (1e07a04ed27a2a75442a4ae1f28519fa) of player #1 Will
+21:07:44 Mason uses modified data file
+21:07:44 BattlEye Server: Player #2 Mason (24.207.152.238:2309) connected
+21:07:44 Player Mason connecting.
+21:07:46 BattlEye Server: Player #2 Mason - BE GUID: 955d09b6e1dde9360ceebc2963df084d
+21:07:46 Player Mason connected (id=76561198026943270).
+21:07:46 BattlEye Server: Verified GUID (955d09b6e1dde9360ceebc2963df084d) of player #2 Mason
+21:08:26 High Alert Highlander  uses modified data file
+21:08:26 BattlEye Server: Player #3 High Alert Highlander  (190.171.107.27:62725) connected
+21:08:26 Player High Alert Highlander  connecting.
+21:08:29 BattlEye Server: Player #3 High Alert Highlander  - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+21:08:31 Player High Alert Highlander  connected (id=76561198065774594).
+21:08:31 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #3 High Alert Highlander 
+21:09:47 Max Mota uses modified data file
+21:09:47 BattlEye Server: Player #4 Max Mota (190.75.120.106:2309) connected
+21:09:47 Player Max Mota connecting.
+21:09:49 BattlEye Server: Player #4 Max Mota - BE GUID: b24b492882c5bff2195677387329ee4f
+21:09:51 Player Max Mota connected (id=76561198004095068).
+21:09:51 BattlEye Server: Verified GUID (b24b492882c5bff2195677387329ee4f) of player #4 Max Mota
+21:11:52 Hemlock Kowalski uses modified data file
+21:11:52 BattlEye Server: Player #5 Hemlock Kowalski (73.147.1.91:62241) connected
+21:11:52 Player Hemlock Kowalski connecting.
+21:11:54 BattlEye Server: Player #5 Hemlock Kowalski - BE GUID: 0e50d5bc222746efa845806a2af0fed1
+21:11:56 Player Hemlock Kowalski connected (id=76561198201473535).
+21:11:56 BattlEye Server: Verified GUID (0e50d5bc222746efa845806a2af0fed1) of player #5 Hemlock Kowalski
+21:30:37 BattlEye Server: (Side) Max Mota: this town is bug
+21:52:47 Player Will disconnected.
+21:52:47 BattlEye Server: Player #1 Will disconnected
+22:04:29 Player High Alert Highlander : Wrong signature for file addons\missions_f_beta_video.pbo
+22:04:29 Player High Alert Highlander  disconnected.
+22:04:29 BattlEye Server: Player #3 High Alert Highlander  disconnected
+22:08:28 k3nny uses modified data file
+22:08:28 BattlEye Server: Player #6 k3nny (72.197.54.212:2304) connected
+22:08:28 Player k3nny connecting.
+22:08:30 BattlEye Server: Player #6 k3nny - BE GUID: 3ab4fdf7f2e1ee0ca2d5cb98b413dfd6
+22:08:30 Player k3nny connected (id=76561198031940256).
+22:08:30 BattlEye Server: Verified GUID (3ab4fdf7f2e1ee0ca2d5cb98b413dfd6) of player #6 k3nny
+22:13:41 AJ uses modified data file
+22:13:41 BattlEye Server: Player #7 AJ (142.59.100.69:2309) connected
+22:13:41 Player AJ connecting.
+22:13:43 BattlEye Server: Player #7 AJ - BE GUID: 1f059c541e3e8d5963cd6ccb777a1713
+22:13:44 Player AJ connected (id=76561198080094233).
+22:13:44 BattlEye Server: Verified GUID (1f059c541e3e8d5963cd6ccb777a1713) of player #7 AJ
+22:19:39 Player k3nny disconnected.
+22:19:39 BattlEye Server: Player #6 k3nny disconnected
+22:36:12 High Alert Highlander  uses modified data file
+22:36:12 BattlEye Server: Player #8 High Alert Highlander  (190.171.107.27:62725) connected
+22:36:12 Player High Alert Highlander  connecting.
+22:36:14 BattlEye Server: Player #8 High Alert Highlander  - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+22:36:16 Player High Alert Highlander  connected (id=76561198065774594).
+22:36:16 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #8 High Alert Highlander 
+22:36:32 Player AJ disconnected.
+22:36:32 BattlEye Server: Player #7 AJ disconnected
+22:44:53 BattlEye Server: (Global) Max Mota: /fear
+22:59:37 BattlEye Server: (Group) Max Mota: pink..
+22:59:39 BattlEye Server: (Group) Max Mota: make it pink
+ 0:02:44 Dylan uses modified data file
+ 0:02:44 BattlEye Server: Player #9 Dylan (75.118.26.151:2304) connected
+ 0:02:44 Player Dylan connecting.
+ 0:02:46 BattlEye Server: Player #9 Dylan - BE GUID: e532b7209dd45510742e67a45e4a0699
+ 0:02:46 Player Dylan connected (id=76561198109462771).
+ 0:02:46 BattlEye Server: Verified GUID (e532b7209dd45510742e67a45e4a0699) of player #9 Dylan
+ 0:06:30 Player Dylan disconnected.
+ 0:06:30 BattlEye Server: Player #9 Dylan disconnected
+ 0:09:29 AJ uses modified data file
+ 0:09:29 BattlEye Server: Player #9 AJ (142.59.100.69:2309) connected
+ 0:09:29 Player AJ connecting.
+ 0:09:32 BattlEye Server: Player #9 AJ - BE GUID: 1f059c541e3e8d5963cd6ccb777a1713
+ 0:09:32 Player AJ connected (id=76561198080094233).
+ 0:09:32 BattlEye Server: Verified GUID (1f059c541e3e8d5963cd6ccb777a1713) of player #9 AJ
+ 0:23:43 arby3 uses modified data file
+ 0:23:43 BattlEye Server: Player #10 arby3 (159.118.132.107:2304) connected
+ 0:23:43 Player arby3 connecting.
+ 0:23:45 BattlEye Server: Player #10 arby3 - BE GUID: 1969ecfd04212dade4dd9482fd089b12
+ 0:23:46 Player arby3 connected (id=76561198342579448).
+ 0:23:46 BattlEye Server: Verified GUID (1969ecfd04212dade4dd9482fd089b12) of player #10 arby3
+ 0:25:59 NINJA uses modified data file
+ 0:25:59 BattlEye Server: Player #11 NINJA (76.218.92.192:2304) connected
+ 0:25:59 Player NINJA connecting.
+ 0:26:01 BattlEye Server: Player #11 NINJA - BE GUID: 85c3555e85066a8532a801556e7c3ceb
+ 0:26:01 Player NINJA connected (id=76561198088123775).
+ 0:26:01 BattlEye Server: Verified GUID (85c3555e85066a8532a801556e7c3ceb) of player #11 NINJA
+ 0:27:00 Voodoo uses modified data file
+ 0:27:00 BattlEye Server: Player #12 Voodoo (173.28.50.147:2309) connected
+ 0:27:00 Player Voodoo connecting.
+ 0:27:04 BattlEye Server: Player #12 Voodoo - BE GUID: 9605ad9547ca662373aeb401ac8b079c
+ 0:27:04 Player Voodoo connected (id=76561198139226388).
+ 0:27:04 BattlEye Server: Verified GUID (9605ad9547ca662373aeb401ac8b079c) of player #12 Voodoo
+ 0:29:03 Kyle uses modified data file
+ 0:29:04 BattlEye Server: Player #13 Kyle (98.212.221.109:2304) connected
+ 0:29:04 Player Kyle connecting.
+ 0:29:05 BattlEye Server: Player #13 Kyle - BE GUID: ef90329741f9d3f8e46fef2669944dd5
+ 0:29:06 Player Kyle connected (id=76561198812817945).
+ 0:29:06 BattlEye Server: Verified GUID (ef90329741f9d3f8e46fef2669944dd5) of player #13 Kyle
+ 0:29:31 BattlEye Server: (Global) Voodoo: Thank god the rage master is back :D
+ 0:29:48 BattlEye Server: (Global) Voodoo: And what's up High
+ 0:29:55 BattlEye Server: (Group) High Alert Highlander : thatmeans money foryou guys 
+ 0:30:07 BattlEye Server: (Global) High Alert Highlander : that means money for you guys 
+ 0:32:28 BattlEye Server: (Global) Voodoo: Rip he went blufor
+ 0:32:37 BattlEye Server: (Global) High Alert Highlander : goindie
+ 0:32:52 BattlEye Server: (Global) Voodoo: I'm locked to Blufor :(
+ 0:33:09 BattlEye Server: (Global) High Alert Highlander : not any more
+ 0:33:28 BattlEye Server: (Global) Voodoo: He's at altis ne airport btw
+ 0:34:23 Player Kyle disconnected.
+ 0:34:23 BattlEye Server: Player #13 Kyle disconnected
+ 0:34:28 BattlEye Server: (Global) Voodoo: XD
+ 0:34:33 BattlEye Server: (Global) Voodoo: He scared
+ 0:34:44 BattlEye Server: (Global) High Alert Highlander : i want himout 
+ 0:35:02 BattlEye Server: (Global) High Alert Highlander : by his own desition 
+ 0:35:19 BattlEye Se

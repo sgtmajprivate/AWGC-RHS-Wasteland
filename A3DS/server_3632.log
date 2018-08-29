@@ -1,0 +1,120 @@
+﻿10:59:36 BattlEye Server: Initialized (v1.217)
+10:59:36 Host identity created.
+10:59:36 Game Port: 2307, Steam Query Port: 2308
+10:59:36 Mission A3Wasteland Altis v1.4c read from bank.
+10:59:37 Roles assigned.
+10:59:37 Reading mission ...
+11:00:11 Mission read.
+11:00:11 Game started.
+11:09:22 SgtMajPrivate uses modified data file
+11:09:22 BattlEye Server: Player #0 SgtMajPrivate (73.93.167.13:2309) connected
+11:09:22 Player SgtMajPrivate connecting.
+11:09:22 BattlEye Server: Connected to BE Master
+11:09:24 BattlEye Server: Player #0 SgtMajPrivate - BE GUID: 4c2b9d687447cbad1213b89cfae82f46
+11:09:24 Player SgtMajPrivate connected (id=76561198164565751).
+11:09:24 BattlEye Server: Verified GUID (4c2b9d687447cbad1213b89cfae82f46) of player #0 SgtMajPrivate
+11:13:09 RockstarGaming uses modified data file
+11:13:09 BattlEye Server: Player #1 RockstarGaming (107.204.216.18:2304) connected
+11:13:09 Player RockstarGaming connecting.
+11:13:11 BattlEye Server: Player #1 RockstarGaming - BE GUID: 23fe7edb77e6acee989bf1757f516554
+11:13:11 Player RockstarGaming connected (id=76561198250040454).
+11:13:11 BattlEye Server: Verified GUID (23fe7edb77e6acee989bf1757f516554) of player #1 RockstarGaming
+11:18:13 High Alert Highlander  uses modified data file
+11:18:13 BattlEye Server: Player #2 High Alert Highlander  (190.171.107.107:62725) connected
+11:18:13 Player High Alert Highlander  connecting.
+11:18:18 BattlEye Server: Player #2 High Alert Highlander  - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+11:18:22 Player High Alert Highlander  connected (id=76561198065774594).
+11:18:22 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #2 High Alert Highlander 
+11:23:18 BattlEye Server: (Global) High Alert Highlander : i will be in later sarg i will be in discord for now
+11:33:11 MajorLamb uses modified data file
+11:33:11 BattlEye Server: Player #3 MajorLamb (47.221.105.193:2304) connected
+11:33:11 Player MajorLamb connecting.
+11:33:14 BattlEye Server: Player #3 MajorLamb - BE GUID: 724ee4c8114a82fffb8aa86560b1276e
+11:33:14 Player MajorLamb connected (id=76561198146452199).
+11:33:14 BattlEye Server: Verified GUID (724ee4c8114a82fffb8aa86560b1276e) of player #3 MajorLamb
+11:33:18 maida uses modified data file
+11:33:18 BattlEye Server: Player #4 maida (62.44.134.178:2309) connected
+11:33:18 Player maida connecting.
+11:33:22 BattlEye Server: Player #4 maida - BE GUID: c9430d597347c89ee182da463e151d8a
+11:33:23 Player maida connected (id=76561198430157991).
+11:33:23 BattlEye Server: Verified GUID (c9430d597347c89ee182da463e151d8a) of player #4 maida
+11:33:53 Player MajorLamb disconnected.
+11:33:53 BattlEye Server: Player #3 MajorLamb disconnected
+11:34:43 Dakota Grant uses modified data file
+11:34:43 BattlEye Server: Player #5 Dakota Grant (68.39.182.9:2304) connected
+11:34:43 Player Dakota Grant connecting.
+11:34:45 BattlEye Server: Player #5 Dakota Grant - BE GUID: c9edd8f80af0966be8299851a2dd6338
+11:34:45 Player Dakota Grant connected (id=76561198196780361).
+11:34:45 BattlEye Server: Verified GUID (c9edd8f80af0966be8299851a2dd6338) of player #5 Dakota Grant
+11:34:46 Player Dakota Grant disconnected.
+11:34:46 BattlEye Server: Player #5 Dakota Grant disconnected
+11:35:34 Player maida disconnected.
+11:35:34 BattlEye Server: Player #4 maida disconnected
+11:36:33 maida uses modified data file
+11:36:33 BattlEye Server: Player #3 maida (62.44.134.178:2309) connected
+11:36:33 Player maida connecting.
+11:36:35 BattlEye Server: Player #3 maida - BE GUID: c9430d597347c89ee182da463e151d8a
+11:36:36 Player maida connected (id=76561198430157991).
+11:36:36 BattlEye Server: Verified GUID (c9430d597347c89ee182da463e151d8a) of player #3 maida
+11:43:21 Player High Alert Highlander  disconnected.
+11:43:21 BattlEye Server: Player #2 High Alert Highlander  disconnected
+11:50:25 High Alert Highlander  uses modified data file
+11:50:25 BattlEye Server: Player #4 High Alert Highlander  (190.171.107.107:62725) connected
+11:50:25 Player High Alert Highlander  connecting.
+11:50:30 BattlEye Server: Player #4 High Alert Highlander  - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+11:50:33 Player High Alert Highlander  connected (id=76561198065774594).
+11:50:33 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #4 High Alert Highlander 
+11:50:38 BattlEye Server: (Side) SgtMajPrivate: hit the end key
+11:52:52 BattlEye Server: (Global) High Alert Highlander : hey guys 
+11:52:54 BattlEye Server: (Global) High Alert Highlander : hi 
+11:53:55 Admin logged in, player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+11:58:16 Admin logged out, player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+12:00:10 Player SgtMajPrivate disconnected.
+12:00:10 BattlEye Server: Player #0 SgtMajPrivate disconnected
+12:00:35 Admin logged in, player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+12:01:05 Admin logged out, player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+12:01:56 SgtMajPrivate uses modified data file
+12:01:56 BattlEye Server: Player #5 SgtMajPrivate (73.93.167.13:2304) connected
+12:01:56 Player SgtMajPrivate connecting.
+12:01:58 BattlEye Server: Player #5 SgtMajPrivate - BE GUID: 4c2b9d687447cbad1213b89cfae82f46
+12:01:58 Player SgtMajPrivate connected (id=76561198164565751).
+12:01:58 BattlEye Server: Verified GUID (4c2b9d687447cbad1213b89cfae82f46) of player #5 SgtMajPrivate
+12:04:12 Admin logged in, player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+12:06:36 BattlEye Server: (Global) High Alert Highlander : wtf  sarg dont hurt your team mates that is my job 
+12:06:42 BattlEye Server: (Side) SgtMajPrivate: lol
+12:07:27 Admin logged out, player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+12:11:36 Admin logged in, player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+12:12:56 BattlEye Server: (Global) RockstarGaming: heck
+12:14:35 BattlEye Server: (Side) RockstarGaming: spawn at mason
+12:14:40 BattlEye Server: (Side) RockstarGaming: i have a truck there
+12:15:06 Admin logged out, player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+12:28:56 BattlEye Server: (Side) RockstarGaming: where should we spawn
+12:29:31 BattlEye Server: (Global) High Alert Highlander : ill be back later gys im going to sleep for a bit 
+12:29:36 BattlEye Server: (Side) RockstarGaming: ...
+12:29:42 BattlEye Server: (Global) RockstarGaming: K
+12:29:51 Player High Alert Highlander  disconnected.
+12:29:51 BattlEye Server: Player #4 High Alert Highlander  disconnected
+12:39:01 pman uses modified data file
+12:39:01 BattlEye Server: Player #6 pman (201.6.132.191:16622) connected
+12:39:01 Player pman connecting.
+12:39:03 BattlEye Server: Player #6 pman - BE GUID: d4ba32b865d32e320768e0e5c4b83d1e
+12:39:04 Player pman connected (id=76561198050257394).
+12:39:04 BattlEye Server: Verified GUID (d4ba32b865d32e320768e0e5c4b83d1e) of player #6 pman
+12:46:33 SnipinFoolz uses modified data file
+12:46:33 BattlEye Server: Player #7 SnipinFoolz (100.40.24.103:2309) connected
+12:46:33 Player SnipinFoolz connecting.
+12:46:35 BattlEye Server: Player #7 SnipinFoolz - BE GUID: f1604fd30452732abf8f0c3057b709a9
+12:46:35 Player SnipinFoolz connected (id=76561198120549197).
+12:46:35 BattlEye Server: Verified GUID (f1604fd30452732abf8f0c3057b709a9) of player #7 SnipinFoolz
+12:48:54 BattlEye Server: (Side) RockstarGaming: MAIDA
+12:48:57 BattlEye Server: (Side) RockstarGaming: sry caps
+12:49:07 BattlEye Server: (Side) RockstarGaming: saty in the gun stor
+12:49:14 BattlEye Server: (Side) RockstarGaming: store so we can spawn in that town
+12:49:24 BattlEye Server: (Side) RockstarGaming: my spelling
+12:50:37 Player SnipinFoolz disconnected.
+12:50:37 BattlEye Server: Player #7 SnipinFoolz disconnected
+12:50:42 BattlEye Server: (Side) RockstarGaming: oh
+12:51:05 BattlEye Server: (Side) maida: sdfsdfsdf
+13:07:39 BattlEye Server: (Side) pman: hi, I can hear you guys, but no mic here
+13:22:19 Panterka uses modified data file
+13:22:19 BattlEye Server: Player #7 Panterka (213.2

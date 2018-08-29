@@ -1,0 +1,124 @@
+﻿ 9:01:43 BattlEye Server: Initialized (v1.217)
+ 9:01:43 Host identity created.
+ 9:01:43 Game Port: 2307, Steam Query Port: 2308
+ 9:01:43 Mission A3Wasteland Altis v1.4c read from bank.
+ 9:01:44 Roles assigned.
+ 9:01:45 Reading mission ...
+ 9:02:23 Mission read.
+ 9:02:23 Game started.
+ 9:36:03 Dossz uses modified data file
+ 9:36:03 BattlEye Server: Player #0 Dossz (72.135.35.53:2304) connected
+ 9:36:03 Player Dossz connecting.
+ 9:36:03 BattlEye Server: Connected to BE Master
+ 9:36:05 BattlEye Server: Player #0 Dossz - BE GUID: 55bbfd49e68429dd8f36ccbebb7ca76e
+ 9:36:06 Player Dossz connected (id=76561198128892688).
+ 9:36:06 BattlEye Server: Verified GUID (55bbfd49e68429dd8f36ccbebb7ca76e) of player #0 Dossz
+ 9:36:06 Player Dossz disconnected.
+ 9:36:06 BattlEye Server: Player #0 Dossz disconnected
+ 9:40:27 Dossz uses modified data file
+ 9:40:27 BattlEye Server: Player #0 Dossz (72.135.35.53:2304) connected
+ 9:40:27 Player Dossz connecting.
+ 9:40:29 BattlEye Server: Player #0 Dossz - BE GUID: 55bbfd49e68429dd8f36ccbebb7ca76e
+ 9:40:29 Player Dossz connected (id=76561198128892688).
+ 9:40:29 BattlEye Server: Verified GUID (55bbfd49e68429dd8f36ccbebb7ca76e) of player #0 Dossz
+ 9:52:23 Soft Fluffy Cuddlebear uses modified data file
+ 9:52:23 BattlEye Server: Player #1 Soft Fluffy Cuddlebear (190.171.107.94:62720) connected
+ 9:52:23 Player Soft Fluffy Cuddlebear connecting.
+ 9:52:25 BattlEye Server: Player #1 Soft Fluffy Cuddlebear - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+ 9:52:26 Player Soft Fluffy Cuddlebear connected (id=76561198065774594).
+ 9:52:26 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #1 Soft Fluffy Cuddlebear
+ 9:56:16 Player Soft Fluffy Cuddlebear disconnected.
+ 9:56:16 BattlEye Server: Player #1 Soft Fluffy Cuddlebear disconnected
+10:11:54 Player Dossz disconnected.
+10:11:54 BattlEye Server: Player #0 Dossz disconnected
+10:35:31 Rou Kowalski uses modified data file
+10:35:31 BattlEye Server: Player #0 Rou Kowalski (73.147.1.91:2309) connected
+10:35:31 Player Rou Kowalski connecting.
+10:35:34 BattlEye Server: Player #0 Rou Kowalski - BE GUID: 58cae163ea9d3a0ff8adde240b436737
+10:35:36 Player Rou Kowalski connected (id=76561198034110598).
+10:35:36 BattlEye Server: Verified GUID (58cae163ea9d3a0ff8adde240b436737) of player #0 Rou Kowalski
+11:22:29 Lopaque uses modified data file
+11:22:29 BattlEye Server: Player #1 Lopaque (91.181.27.187:2304) connected
+11:22:29 Player Lopaque connecting.
+11:22:31 BattlEye Server: Player #1 Lopaque - BE GUID: bd7c3fe92a0bd0e10854e5efc2e6fdf6
+11:22:35 Player Lopaque connected (id=76561198303308983).
+11:22:35 BattlEye Server: Verified GUID (bd7c3fe92a0bd0e10854e5efc2e6fdf6) of player #1 Lopaque
+11:30:51 BattlEye Server: (Global) Rou Kowalski: Hello and welcome, Friendly or PVP?
+11:31:09 BattlEye Server: (Global) Lopaque: Self defense :D
+11:31:22 BattlEye Server: (Global) Rou Kowalski: LOL
+11:36:14 BattlEye Server: (Global) Lopaque: No random véhicel spawn ?
+11:36:39 BattlEye Server: (Global) Rou Kowalski: there is, you passed one. to your north
+11:42:14 valink618 uses modified data file
+11:42:14 BattlEye Server: Player #2 valink618 (92.170.247.116:2304) connected
+11:42:14 Player valink618 connecting.
+11:42:17 BattlEye Server: Player #2 valink618 - BE GUID: a61fa30e0b98439c7b79549d776e058b
+11:42:17 Player valink618 connected (id=76561198044972566).
+11:42:17 BattlEye Server: Verified GUID (a61fa30e0b98439c7b79549d776e058b) of player #2 valink618
+11:45:50 ROADGLIDE uses modified data file
+11:45:50 BattlEye Server: Player #3 ROADGLIDE (63.142.112.13:2309) connected
+11:45:50 Player ROADGLIDE connecting.
+11:45:52 BattlEye Server: Player #3 ROADGLIDE - BE GUID: 0c6a9ddac9dd8980c3d63e983e2a4cd6
+11:45:53 Player ROADGLIDE connected (id=76561198448325882).
+11:45:53 BattlEye Server: Verified GUID (0c6a9ddac9dd8980c3d63e983e2a4cd6) of player #3 ROADGLIDE
+11:46:14 Player Lopaque disconnected.
+11:46:14 BattlEye Server: Player #1 Lopaque disconnected
+11:49:24 Lopaque uses modified data file
+11:49:24 BattlEye Server: Player #4 Lopaque (91.181.27.187:2309) connected
+11:49:24 Player Lopaque connecting.
+11:49:27 BattlEye Server: Player #4 Lopaque - BE GUID: bd7c3fe92a0bd0e10854e5efc2e6fdf6
+11:49:30 Player Lopaque connected (id=76561198303308983).
+11:49:30 BattlEye Server: Verified GUID (bd7c3fe92a0bd0e10854e5efc2e6fdf6) of player #4 Lopaque
+11:50:23 BattlEye Server: (Global) Rou Kowalski: Hello and welcome Valink, Friendly or PVP?
+11:51:24 BattlEye Server: (Global) Rou Kowalski: Welcome back Lopaque
+11:55:41 BattlEye Server: (Global) Rou Kowalski: brb all
+11:55:59 Player Rou Kowalski disconnected.
+11:55:59 BattlEye Server: Player #0 Rou Kowalski disconnected
+11:57:15 Rou Kowalski uses modified data file
+11:57:16 BattlEye Server: Player #5 Rou Kowalski (73.147.1.91:2309) connected
+11:57:16 Player Rou Kowalski connecting.
+11:57:18 BattlEye Server: Player #5 Rou Kowalski - BE GUID: 58cae163ea9d3a0ff8adde240b436737
+11:57:24 Player Rou Kowalski connected (id=76561198034110598).
+11:57:24 BattlEye Server: Verified GUID (58cae163ea9d3a0ff8adde240b436737) of player #5 Rou Kowalski
+11:57:49 Player Rou Kowalski disconnected.
+11:57:49 BattlEye Server: Player #5 Rou Kowalski disconnected
+11:58:30 Kommando-83 uses modified data file
+11:58:30 BattlEye Server: Player #5 Kommando-83 (143.159.1.67:2309) connected
+11:58:30 Player Kommando-83 connecting.
+11:58:32 BattlEye Server: Player #5 Kommando-83 - BE GUID: 4146fc18e36e0f6c55217632e9ddcc93
+11:58:33 Player Kommando-83 connected (id=76561198009418155).
+11:58:33 BattlEye Server: Verified GUID (4146fc18e36e0f6c55217632e9ddcc93) of player #5 Kommando-83
+11:58:40 Player valink618 disconnected.
+11:58:40 BattlEye Server: Player #2 valink618 disconnected
+11:58:53 Player Lopaque disconnected.
+11:58:53 BattlEye Server: Player #4 Lopaque disconnected
+11:59:24 Rou Kowalski uses modified data file
+11:59:24 BattlEye Server: Player #6 Rou Kowalski (73.147.1.91:2309) connected
+11:59:24 Player Rou Kowalski connecting.
+11:59:27 BattlEye Server: Player #6 Rou Kowalski - BE GUID: 58cae163ea9d3a0ff8adde240b436737
+11:59:37 Player Rou Kowalski connected (id=76561198034110598).
+11:59:37 BattlEye Server: Verified GUID (58cae163ea9d3a0ff8adde240b436737) of player #6 Rou Kowalski
+12:01:28 BattlEye Server: (Global) Rou Kowalski: Hello and welcome Kommando.. Friendly or PVP?
+12:01:44 Soft Fluffy Cuddlebear uses modified data file
+12:01:44 BattlEye Server: Player #7 Soft Fluffy Cuddlebear (190.171.107.94:62725) connected
+12:01:44 Player Soft Fluffy Cuddlebear connecting.
+12:01:48 BattlEye Server: Player #7 Soft Fluffy Cuddlebear - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+12:01:48 Player Soft Fluffy Cuddlebear connected (id=76561198065774594).
+12:01:48 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #7 Soft Fluffy Cuddlebear
+12:01:52 Player Kommando-83 disconnected.
+12:01:52 BattlEye Server: Player #5 Kommando-83 disconnected
+12:02:18 Player Soft Fluffy Cuddlebear disconnected.
+12:02:18 BattlEye Server: Player #7 Soft Fluffy Cuddlebear disconnected
+12:04:36 Soft Fluffy Cuddlebear uses modified data file
+12:04:36 BattlEye Server: Player #7 Soft Fluffy Cuddlebear (190.171.107.94:62725) connected
+12:04:36 Player Soft Fluffy Cuddlebear connecting.
+12:04:41 BattlEye Server: Player #7 Soft Fluffy Cuddlebear - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+12:04:41 Player Soft Fluffy Cuddlebear connected (id=76561198065774594).
+12:04:41 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #7 Soft Fluffy Cuddlebear
+12:12:51 BattlEye Server: (Global) Rou Kowalski: Hello and welcome Cuddlebear, Friendly or PVP?
+12:15:49 BattlEye Server: (Global) Soft Fluffy Cuddlebear: disable one 
+12:16:09 BattlEye Server: (Global) Rou Kowalski: You did?
+12:16:22 BattlEye Server: (Global) Soft Fluffy Cuddlebear: yes
+12:19:32 BattlEye Server: (Global) Soft Fluffy Cuddlebear: i disable two 
+12:19:54 BattlEye Server: (Global) Rou Kowalski: nice, now we just need to kill lead to keep them from de-spawning
+12:20:27 BattlEye Server: (Global) Soft Fluffy Cuddlebear: go kill it 
+12:26:50 BattlEye Server: (Global) Rou Kowalski: Let me grab one and we will convoy to lead and 

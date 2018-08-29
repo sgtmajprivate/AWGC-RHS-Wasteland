@@ -1,0 +1,610 @@
+﻿21:01:34 BattlEye Server: Initialized (v1.217)
+21:01:34 Host identity created.
+21:01:34 Game Port: 2307, Steam Query Port: 2308
+21:01:34 Mission A3Wasteland Altis v1.4c read from bank.
+21:01:36 Roles assigned.
+21:01:36 Reading mission ...
+21:02:09 Mission read.
+21:02:10 Game started.
+21:07:00 Ironside uses modified data file
+21:07:00 BattlEye Server: Player #0 Ironside (24.118.118.85:2304) connected
+21:07:00 Player Ironside connecting.
+21:07:01 BattlEye Server: Connected to BE Master
+21:07:02 BattlEye Server: Player #0 Ironside - BE GUID: 8a2cf5db8b52210b8d418782d4ba31a9
+21:07:03 Player Ironside connected (id=76561198159407384).
+21:07:03 BattlEye Server: Verified GUID (8a2cf5db8b52210b8d418782d4ba31a9) of player #0 Ironside
+21:07:06 flow uses modified data file
+21:07:06 BattlEye Server: Player #1 flow (98.223.9.47:2304) connected
+21:07:06 Player flow connecting.
+21:07:08 BattlEye Server: Player #1 flow - BE GUID: 2f1988ec1f268e92b390c1d7d06902a9
+21:07:08 Player flow connected (id=76561198397747497).
+21:07:08 BattlEye Server: Verified GUID (2f1988ec1f268e92b390c1d7d06902a9) of player #1 flow
+21:07:40 Odhaving uses modified data file
+21:07:40 BattlEye Server: Player #2 Odhaving (208.107.215.51:2304) connected
+21:07:41 Player Odhaving connecting.
+21:07:43 BattlEye Server: Player #2 Odhaving - BE GUID: 3dd45ae2aae999a097eb909cbc8278fa
+21:07:58 Player Odhaving connected (id=76561198281946559).
+21:07:58 BattlEye Server: Verified GUID (3dd45ae2aae999a097eb909cbc8278fa) of player #2 Odhaving
+21:41:21 SgtMajPrivate uses modified data file
+21:41:21 BattlEye Server: Player #3 SgtMajPrivate (73.93.167.13:2309) connected
+21:41:21 Player SgtMajPrivate connecting.
+21:41:23 BattlEye Server: Player #3 SgtMajPrivate - BE GUID: 4c2b9d687447cbad1213b89cfae82f46
+21:41:24 Player SgtMajPrivate connected (id=76561198164565751).
+21:41:24 BattlEye Server: Verified GUID (4c2b9d687447cbad1213b89cfae82f46) of player #3 SgtMajPrivate
+21:45:17 Player SgtMajPrivate disconnected.
+21:45:17 BattlEye Server: Player #3 SgtMajPrivate disconnected
+21:48:01 SgtMajPrivate uses modified data file
+21:48:02 BattlEye Server: Player #3 SgtMajPrivate (73.93.167.13:2309) connected
+21:48:02 Player SgtMajPrivate connecting.
+21:48:04 BattlEye Server: Player #3 SgtMajPrivate - BE GUID: 4c2b9d687447cbad1213b89cfae82f46
+21:48:04 Player SgtMajPrivate connected (id=76561198164565751).
+21:48:04 BattlEye Server: Verified GUID (4c2b9d687447cbad1213b89cfae82f46) of player #3 SgtMajPrivate
+21:50:10 Admin logged in, player: SgtMajPrivate, playerUID: 76561198164565751, IP: 192.168.0.11:2309.
+21:54:22 High Alert Highlander  uses modified data file
+21:54:22 BattlEye Server: Player #4 High Alert Highlander  (190.171.107.63:62725) connected
+21:54:22 Player High Alert Highlander  connecting.
+21:54:27 BattlEye Server: Player #4 High Alert Highlander  - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+21:54:31 Player High Alert Highlander  connected (id=76561198065774594).
+21:54:31 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #4 High Alert Highlander 
+21:57:24 BattlEye Server: (Group) High Alert Highlander : hi sarg 
+21:58:24 BattlEye Server: (Group) High Alert Highlander : what mission r u going too
+22:02:44 BattlEye Server: (Group) High Alert Highlander : im in discordif u want tojoinme
+22:12:39 BattlEye Server: (Group) High Alert Highlander : i dont hear u
+22:13:49 BattlEye Server: (Group) High Alert Highlander : im doing the town invation 
+22:14:26 BattlEye Server: (Side) Odhaving: Tanks ours
+22:14:54 BattlEye Server: (Side) High Alert Highlander : u cant claim missions 
+22:16:54 Player flow disconnected.
+22:16:54 BattlEye Server: Player #1 flow disconnected
+22:26:18 BattlEye Server: (Group) High Alert Highlander : we seriusly need tocreate something tobalance the factions 
+22:26:28 BattlEye Server: (Group) High Alert Highlander : everyoneis always blue 
+22:29:18 Player Odhaving disconnected.
+22:29:18 BattlEye Server: Player #2 Odhaving disconnected
+22:31:49 BattlEye Server: (Side) Ironside: you want it?
+22:33:09 BattlEye Server: (Side) Ironside: yes no?
+22:39:17 Romario uses modified data file
+22:39:17 BattlEye Server: Player #5 Romario (172.56.40.1:47650) connected
+22:39:18 Player Romario connecting.
+22:39:21 BattlEye Server: Player #5 Romario - BE GUID: e37c45dff33aa2f135cb0933584ecd6b
+22:39:21 Player Romario connected (id=76561198818787858).
+22:39:21 BattlEye Server: Verified GUID (e37c45dff33aa2f135cb0933584ecd6b) of player #5 Romario
+22:42:05 Player Ironside disconnected.
+22:42:05 BattlEye Server: Player #0 Ironside disconnected
+22:43:03 Player High Alert Highlander  disconnected.
+22:43:03 BattlEye Server: Player #4 High Alert Highlander  disconnected
+22:43:39 Player SgtMajPrivate disconnected.
+22:43:39 BattlEye Server: Player #3 SgtMajPrivate disconnected
+22:43:39 Admin logged out, player: SgtMajPrivate, playerUID: 76561198164565751, IP: 192.168.0.11:2309.
+23:44:40 Player Romario disconnected.
+23:44:41 BattlEye Server: Player #5 Romario disconnected
+ 2:55:00 Failed attempt to execute serverCommand '#lock' by server.
+ 9:45:57 John uses modified data file
+ 9:45:58 BattlEye Server: Player #0 John (104.156.122.125:2309) connected
+ 9:45:58 Player John connecting.
+ 9:46:00 BattlEye Server: Player #0 John - BE GUID: 1afe651eaee61439fe0d8dcbb1d1d124
+ 9:46:01 Player John connected (id=76561198038821136).
+ 9:46:01 BattlEye Server: Verified GUID (1afe651eaee61439fe0d8dcbb1d1d124) of player #0 John
+ 9:59:38 Player John disconnected.
+ 9:59:38 BattlEye Server: Player #0 John disconnected
+10:19:27 John uses modified data file
+10:19:27 BattlEye Server: Player #0 John (104.156.122.125:2309) connected
+10:19:27 Player John connecting.
+10:19:30 BattlEye Server: Player #0 John - BE GUID: 1afe651eaee61439fe0d8dcbb1d1d124
+10:19:30 Player John connected (id=76561198038821136).
+10:19:30 BattlEye Server: Verified GUID (1afe651eaee61439fe0d8dcbb1d1d124) of player #0 John
+11:04:30 Ironside uses modified data file
+11:04:30 BattlEye Server: Player #1 Ironside (24.118.118.85:2304) connected
+11:04:30 Player Ironside connecting.
+11:04:32 BattlEye Server: Player #1 Ironside - BE GUID: 8a2cf5db8b52210b8d418782d4ba31a9
+11:04:32 Player Ironside connected (id=76561198159407384).
+11:04:32 BattlEye Server: Verified GUID (8a2cf5db8b52210b8d418782d4ba31a9) of player #1 Ironside
+11:06:57 BattlEye Server: (Global) Ironside: hello
+11:15:26 Player John disconnected.
+11:15:26 BattlEye Server: Player #0 John disconnected
+12:23:57 John Falco uses modified data file
+12:23:57 BattlEye Server: Player #2 John Falco (47.186.81.122:2304) connected
+12:23:57 Player John Falco connecting.
+12:23:59 BattlEye Server: Player #2 John Falco - BE GUID: 32ec2c7b34c6dfef986ecabcabda83ce
+12:23:59 Player John Falco connected (id=76561198207934429).
+12:23:59 BattlEye Server: Verified GUID (32ec2c7b34c6dfef986ecabcabda83ce) of player #2 John Falco
+12:25:10 Player John Falco disconnected.
+12:25:10 BattlEye Server: Player #2 John Falco disconnected
+12:39:29 Tugnuts uses modified data file
+12:39:29 BattlEye Server: Player #2 Tugnuts (75.141.168.213:2309) connected
+12:39:29 Player Tugnuts connecting.
+12:39:32 BattlEye Server: Player #2 Tugnuts - BE GUID: eadc258dcb9e33e30381918c477e16c4
+12:39:32 Player Tugnuts connected (id=76561197964252532).
+12:39:32 BattlEye Server: Verified GUID (eadc258dcb9e33e30381918c477e16c4) of player #2 Tugnuts
+12:44:57 BattlEye Server: (Side) Ironside: hello
+12:46:42 BattlEye Server: (Side) Ironside: they changed it so you cant see yourself
+12:47:08 BattlEye Server: (Side) Ironside: you can if your in a tank or plane but its harder
+12:48:49 BattlEye Server: (Side) Ironside: and disregard my team kills its from killing my retarted friends
+12:57:54 BattlEye Server: (Side) Ironside: just started about 3 to 4 days ago
+13:00:39 BattlEye Server: (Side) Ironside: get the mbt it will get easyer
+13:06:08 BattlEye Server: (Side) Ironside: if you want
+13:06:59 BattlEye Server: (Side) Ironside: im getting rockes ill be heding that way in a sec
+13:15:44 BattlEye Server: (Side) Ironside: k
+13:15:51 Player Tugnuts disconnected.
+13:15:51 BattlEye Server: Player #2 Tugnuts disconnected
+13:17:25 Tugnuts uses modified data file
+13:17:25 BattlEye Server: Player #2 Tugnuts (75.141.168.213:2309) connected
+13:17:25 Player Tugnuts connecting.
+13:17:27 BattlEye Server: Player #2 Tugnuts - BE GUID: eadc258dcb9e33e30381918c477e16c4
+13:17:27 Player Tugnuts connected (id=76561197964252532).
+13:17:27 BattlEye Server: Verified GUID (eadc258dcb9e33e30381918c477e16c4) of player #2 Tugnuts
+13:21:30 BattlEye Server: (Side) Ironside: get in
+13:22:10 BattlEye Server: (Side) Ironside: yepo
+13:22:16 BattlEye Server: (Side) Ironside: n
+13:22:19 BattlEye Server: (Side) Ironside: no
+13:22:51 BattlEye Server: (Side) Ironside: come here
+13:23:26 BattlEye Server: (Side) Ironside: no you should by better armor and a back pack
+13:24:28 BattlEye Server: (Side) Ironside: controle m
+13:24:42 BattlEye Server: (Side) Ironside: right controle m
+13:25:52 BattlEye Server: (Side) Ironside: it should say the level of armor
+13:27:27 BattlEye Server: (Side) Ironside: you good
+13:28:26 BattlEye Server: (Side) Ironside: yep
+13:29:15 BattlEye Server: (Side) Ironside: get in the back
+13:31:16 BattlEye Server: (Side) Ironside: no
+13:31:28 BattlEye Server: (Side) Ironside: thats harder to do
+13:34:10 BattlEye Server: (Side) Ironside: up your view distance
+13:35:06 BattlEye Server: (Side) Ironside: i have it maxed
+13:39:04 High Alert Highlander  uses modified data file
+13:39:04 BattlEye Server: Player #3 High Alert Highlander  (190.171.107.63:62725) connected
+13:39:04 Player High Alert Highlander  connecting.
+13:39:09 BattlEye Server: Player #3 High Alert Highlander  - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+13:39:12 Player High Alert Highlander  connected (id=76561198065774594).
+13:39:12 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #3 High Alert Highlander 
+13:39:34 Player High Alert Highlander  disconnected.
+13:39:34 BattlEye Server: Player #3 High Alert Highlander  disconnected
+13:40:08 BattlEye Server: (Side) Ironside: get in the helo
+13:42:01 High Alert Highlander  uses modified data file
+13:42:01 BattlEye Server: Player #3 High Alert Highlander  (190.171.107.63:62725) connected
+13:42:01 Player High Alert Highlander  connecting.
+13:42:06 BattlEye Server: Player #3 High Alert Highlander  - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+13:42:07 Player High Alert Highlander  connected (id=76561198065774594).
+13:42:08 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #3 High Alert Highlander 
+13:43:59 Admin logged in, player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+13:44:13 BattlEye Server: (Global) High Alert Highlander : hi guys 
+13:44:23 BattlEye Server: (Global) Ironside: hi
+13:46:19 BattlEye Server: (Side) Ironside: on top of me
+13:46:40 BattlEye Server: (Side) Ironside: yep
+13:47:44 BattlEye Server: (Side) Ironside: thx
+13:49:42 BattlEye Server: (Side) Ironside: yes
+13:51:02 BattlEye Server: (Side) Ironside: get in
+13:52:02 BattlEye Server: (Side) Ironside: you want the cash
+13:52:28 BattlEye Server: (Side) Ironside: im gong to take the drugs
+13:52:38 BattlEye Server: (Side) Ironside: you sell them
+13:53:22 BattlEye Server: (Side) Ironside: no its ok
+13:54:03 BattlEye Server: (Side) Ironside: sell this crate
+13:54:14 BattlEye Server: (Side) Ironside: yep
+13:54:24 BattlEye Server: (Side) Ironside: no
+13:54:33 Mason uses modified data file
+13:54:33 BattlEye Server: Player #4 Mason (71.81.137.47:2309) connected
+13:54:33 Player Mason connecting.
+13:54:35 BattlEye Server: Player #4 Mason - BE GUID: 955d09b6e1dde9360ceebc2963df084d
+13:54:36 Player Mason connected (id=76561198026943270).
+13:54:36 BattlEye Server: Verified GUID (955d09b6e1dde9360ceebc2963df084d) of player #4 Mason
+13:55:00 BattlEye Server: (Side) Ironside: store to sell this stuf
+13:56:33 BattlEye Server: (Side) Ironside: take
+13:56:48 BattlEye Server: (Side) Ironside: shit
+13:57:01 BattlEye Server: (Side) Ironside: ok i know where he is
+13:57:33 BattlEye Server: (Side) Ironside: i cant get you
+13:57:59 BattlEye Server: (Side) Ironside: respawn and get to me and no not rilly
+13:58:26 BattlEye Server: (Group) High Alert Highlander : air field
+13:59:57 BattlEye Server: (Group) Mason: hows it going
+14:00:19 BattlEye Server: (Group) High Alert Highlander : killone one scape 
+14:00:34 BattlEye Server: (Group) High Alert Highlander : he has with himallthemoney from the altis mission 
+14:01:00 BattlEye Server: (Side) Ironside: no
+14:01:03 BattlEye Server: (Group) Mason: and u killed him already?
+14:01:08 BattlEye Server: (Group) High Alert Highlander : nope 
+14:01:11 BattlEye Server: (Group) Mason: or are chasing him
+14:01:32 BattlEye Server: (Group) High Alert Highlander : im chansing him
+14:01:43 BattlEye Server: (Group) High Alert Highlander : is iron  he is running like hell
+14:02:40 BattlEye Server: (Side) Ironside: i think he is on the tower
+14:04:14 BattlEye Server: (Group) High Alert Highlander : red exes on themaopis where the enemy is always checkthe mapfor my exes 
+14:04:20 BattlEye Server: (Side) Ironside: he is in the terratory
+14:05:06 BattlEye Server: (Group) High Alert Highlander : yes
+14:05:45 BattlEye Server: (Group) High Alert Highlander : yes}
+14:05:50 BattlEye Server: (Group) High Alert Highlander : im in discord 
+14:06:38 BattlEye Server: (Group) High Alert Highlander : two eneys here and here
+14:06:47 BattlEye Server: (Group) High Alert Highlander : send artilyrry 
+14:08:53 BattlEye Server: (Side) Ironside: no
+14:10:22 BattlEye Server: (Group) High Alert Highlander : do you have a morter onu 
+14:12:50 BattlEye Server: (Side) Ironside: was he close
+14:14:55 BattlEye Server: (Group) High Alert Highlander : be care full
+14:16:12 BattlEye Server: (Group) High Alert Highlander : yes
+14:16:44 BattlEye Server: (Group) High Alert Highlander : check the map
+14:17:05 BattlEye Server: (Side) Ironside: yes and no
+14:18:43 BattlEye Server: (Group) High Alert Highlander : putting another mark
+14:21:04 BattlEye Server: (Group) High Alert Highlander : checknewmark
+14:21:06 BattlEye Server: (Global) Ironside: shure
+14:21:30 BattlEye Server: (Group) High Alert Highlander : oki seeu 
+14:21:40 BattlEye Server: (Group) High Alert Highlander : one isgetting close toyou 
+14:21:54 BattlEye Server: (Group) Mason: where
+14:22:01 BattlEye Server: (Group) High Alert Highlander : check the mapmark 
+14:22:22 BattlEye Server: (Group) High Alert Highlander : u have them in frontof you 
+14:23:35 BattlEye Server: (Group) High Alert Highlander : behind main building airport 
+14:23:52 BattlEye Server: (Side) Ironside: run out and draw his fire
+14:24:07 BattlEye Server: (Group) High Alert Highlander : check newmark 
+14:24:10 BattlEye Server: (Group) High Alert Highlander : they areinside
+14:26:07 BattlEye Server: (Global) Ironside: ive got to go im not combat loging i can run out so you can kill me  but i need to go
+14:26:42 BattlEye Server: (Global) Ironside: do you want me to run out highlander
+14:26:45 BattlEye Server: (Group) High Alert Highlander : one in radio tower
+14:26:57 BattlEye Server: (Global) Ironside: or can i go
+14:27:10 BattlEye Server: (Global) High Alert Highlander : u can go
+14:27:17 BattlEye Server: (Global) Ironside: ok thanks
+14:27:23 Player Ironside disconnected.
+14:27:23 BattlEye Server: Player #1 Ironside disconnected
+14:28:14 BattlEye Server: (Global) High Alert Highlander : comoput fromthat tower thugs 
+14:28:44 BattlEye Server: (Global) Tugnuts: idk what u be talkin abooot
+14:29:11 BattlEye Server: (Global) High Alert Highlander : sowhy u keep coming out and get in back again 
+14:29:28 BattlEye Server: (Global) High Alert Highlander : my mic is not working 
+14:29:33 BattlEye Server: (Global) High Alert Highlander : but i can hear 
+14:29:46 BattlEye Server: (Global) High Alert Highlander : hahahaha
+14:30:33 BattlEye Server: (Global) High Alert Highlander : lets put it this way 
+14:30:41 BattlEye Server: (Global) High Alert Highlander : ima1 click fromu
+14:30:56 BR1_Bandit uses modified data file
+14:30:56 BattlEye Server: Player #5 BR1_Bandit (134.41.96.129:2309) connected
+14:30:56 Player BR1_Bandit connecting.
+14:30:58 BattlEye Server: Player #5 BR1_Bandit - BE GUID: 8a701e7029ec21d8e45677830a84af43
+14:30:58 Player BR1_Bandit connected (id=76561198151022635).
+14:30:58 BattlEye Server: Verified GUID (8a701e7029ec21d8e45677830a84af43) of player #5 BR1_Bandit
+14:31:29 BattlEye Server: (Global) High Alert Highlander : it is 
+14:31:30 Player BR1_Bandit disconnected.
+14:31:30 BattlEye Server: Player #5 BR1_Bandit disconnected
+14:31:32 BattlEye Server: (Global) High Alert Highlander : ilove it 
+14:31:54 BattlEye Server: (Global) High Alert Highlander : jajajaja bandit conected and disconetted agai 
+14:32:11 BattlEye Server: (Global) High Alert Highlander : lets go blue guys 
+14:32:23 BattlEye Server: (Global) High Alert Highlander : is was fun wile it last 
+14:33:58 BattlEye Server: (Global) High Alert Highlander : that would be fucking awsome 
+14:34:20 BattlEye Server: (Global) High Alert Highlander : the problemhereis that everyone is always blue 
+14:34:20 BR1_Bandit uses modified data file
+14:34:20 BattlEye Server: Player #5 BR1_Bandit (134.41.96.129:2309) connected
+14:34:20 Player BR1_Bandit connecting.
+14:34:22 BattlEye Server: Player #5 BR1_Bandit - BE GUID: 8a701e7029ec21d8e45677830a84af43
+14:34:23 Player BR1_Bandit connected (id=76561198151022635).
+14:34:23 BattlEye Server: Verified GUID (8a701e7029ec21d8e45677830a84af43) of player #5 BR1_Bandit
+14:34:59 BattlEye Server: (Global) High Alert Highlander : yes 
+14:36:06 BattlEye Server: (Group) High Alert Highlander : wherer um,ason
+14:36:09 BattlEye Server: (Group) High Alert Highlander : mason
+14:36:18 BattlEye Server: (Group) High Alert Highlander : can u pickme uppls
+14:36:39 BattlEye Server: (Group) Mason: main road west to north gun store
+14:36:49 BattlEye Server: (Group) High Alert Highlander : ok
+14:37:33 Player BR1_Bandit disconnected.
+14:37:33 BattlEye Server: Player #5 BR1_Bandit disconnected
+14:38:21 BattlEye Server: (Group) High Alert Highlander : whos plane did i destroit 
+14:38:34 BattlEye Server: (Group) High Alert Highlander : lol
+14:38:50 BR1_Bandit uses modified data file
+14:38:50 BattlEye Server: Player #5 BR1_Bandit (134.41.96.129:2309) connected
+14:38:50 Player BR1_Bandit connecting.
+14:38:52 BattlEye Server: Player #5 BR1_Bandit - BE GUID: 8a701e7029ec21d8e45677830a84af43
+14:38:53 Player BR1_Bandit connected (id=76561198151022635).
+14:38:53 BattlEye Server: Verified GUID (8a701e7029ec21d8e45677830a84af43) of player #5 BR1_Bandit
+14:39:01 Player BR1_Bandit disconnected.
+14:39:01 BattlEye Server: Player #5 BR1_Bandit disconnected
+14:39:22 BattlEye Server: (Group) High Alert Highlander : i washoping he cameto save you 
+14:40:29 BattlEye Server: (Group) High Alert Highlander : lol who put a beacon there
+14:42:21 BattlEye Server: (Group) High Alert Highlander : get in
+14:42:53 BattlEye Server: (Group) High Alert Highlander : a bm21
+14:43:00 BattlEye Server: (Group) High Alert Highlander : artellery truck 
+14:43:19 BattlEye Server: (Group) High Alert Highlander : rpg
+14:43:59 BR1_Bandit uses modified data file
+14:43:59 BattlEye Server: Player #5 BR1_Bandit (134.41.96.129:2309) connected
+14:44:00 Player BR1_Bandit connecting.
+14:44:01 BattlEye Server: Player #5 BR1_Bandit - BE GUID: 8a701e7029ec21d8e45677830a84af43
+14:44:02 Player BR1_Bandit connected (id=76561198151022635).
+14:44:02 BattlEye Server: Verified GUID (8a701e7029ec21d8e45677830a84af43) of player #5 BR1_Bandit
+14:44:25 BattlEye Server: (Group) High Alert Highlander : abdera
+14:46:06 BattlEye Server: (Group) High Alert Highlander : damn rocks
+14:46:35 BattlEye Server: (Group) High Alert Highlander : artellery 
+14:46:59 BattlEye Server: (Group) High Alert Highlander : yes
+14:48:32 BattlEye Server: (Group) High Alert Highlander : that is the reasonwhy imold school
+14:49:21 BattlEye Server: (Group) High Alert Highlander : really
+14:49:55 BattlEye Server: (Group) High Alert Highlander : mason can u revivemepls
+14:51:20 BattlEye Server: (Group) High Alert Highlander : yes 
+14:55:32 BattlEye Server: (Group) High Alert Highlander : yes
+14:55:49 BattlEye Server: (Group) High Alert Highlander : put amark in themap
+14:58:28 BattlEye Server: (Group) High Alert Highlander : bro che the map 
+14:58:34 BattlEye Server: (Group) High Alert Highlander : red x
+14:59:53 BattlEye Server: (Group) High Alert Highlander : tugs chech the map for the red x
+15:08:19 Player Tugnuts disconnected.
+15:08:19 BattlEye Server: Player #2 Tugnuts disconnected
+15:09:25 BattlEye Server: (Group) High Alert Highlander : ok sorry i was afk 
+15:15:28 BattlEye Server: (Group) High Alert Highlander : i completed 
+15:18:00 BattlEye Server: (Group) High Alert Highlander : u r full 
+15:20:25 BattlEye Server: (Group) High Alert Highlander : mason can u pickmeuop
+15:21:24 BattlEye Server: (Group) High Alert Highlander : thks
+15:21:51 BattlEye Server: (Group) High Alert Highlander : is auto
+15:22:34 BattlEye Server: (Group) High Alert Highlander : + key
+15:22:40 BattlEye Server: (Group) High Alert Highlander : upenter
+15:22:49 BattlEye Server: (Group) High Alert Highlander : notinthenumpat 
+15:23:36 BattlEye Server: (Group) High Alert Highlander : onthat case dont know 
+15:23:47 BattlEye Server: (Group) High Alert Highlander : i use regular settings
+15:24:07 BattlEye Server: (Group) High Alert Highlander : noidea
+15:24:47 BattlEye Server: (Group) High Alert Highlander : yestesday i buy the witrcher 3 game i going to start playing that today hopefully 
+15:26:31 BattlEye Server: (Group) High Alert Highlander : i recommend not to do the sniper nest 
+15:26:45 BattlEye Server: (Group) High Alert Highlander : because the crates of that missions r not fix yet {
+15:28:21 BattlEye Server: (Group) High Alert Highlander : yes
+15:28:39 BattlEye Server: (Group) High Alert Highlander : thks bro
+15:30:28 Kingston uses modified data file
+15:30:28 BattlEye Server: Player #6 Kingston (80.120.94.58:2309) connected
+15:30:28 Player Kingston connecting.
+15:30:31 BattlEye Server: Player #6 Kingston - BE GUID: 281acc675d40a7e9e29d18ef0bc24702
+15:30:31 Player Kingston connected (id=76561198091728821).
+15:30:32 BattlEye Server: Verified GUID (281acc675d40a7e9e29d18ef0bc24702) of player #6 Kingston
+15:31:08 BattlEye Server: (Group) High Alert Highlander : yes
+15:39:16 BattlEye Server: (Group) High Alert Highlander : no
+15:39:43 BattlEye Server: (Group) High Alert Highlander : rulost _w
+15:41:00 BattlEye Server: (Group) High Alert Highlander : lol
+15:41:36 BattlEye Server: (Group) High Alert Highlander : yea
+15:44:03 BattlEye Server: (Side) Kingston: Vote Day
+15:44:13 BattlEye Server: (Side) Kingston: /voteDay
+15:45:44 BattlEye Server: (Group) High Alert Highlander : i put acouple stuff onyour inv \
+15:46:25 BattlEye Server: (Group) High Alert Highlander : yes
+15:47:16 BattlEye Server: (Group) High Alert Highlander : u canplace that anywhere
+15:47:31 BattlEye Server: (Group) High Alert Highlander : a little tip
+15:47:35 BattlEye Server: (Group) High Alert Highlander : wait
+15:49:04 BattlEye Server: (Group) High Alert Highlander : everything is in here 
+15:49:09 BattlEye Server: (Group) High Alert Highlander : checkthe capacity 
+15:49:14 BattlEye Server: (Group) High Alert Highlander : 300
+15:49:17 Ironside uses modified data file
+15:49:17 BattlEye Server: Player #7 Ironside (24.118.118.85:2304) connected
+15:49:17 Player Ironside connecting.
+15:49:19 BattlEye Server: Player #7 Ironside - BE GUID: 8a2cf5db8b52210b8d418782d4ba31a9
+15:49:20 Player Ironside connected (id=76561198159407384).
+15:49:20 BattlEye Server: Verified GUID (8a2cf5db8b52210b8d418782d4ba31a9) of player #7 Ironside
+15:50:55 BattlEye Server: (Group) High Alert Highlander : antiircaft 
+15:50:59 BattlEye Server: (Global) Ironside: hay guys
+15:51:22 BattlEye Server: (Side) Kingston: hey
+15:51:51 BattlEye Server: (Group) High Alert Highlander : end key
+15:52:04 BattlEye Server: (Side) High Alert Highlander : end key
+15:52:16 BattlEye Server: (Group) High Alert Highlander : yes
+15:54:45 BattlEye Server: (Group) High Alert Highlander : noother possible way 
+15:55:02 BattlEye Server: (Group) High Alert Highlander : puting beacon 
+15:55:44 BattlEye Server: (Group) High Alert Highlander : damnit 
+15:56:49 BattlEye Server: (Group) High Alert Highlander : thks
+15:57:16 BattlEye Server: (Group) High Alert Highlander : open my bag
+15:58:01 BattlEye Server: (Group) High Alert Highlander : openmy bag 
+15:58:25 BattlEye Server: (Group) High Alert Highlander : keepit 
+15:58:47 BattlEye Server: (Group) High Alert Highlander : thks
+15:59:49 BattlEye Server: (Group) High Alert Highlander : shit 
+16:00:50 BattlEye Server: (Group) High Alert Highlander : anti aircraft '
+16:04:02 BattlEye Server: (Group) High Alert Highlander : yes
+16:04:30 BattlEye Server: (Group) High Alert Highlander : checkthe x
+16:05:57 BattlEye Server: (Group) High Alert Highlander : money missioin
+16:08:13 Mefinek Gonalez uses modified data file
+16:08:13 BattlEye Server: Player #8 Mefinek Gonalez (93.106.206.164:1301) connected
+16:08:13 Player Mefinek Gonalez connecting.
+16:08:16 BattlEye Server: Player #8 Mefinek Gonalez - BE GUID: f76c8aaf69eb0d1521e41e7a022b514e
+16:08:16 Player Mefinek Gonalez connected (id=76561198393220798).
+16:08:16 BattlEye Server: Verified GUID (f76c8aaf69eb0d1521e41e7a022b514e) of player #8 Mefinek Gonalez
+16:08:30 BattlEye Server: (Group) High Alert Highlander : ucrive 
+16:08:35 BattlEye Server: (Group) High Alert Highlander : u drive 
+16:10:42 BattlEye Server: (Group) High Alert Highlander : where is the strider
+16:11:43 BattlEye Server: (Group) High Alert Highlander : can u openthat pls
+16:13:49 BattlEye Server: (Group) High Alert Highlander : okwhere now 
+16:14:09 BattlEye Server: (Group) High Alert Highlander : military patrol _
+16:15:43 DannyStrow uses modified data file
+16:15:43 BattlEye Server: Player #9 DannyStrow (98.212.130.249:2309) connected
+16:15:43 Player DannyStrow connecting.
+16:15:48 Player DannyStrow disconnected.
+16:15:48 BattlEye Server: Player #9 DannyStrow disconnected
+16:15:55 DannyStrow uses modified data file
+16:15:55 BattlEye Server: Player #9 DannyStrow (98.212.130.249:2309) connected
+16:15:55 Player DannyStrow connecting.
+16:15:57 BattlEye Server: Player #9 DannyStrow - BE GUID: d0031c9d100183666cc9363af8cdfcb3
+16:15:57 Player DannyStrow connected (id=76561198144871775).
+16:15:57 BattlEye Server: Verified GUID (d0031c9d100183666cc9363af8cdfcb3) of player #9 DannyStrow
+16:18:23 BattlEye Server: (Group) High Alert Highlander : down
+16:18:57 BattlEye Server: (Group) High Alert Highlander : dont sticksoclosefrom each other 
+16:19:22 BattlEye Server: (Side) DannyStrow: This server! <3
+16:19:32 BattlEye Server: (Side) High Alert Highlander : thankyou
+16:19:47 BattlEye Server: (Side) Mefinek Gonalez: yeah seems rly nice
+16:19:48 Player BR1_Bandit disconnected.
+16:19:48 BattlEye Server: Player #5 BR1_Bandit disconnected
+16:19:57 BattlEye Server: (Side) DannyStrow: What ive been looking for, for a long ass time
+16:21:13 BattlEye Server: (Group) Ironside: woops
+16:26:16 Player Mefinek Gonalez disconnected.
+16:26:16 BattlEye Server: Player #8 Mefinek Gonalez disconnected
+16:27:18 BattlEye Server: (Side) High Alert Highlander : gg guys welldone 
+16:32:41 BattlEye Server: (Group) High Alert Highlander : road block_
+16:33:28 BattlEye Server: (Group) High Alert Highlander : yea
+16:33:38 BattlEye Server: (Group) High Alert Highlander : yes
+16:34:11 BattlEye Server: (Group) High Alert Highlander : agh?
+16:34:48 BattlEye Server: (Group) High Alert Highlander : yea
+16:39:17 BattlEye Server: (Side) DannyStrow: well...
+16:40:11 BattlEye Server: (Group) High Alert Highlander : we got towait or put this in garage andgoinheli
+16:41:12 BattlEye Server: (Side) DannyStrow: There a group I can roll with?
+16:42:06 BattlEye Server: (Group) High Alert Highlander : check x inmap
+16:42:25 BattlEye Server: (Group) High Alert Highlander : sound good
+16:53:12 BattlEye Server: (Group) High Alert Highlander : u guys reapir that truck rollwith that 
+16:53:34 BattlEye Server: (Group) High Alert Highlander : u cankeepthe boxes
+16:54:35 BattlEye Server: (Group) High Alert Highlander : he is already full of tanks 
+16:54:38 BattlEye Server: (Group) High Alert Highlander : jajaja
+16:55:04 BattlEye Server: (Group) High Alert Highlander : i willhelpu laterget ripoff of some of themdont worry iron 
+16:55:24 BattlEye Server: (Group) High Alert Highlander : yea
+16:56:03 BattlEye Server: (Group) High Alert Highlander : noi buy that 
+16:56:21 BattlEye Server: (Group) High Alert Highlander : is a sproud a light armor anti tank
+16:56:50 BattlEye Server: (Group) High Alert Highlander : german desing but manufatur by rusiaduring the soviet union
+16:57:00 Player DannyStrow disconnected.
+16:57:00 BattlEye Server: Player #9 DannyStrow disconnected
+17:00:09 BattlEye Server: (Group) High Alert Highlander : kingston r u german 
+17:00:42 BattlEye Server: (Group) High Alert Highlander : kingston r u german _
+17:01:15 BattlEye Server: (Group) High Alert Highlander : yes
+17:01:20 BattlEye Server: (Group) High Alert Highlander : i can
+17:01:28 BattlEye Server: (Group) High Alert Highlander : wow
+17:02:06 BattlEye Server: (Group) High Alert Highlander : yea iknow
+17:02:14 BattlEye Server: (Group) High Alert Highlander : imake themissions 
+17:02:42 BattlEye Server: (Group) High Alert Highlander : jajajaja
+17:03:31 BattlEye Server: (Group) High Alert Highlander : Schon dich zu treffen
+17:04:20 BattlEye Server: (Group) High Alert Highlander : see this bby inactrion
+17:09:34 BattlEye Server: (Group) High Alert Highlander : stay there
+17:10:22 BattlEye Server: (Group) High Alert Highlander : i seeit 
+17:10:29 BattlEye Server: (Group) High Alert Highlander : stop
+17:13:40 BattlEye Server: (Group) High Alert Highlander : im humgry 
+17:14:02 BattlEye Server: (Group) High Alert Highlander : no i play eating 
+17:14:23 BattlEye Server: (Group) High Alert Highlander : but i going to grab something and stay herein comamnder wile i come 
+17:14:32 BattlEye Server: (Group) High Alert Highlander : no 
+17:15:03 BattlEye Server: (Group) High Alert Highlander : afk
+17:19:06 BattlEye Server: (Group) Ironside: you cut out what
+17:28:28 BattlEye Server: (Group) High Alert Highlander : ok imback 
+17:28:35 BattlEye Server: (Group) Ironside: HI
+17:28:38 BattlEye Server: (Group) Ironside: CAPS
+17:29:09 BattlEye Server: (Group) High Alert Highlander : yea
+17:29:46 BattlEye Server: (Group) High Alert Highlander : yea
+17:30:19 BattlEye Server: (Group) High Alert Highlander : it is possible{
+17:31:36 BattlEye Server: (Group) High Alert Highlander : is an addon
+17:32:03 BattlEye Server: (Group) High Alert Highlander : yes
+17:32:52 BattlEye Server: (Group) High Alert Highlander : lets wait
+17:37:04 BattlEye Server: (Group) Ironside: gtg see you guys later
+17:37:10 Player Ironside disconnected.
+17:37:10 BattlEye Server: Player #7 Ironside disconnected
+17:37:55 Romario uses modified data file
+17:37:55 BattlEye Server: Player #7 Romario (172.56.41.1:25033) connected
+17:37:55 Player Romario connecting.
+17:37:58 BattlEye Server: Player #7 Romario - BE GUID: e37c45dff33aa2f135cb0933584ecd6b
+17:37:58 Player Romario connected (id=76561198818787858).
+17:37:58 BattlEye Server: Verified GUID (e37c45dff33aa2f135cb0933584ecd6b) of player #7 Romario
+17:38:18 BattlEye Server: (Group) High Alert Highlander : yes
+17:39:45 BattlEye Server: (Group) High Alert Highlander : lol
+17:40:05 BattlEye Server: (Group) High Alert Highlander : jaja
+17:41:11 BattlEye Server: (Group) High Alert Highlander : hopenot
+17:41:58 BattlEye Server: (Group) High Alert Highlander : yes
+17:42:23 BattlEye Server: (Group) High Alert Highlander : yea
+17:43:40 BattlEye Server: (Group) High Alert Highlander : ok
+17:44:06 BattlEye Server: (Group) High Alert Highlander : check the markl
+17:44:26 BattlEye Server: (Group) High Alert Highlander : benne benne
+17:44:38 BattlEye Server: (Group) High Alert Highlander : oh shit 
+17:44:46 BattlEye Server: (Group) High Alert Highlander : i own u a strider
+17:45:14 BattlEye Server: (Group) High Alert Highlander : yes
+17:46:26 BattlEye Server: (Group) High Alert Highlander : relax bro
+17:47:03 BattlEye Server: (Group) High Alert Highlander : i will talk to sarg
+17:48:24 BattlEye Server: (Group) High Alert Highlander : auch
+17:49:15 BattlEye Server: (Group) High Alert Highlander : they have us surrounded
+17:50:40 BattlEye Server: (Group) High Alert Highlander : stay down
+17:52:17 BattlEye Server: (Group) High Alert Highlander : is over
+17:52:29 BattlEye Server: (Group) High Alert Highlander : is over
+17:52:55 BattlEye Server: (Group) High Alert Highlander : was a failure
+17:53:04 BattlEye Server: (Group) High Alert Highlander : jajajaja
+17:54:18 BattlEye Server: (Group) High Alert Highlander : look at that {
+17:55:21 BattlEye Server: (Group) High Alert Highlander : iron leave this open
+17:55:47 BattlEye Server: (Group) High Alert Highlander : empty
+17:56:13 BattlEye Server: (Group) High Alert Highlander : a m1220
+17:56:20 BattlEye Server: (Group) High Alert Highlander : apc
+17:56:26 BattlEye Server: (Group) High Alert Highlander : no 
+17:57:12 BattlEye Server: (Group) High Alert Highlander : did y left a crate outside
+17:57:59 Player Romario is losing connection
+17:58:18 Player Romario kicked off by BattlEye: Client not responding
+17:58:18 Player Romario disconnected.
+17:59:02 BattlEye Server: (Group) High Alert Highlander : yes
+18:00:45 BattlEye Server: (Group) High Alert Highlander : okopen
+18:01:25 BattlEye Server: (Group) High Alert Highlander : someone was trying
+18:01:28 BattlEye Server: (Group) High Alert Highlander : yes
+18:01:42 BattlEye Server: (Group) High Alert Highlander : they shoot rockers
+18:04:19 BattlEye Server: (Group) High Alert Highlander : yes
+18:04:36 BattlEye Server: (Group) High Alert Highlander : yes
+18:04:44 BattlEye Server: (Group) High Alert Highlander : yes
+18:05:07 BattlEye Server: (Group) High Alert Highlander : wont wrok
+18:05:30 BattlEye Server: (Group) High Alert Highlander : and how u get thevehiculs in
+18:07:50 BattlEye Server: (Group) High Alert Highlander : ok
+18:08:33 BattlEye Server: (Group) High Alert Highlander : just a sec
+18:10:30 BattlEye Server: (Group) High Alert Highlander : maybe closer
+18:13:04 Dalton uses modified data file
+18:13:04 BattlEye Server: Player #7 Dalton (108.201.51.146:2304) connected
+18:13:04 Player Dalton connecting.
+18:13:07 BattlEye Server: Player #7 Dalton - BE GUID: 2c036d188eeb5c00d5bec1f24cbea45d
+18:13:07 Player Dalton connected (id=76561198319132444).
+18:13:07 BattlEye Server: Verified GUID (2c036d188eeb5c00d5bec1f24cbea45d) of player #7 Dalton
+18:13:08 Player Dalton disconnected.
+18:13:08 BattlEye Server: Player #7 Dalton disconnected
+18:14:54 Player Kingston disconnected.
+18:14:54 BattlEye Server: Player #6 Kingston disconnected
+18:15:03 BattlEye Server: (Group) High Alert Highlander : woot
+18:15:15 BattlEye Server: (Group) High Alert Highlander : yes
+18:16:34 BattlEye Server: (Group) High Alert Highlander : yes
+18:17:02 BattlEye Server: (Group) High Alert Highlander : jajajaja
+18:17:17 BattlEye Server: (Group) High Alert Highlander : that wasur idea
+18:17:32 Ironside uses modified data file
+18:17:32 BattlEye Server: Player #5 Ironside (24.118.118.85:2304) connected
+18:17:32 Player Ironside connecting.
+18:17:34 BattlEye Server: Player #5 Ironside - BE GUID: 8a2cf5db8b52210b8d418782d4ba31a9
+18:17:34 Player Ironside connected (id=76561198159407384).
+18:17:34 BattlEye Server: Verified GUID (8a2cf5db8b52210b8d418782d4ba31a9) of player #5 Ironside
+18:17:49 BattlEye Server: (Group) High Alert Highlander : just getting it closer
+18:18:07 BattlEye Server: (Group) High Alert Highlander : link them
+18:18:15 BattlEye Server: (Group) High Alert Highlander : with the base locker
+18:18:43 BattlEye Server: (Group) High Alert Highlander : dude this crate islocket
+18:21:03 BattlEye Server: (Group) High Alert Highlander : 1963
+18:21:15 BattlEye Server: (Group) Mason: 1369
+18:21:25 BattlEye Server: (Group) High Alert Highlander : ah 
+18:21:36 BattlEye Server: (Group) High Alert Highlander : see wassomething with 13
+18:22:39 Odhaving uses modified data file
+18:22:39 BattlEye Server: Player #6 Odhaving (208.107.215.51:2304) connected
+18:22:39 Player Odhaving connecting.
+18:22:42 BattlEye Server: Player #6 Odhaving - BE GUID: 3dd45ae2aae999a097eb909cbc8278fa
+18:22:43 Player Odhaving connected (id=76561198281946559).
+18:22:43 BattlEye Server: Verified GUID (3dd45ae2aae999a097eb909cbc8278fa) of player #6 Odhaving
+18:24:40 Player Odhaving is losing connection
+18:24:53 BattlEye Server: (Group) High Alert Highlander : just a secpls saty there
+18:25:34 Player Odhaving: Signature check timed out
+18:25:34 Player Odhaving disconnected.
+18:25:34 BattlEye Server: Player #6 Odhaving disconnected
+18:25:53 Odhaving uses modified data file
+18:25:53 BattlEye Server: Player #6 Odhaving (208.107.215.51:2304) connected
+18:25:53 Player Odhaving connecting.
+18:25:55 BattlEye Server: Player #6 Odhaving - BE GUID: 3dd45ae2aae999a097eb909cbc8278fa
+18:25:58 Player Odhaving connected (id=76561198281946559).
+18:25:58 BattlEye Server: Verified GUID (3dd45ae2aae999a097eb909cbc8278fa) of player #6 Odhaving
+18:29:38 BattlEye Server: (Group) High Alert Highlander : just a sec
+18:33:21 BattlEye Server: (Group) High Alert Highlander : astah that i had hidden 
+18:34:05 BattlEye Server: (Group) High Alert Highlander : no relax 
+18:34:25 BattlEye Server: (Group) High Alert Highlander : it is 
+18:34:28 BattlEye Server: (Group) High Alert Highlander : jajaja
+18:35:06 BattlEye Server: (Group) High Alert Highlander : yea but i only do that in front of you 
+18:35:18 BattlEye Server: (Group) High Alert Highlander : yes
+18:36:04 BattlEye Server: (Group) High Alert Highlander : right
+18:38:54 BattlEye Server: (Group) High Alert Highlander : not nesesary 
+18:39:04 BattlEye Server: (Group) High Alert Highlander : yea
+18:39:12 BattlEye Server: (Group) High Alert Highlander : that sound good
+18:39:25 BattlEye Server: (Group) High Alert Highlander : gun store}
+18:40:05 BattlEye Server: (Group) High Alert Highlander : yes
+18:41:15 BattlEye Server: (Group) High Alert Highlander : yes
+18:41:27 BattlEye Server: (Group) High Alert Highlander : i use them all the time
+18:41:47 BattlEye Server: (Group) High Alert Highlander : every 5 days 
+18:44:50 BattlEye Server: (Group) High Alert Highlander : look the heli
+18:45:24 BattlEye Server: (Group) High Alert Highlander : lookthe heli
+18:46:35 BattlEye Server: (Group) High Alert Highlander : heli
+18:47:08 BattlEye Server: (Group) High Alert Highlander : i hear a chinnok getting close 
+18:48:12 BattlEye Server: (Group) High Alert Highlander : i think that im going to sleep
+18:48:16 BattlEye Server: (Group) High Alert Highlander : im tired
+18:48:52 BattlEye Server: (Group) High Alert Highlander : mason 
+18:49:03 BattlEye Server: (Group) High Alert Highlander : i think that im going to sleep 
+18:49:18 BattlEye Server: (Group) High Alert Highlander : good night bro 
+18:50:07 Player High Alert Highlander  disconnected.
+18:50:07 BattlEye Server: Player #3 High Alert Highlander  disconnected
+18:50:07 Admin logged out, player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+19:37:08 flow uses modified data file
+19:37:08 BattlEye Server: Player #7 flow (98.223.9.47:2304) connected
+19:37:08 Player flow connecting.
+19:37:10 BattlEye Server: Player #7 flow - BE GUID: 2f1988ec1f268e92b390c1d7d06902a9
+19:37:11 Player flow connected (id=76561198397747497).
+19:37:11 BattlEye Server: Verified GUID (2f1988ec1f268e92b390c1d7d06902a9) of player #7 flow
+19:39:20 BR1_Bandit uses modified data file
+19:39:20 BattlEye Server: Player #8 BR1_Bandit (134.41.96.129:2309) connected
+19:39:20 Player BR1_Bandit connecting.
+19:39:22 BattlEye Server: Player #8 BR1_Bandit - BE GUID: 8a701e7029ec21d8e45677830a84af43
+19:39:22 Player BR1_Bandit connected (id=76561198151022635).
+19:39:22 BattlEye Server: Verified GUID (8a701e7029ec21d8e45677830a84af43) of player #8 BR1_Bandit
+19:40:06 sschu uses modified data file
+19:40:06 BattlEye Server: Player #9 sschu (149.167.113.105:2304) connected
+19:40:06 Player sschu connecting.
+19:40:09 BattlEye Server: Player #9 sschu - BE GUID: 6aa2da035e89ba2cb24a32ed1675aad9
+19:40:09 Player sschu connected (id=76561198435474801).
+19:40:09 BattlEye Server: Verified GUID (6aa2da035e89ba2cb24a32ed1675aad9) of player #9 sschu
+19:40:17 Player sschu disconnected.
+19:40:17 BattlEye Server: Player #9 sschu disconnected
+19:42:00 Player Odhaving disconnected.
+19:42:00 BattlEye Server: Player #6 Odhaving disconnected
+19:46:17 Player flow is losing connection
+19:46:24 Player flow kicked off by BattlEye: Client not responding
+19:46:24 Player flow disconnected.
+19:50:39 flow uses modifi

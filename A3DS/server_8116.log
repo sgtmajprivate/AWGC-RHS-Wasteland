@@ -1,0 +1,136 @@
+﻿21:08:55 BattlEye Server: Initialized (v1.217)
+21:08:55 Host identity created.
+21:08:55 Game Port: 2307, Steam Query Port: 2308
+21:08:55 Mission A3Wasteland Altis v1.4c read from bank.
+21:08:56 Roles assigned.
+21:08:56 Reading mission ...
+21:09:30 Mission read.
+21:09:30 Game started.
+22:45:29 young uses modified data file
+22:45:29 BattlEye Server: Player #0 young (76.29.200.196:2309) connected
+22:45:29 Player young connecting.
+22:45:29 BattlEye Server: Connected to BE Master
+22:45:36 Player young disconnected.
+22:45:36 BattlEye Server: Player #0 young disconnected
+22:46:01 young uses modified data file
+22:46:01 BattlEye Server: Player #0 young (76.29.200.196:2309) connected
+22:46:01 Player young connecting.
+22:46:04 BattlEye Server: Player #0 young - BE GUID: 159910dbf5b398eaea91f6973bf30a84
+22:46:04 Player young connected (id=76561198040649659).
+22:46:04 BattlEye Server: Verified GUID (159910dbf5b398eaea91f6973bf30a84) of player #0 young
+22:46:16 Player young disconnected.
+22:46:16 BattlEye Server: Player #0 young disconnected
+ 2:52:03 sony uses modified data file
+ 2:52:04 BattlEye Server: Player #0 sony (113.250.227.118:33118) connected
+ 2:52:04 Player sony connecting.
+ 2:52:07 BattlEye Server: Player #0 sony - BE GUID: 9d5a5db648916c8d4b76aeba0d45c17d
+ 2:52:07 Player sony connected (id=76561198122667131).
+ 2:52:07 BattlEye Server: Verified GUID (9d5a5db648916c8d4b76aeba0d45c17d) of player #0 sony
+ 4:00:55 mactk uses modified data file
+ 4:00:55 BattlEye Server: Player #1 mactk (14.106.127.29:2717) connected
+ 4:00:55 Player mactk connecting.
+ 4:00:58 BattlEye Server: Player #1 mactk - BE GUID: 17d25ceef05da4c6cdbd9afb3d725401
+ 4:00:58 Player mactk connected (id=76561198094896719).
+ 4:00:58 BattlEye Server: Verified GUID (17d25ceef05da4c6cdbd9afb3d725401) of player #1 mactk
+ 4:03:01 Loli uses modified data file
+ 4:03:01 BattlEye Server: Player #2 Loli (14.111.63.44:17292) connected
+ 4:03:01 Player Loli connecting.
+ 4:03:04 BattlEye Server: Player #2 Loli - BE GUID: f6c2a50ff07caff2f43aa8caae1c092c
+ 4:03:07 Player Loli connected (id=76561198099480797).
+ 4:03:07 BattlEye Server: Verified GUID (f6c2a50ff07caff2f43aa8caae1c092c) of player #2 Loli
+ 4:07:10 miwa uses modified data file
+ 4:07:10 BattlEye Server: Player #3 miwa (153.163.215.183:2309) connected
+ 4:07:10 Player miwa connecting.
+ 4:07:13 BattlEye Server: Player #3 miwa - BE GUID: f5460dc8efe0bdc909d3202a54c5f1a2
+ 4:07:13 Player miwa connected (id=76561198013813792).
+ 4:07:13 BattlEye Server: Verified GUID (f5460dc8efe0bdc909d3202a54c5f1a2) of player #3 miwa
+ 4:20:29 Freezing95 uses modified data file
+ 4:20:29 BattlEye Server: Player #4 Freezing95 (182.46.3.74:56256) connected
+ 4:20:29 Player Freezing95 connecting.
+ 4:20:33 BattlEye Server: Player #4 Freezing95 - BE GUID: 8a22077f216c0f8ec6a26460fd878650
+ 4:20:36 Player Freezing95 connected (id=76561198103140185).
+ 4:20:36 BattlEye Server: Verified GUID (8a22077f216c0f8ec6a26460fd878650) of player #4 Freezing95
+ 4:25:18 Player mactk is losing connection
+ 4:26:38 Player mactk disconnected.
+ 4:26:38 BattlEye Server: Player #1 mactk disconnected
+ 4:27:36 mactk uses modified data file
+ 4:27:36 BattlEye Server: Player #5 mactk (103.98.10.4:37099) connected
+ 4:27:36 Player mactk connecting.
+ 4:27:39 BattlEye Server: Player #5 mactk - BE GUID: 17d25ceef05da4c6cdbd9afb3d725401
+ 4:27:39 Player mactk connected (id=76561198094896719).
+ 4:27:39 BattlEye Server: Verified GUID (17d25ceef05da4c6cdbd9afb3d725401) of player #5 mactk
+ 5:13:35 Ryota uses modified data file
+ 5:13:35 BattlEye Server: Player #6 Ryota (121.105.52.202:2304) connected
+ 5:13:35 Player Ryota connecting.
+ 5:13:59 Player Ryota disconnected.
+ 5:13:59 BattlEye Server: Player #6 Ryota disconnected
+ 5:14:00 Ryota uses modified data file
+ 5:14:00 BattlEye Server: Player #6 Ryota (121.105.52.202:2304) connected
+ 5:14:00 Player Ryota connecting.
+ 5:14:03 BattlEye Server: Player #6 Ryota - BE GUID: 4fc25fce7f262998b52b8d50680d4918
+ 5:14:04 Player Ryota connected (id=76561198397136001).
+ 5:14:04 BattlEye Server: Verified GUID (4fc25fce7f262998b52b8d50680d4918) of player #6 Ryota
+ 5:14:05 Player Ryota disconnected.
+ 5:14:05 BattlEye Server: Player #6 Ryota disconnected
+ 5:45:11 Player Loli is losing connection
+ 5:46:24 Player Loli kicked off by BattlEye: Client not responding
+ 5:46:24 Player Loli disconnected.
+ 5:53:03 Loli uses modified data file
+ 5:53:04 BattlEye Server: Player #6 Loli (14.111.63.44:16774) connected
+ 5:53:04 Player Loli connecting.
+ 5:53:31 BattlEye Server: Player #6 Loli - BE GUID: f6c2a50ff07caff2f43aa8caae1c092c
+ 5:53:34 Player Loli connected (id=76561198099480797).
+ 5:53:34 BattlEye Server: Verified GUID (f6c2a50ff07caff2f43aa8caae1c092c) of player #6 Loli
+ 5:54:06 Player Loli disconnected.
+ 5:54:06 BattlEye Server: Player #6 Loli disconnected
+ 5:55:56 Loli uses modified data file
+ 5:55:56 BattlEye Server: Player #6 Loli (14.111.63.44:16774) connected
+ 5:55:56 Player Loli connecting.
+ 5:56:04 Player Loli disconnected.
+ 5:56:04 BattlEye Server: Player #6 Loli disconnected
+ 5:57:24 Loli uses modified data file
+ 5:57:24 BattlEye Server: Player #6 Loli (14.111.63.44:16774) connected
+ 5:57:24 Player Loli connecting.
+ 5:57:42 BattlEye Server: Player #6 Loli - BE GUID: f6c2a50ff07caff2f43aa8caae1c092c
+ 5:57:44 Player Loli connected (id=76561198099480797).
+ 5:57:44 BattlEye Server: Verified GUID (f6c2a50ff07caff2f43aa8caae1c092c) of player #6 Loli
+ 5:59:39 High Alert Highlander  uses modified data file
+ 5:59:39 BattlEye Server: Player #7 High Alert Highlander  (190.171.107.107:62725) connected
+ 5:59:39 Player High Alert Highlander  connecting.
+ 5:59:44 BattlEye Server: Player #7 High Alert Highlander  - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+ 6:01:46 Player High Alert Highlander  disconnected.
+ 6:01:46 BattlEye Server: Player #7 High Alert Highlander  disconnected
+ 6:02:28 High Alert Highlander  uses modified data file
+ 6:02:28 BattlEye Server: Player #7 High Alert Highlander  (190.171.107.107:62725) connected
+ 6:02:28 Player High Alert Highlander  connecting.
+ 6:02:30 BattlEye Server: Player #7 High Alert Highlander  - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+ 6:03:52 Player High Alert Highlander  connected (id=76561198065774594).
+ 6:03:52 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #7 High Alert Highlander 
+ 6:05:58 Admin logged in, player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+ 6:07:14 BattlEye Server: (Global) High Alert Highlander : good day every one 
+ 6:07:57 BattlEye Server: (Global) Loli: hi
+ 6:08:12 BattlEye Server: (Global) Freezing95: hi
+ 6:09:56 BattlEye Server: (Global) High Alert Highlander : guys this is admin base thiungs here dont get tounch pls 
+ 6:10:07 BattlEye Server: (Global) Freezing95: okok
+ 6:10:26 BattlEye Server: (Direct) sony: SRY MY FRIEND
+ 6:10:45 BattlEye Server: (Direct) Freezing95: j
+ 6:11:49 BattlEye Server: (Global) High Alert Highlander : now i will need to tresatrt the server 
+ 6:12:02 BattlEye Server: (Global) Loli: well
+ 6:12:06 BattlEye Server: (Global) Freezing95: wait
+ 6:12:13 BattlEye Server: (Global) Loli: can u wait a seconds?
+ 6:12:19 BattlEye Server: (Global) High Alert Highlander : who ever got in here i will check the records is one time wrning 
+ 6:12:20 BattlEye Server: (Global) Loli: i just bouth a F-22
+ 6:12:22 BattlEye Server: (Global) Freezing95: 3min
+ 6:13:38 BattlEye Server: (Global) High Alert Highlander : holy shit you guys destroi everything here inside 
+ 6:14:01 BattlEye Server: (Global) High Alert Highlander : i will check the records who ever did this will be ban {
+ 6:14:36 BattlEye Server: (Global) High Alert Highlander : bases are not raidable in thisserver check the rules server before you do anything 
+ 6:14:51 Player Freezing95 is losing connection
+ 6:14:59 Player miwa disconnected.
+ 6:14:59 BattlEye Server: Player #3 miwa disconnected
+ 6:15:08 Player sony disconnected.
+ 6:15:08 BattlEye Server: Player #0 sony disconnected
+ 6:16:03 Player Freezing95 kicked off by BattlEye: Client not responding
+ 6:16:03 Player Freezing95 disconnected.
+ 6:16:26 Player Loli disconnected.
+ 6:16:26 BattlEye Server: Player #6 Loli disconnected
+ 6:17:2

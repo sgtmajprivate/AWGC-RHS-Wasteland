@@ -1,0 +1,66 @@
+﻿15:01:42 BattlEye Server: Initialized (v1.217)
+15:01:42 Host identity created.
+15:01:42 Game Port: 2307, Steam Query Port: 2308
+15:01:42 Mission A3Wasteland Altis v1.4c read from bank.
+15:01:43 Roles assigned.
+15:01:43 Reading mission ...
+15:02:17 Mission read.
+15:02:17 Game started.
+15:16:34 Marques uses modified data file
+15:16:34 BattlEye Server: Player #0 Marques (187.126.94.116:18125) connected
+15:16:34 Player Marques connecting.
+15:16:34 BattlEye Server: Connected to BE Master
+15:16:37 BattlEye Server: Player #0 Marques - BE GUID: a1b1fb6a88fc1d0bf9b65067a4f4f6a9
+15:16:37 Player Marques connected (id=76561198343381444).
+15:16:37 BattlEye Server: Verified GUID (a1b1fb6a88fc1d0bf9b65067a4f4f6a9) of player #0 Marques
+15:25:21 Player Marques disconnected.
+15:25:21 BattlEye Server: Player #0 Marques disconnected
+15:59:01 TwinAxe uses modified data file
+15:59:01 BattlEye Server: Player #0 TwinAxe (78.70.5.17:55681) connected
+15:59:01 Player TwinAxe connecting.
+15:59:03 BattlEye Server: Player #0 TwinAxe - BE GUID: 3612dbdf3cd7dc4dd1e12af1ed0837b2
+15:59:07 Player TwinAxe connected (id=76561197989048889).
+15:59:07 BattlEye Server: Verified GUID (3612dbdf3cd7dc4dd1e12af1ed0837b2) of player #0 TwinAxe
+16:39:40 Marques uses modified data file
+16:39:40 BattlEye Server: Player #1 Marques (187.126.94.116:19723) connected
+16:39:40 Player Marques connecting.
+16:39:46 BattlEye Server: Player #1 Marques - BE GUID: a1b1fb6a88fc1d0bf9b65067a4f4f6a9
+16:39:46 Player Marques connected (id=76561198343381444).
+16:39:46 BattlEye Server: Verified GUID (a1b1fb6a88fc1d0bf9b65067a4f4f6a9) of player #1 Marques
+16:48:00 Player Marques: Wrong signature for file C:\Program Files (x86)\Steam1\steamapps\common\Arma 3\curator\addons\missions_f_curator.pbo
+16:48:00 Player Marques disconnected.
+16:48:00 BattlEye Server: Player #1 Marques disconnected
+17:26:05 PANTC uses modified data file
+17:26:05 BattlEye Server: Player #1 PANTC (170.82.110.202:2304) connected
+17:26:05 Player PANTC connecting.
+17:26:07 BattlEye Server: Player #1 PANTC - BE GUID: 6d65b61483e25b70b8993a7d5c0df5a4
+17:26:08 Player PANTC connected (id=76561198090750278).
+17:26:08 BattlEye Server: Verified GUID (6d65b61483e25b70b8993a7d5c0df5a4) of player #1 PANTC
+17:26:10 Player PANTC disconnected.
+17:26:10 BattlEye Server: Player #1 PANTC disconnected
+17:28:36 Yeet McDabbington uses modified data file
+17:28:36 BattlEye Server: Player #1 Yeet McDabbington (73.21.180.37:2309) connected
+17:28:36 Player Yeet McDabbington connecting.
+17:28:38 BattlEye Server: Player #1 Yeet McDabbington - BE GUID: e0845e254755825b22e6d30dc7e61b99
+17:28:47 Player Yeet McDabbington connected (id=76561198032540425).
+17:28:47 BattlEye Server: Verified GUID (e0845e254755825b22e6d30dc7e61b99) of player #1 Yeet McDabbington
+17:38:51 Player TwinAxe disconnected.
+17:38:51 BattlEye Server: Player #0 TwinAxe disconnected
+18:39:24 RCT.MASSEY.T uses modified data file
+18:39:24 BattlEye Server: Player #2 RCT.MASSEY.T (173.188.151.26:2309) connected
+18:39:24 Player RCT.MASSEY.T connecting.
+18:39:26 BattlEye Server: Player #2 RCT.MASSEY.T - BE GUID: c32ead9d50d7c8b043291951e92544ad
+18:39:27 Player RCT.MASSEY.T connected (id=76561198036148836).
+18:39:27 BattlEye Server: Verified GUID (c32ead9d50d7c8b043291951e92544ad) of player #2 RCT.MASSEY.T
+18:43:34 Rou Kowalski uses modified data file
+18:43:35 BattlEye Server: Player #3 Rou Kowalski (73.147.1.91:2309) connected
+18:43:35 Player Rou Kowalski connecting.
+18:43:37 BattlEye Server: Player #3 Rou Kowalski - BE GUID: 58cae163ea9d3a0ff8adde240b436737
+18:43:52 Player Rou Kowalski connected (id=76561198034110598).
+18:43:52 BattlEye Server: Verified GUID (58cae163ea9d3a0ff8adde240b436737) of player #3 Rou Kowalski
+18:45:37 BattlEye Server: (Global) Rou Kowalski: Welcome back RCT. Massey, Yeet, Friendly or PVP tonight?
+18:45:47 BattlEye Server: (Global) RCT.MASSEY.T: yep
+18:45:49 BattlEye Server: (Side) RCT.MASSEY.T: no
+18:45:58 BattlEye Server: (Global) Rou Kowalski: Friendly it is then.. 
+18:46:28 BattlEye Server: (Global) Rou Kowalski: Anything fun going on
+18:46:40 BattlEye Serv

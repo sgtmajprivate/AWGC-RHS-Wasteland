@@ -1,0 +1,65 @@
+﻿21:17:28 BattlEye Server: Initialized (v1.217)
+21:17:28 Host identity created.
+21:17:28 Game Port: 2307, Steam Query Port: 2308
+21:17:28 Mission A3Wasteland Altis v1.4c read from bank.
+21:17:30 Roles assigned.
+21:17:30 Reading mission ...
+21:18:04 Mission read.
+21:18:04 Game started.
+21:21:28 SgtMajPrivate uses modified data file
+21:21:28 BattlEye Server: Player #0 SgtMajPrivate (73.93.167.13:2309) connected
+21:21:28 Player SgtMajPrivate connecting.
+21:21:28 BattlEye Server: Connected to BE Master
+21:21:30 BattlEye Server: Player #0 SgtMajPrivate - BE GUID: 4c2b9d687447cbad1213b89cfae82f46
+21:21:30 Player SgtMajPrivate connected (id=76561198164565751).
+21:21:30 BattlEye Server: Verified GUID (4c2b9d687447cbad1213b89cfae82f46) of player #0 SgtMajPrivate
+21:22:59 Admin logged in, player: SgtMajPrivate, playerUID: 76561198164565751, IP: 192.168.0.11:2309.
+21:26:59 Admin logged out, player: SgtMajPrivate, playerUID: 76561198164565751, IP: 192.168.0.11:2309.
+21:27:51 Admin logged in, player: SgtMajPrivate, playerUID: 76561198164565751, IP: 192.168.0.11:2309.
+21:31:24 Player SgtMajPrivate disconnected.
+21:31:25 BattlEye Server: Player #0 SgtMajPrivate disconnected
+21:31:25 Admin logged out, player: SgtMajPrivate, playerUID: 76561198164565751, IP: 192.168.0.11:2309.
+21:34:19 SgtMajPrivate uses modified data file
+21:34:19 BattlEye Server: Player #0 SgtMajPrivate (73.93.167.13:2309) connected
+21:34:19 Player SgtMajPrivate connecting.
+21:34:21 BattlEye Server: Player #0 SgtMajPrivate - BE GUID: 4c2b9d687447cbad1213b89cfae82f46
+21:34:21 Player SgtMajPrivate connected (id=76561198164565751).
+21:34:21 BattlEye Server: Verified GUID (4c2b9d687447cbad1213b89cfae82f46) of player #0 SgtMajPrivate
+21:36:58 Admin logged in, player: SgtMajPrivate, playerUID: 76561198164565751, IP: 192.168.0.11:2309.
+21:38:59 Player SgtMajPrivate disconnected.
+21:38:59 BattlEye Server: Player #0 SgtMajPrivate disconnected
+21:38:59 Admin logged out, player: SgtMajPrivate, playerUID: 76561198164565751, IP: 192.168.0.11:2309.
+21:41:41 alexa uses modified data file
+21:41:41 BattlEye Server: Player #0 alexa (71.94.175.145:2304) connected
+21:41:41 Player alexa connecting.
+21:41:43 BattlEye Server: Player #0 alexa - BE GUID: c4dbec85061b67a25928f34ffb5c7867
+21:41:43 Player alexa connected (id=76561198015361602).
+21:41:43 BattlEye Server: Verified GUID (c4dbec85061b67a25928f34ffb5c7867) of player #0 alexa
+21:41:45 Player alexa disconnected.
+21:41:45 BattlEye Server: Player #0 alexa disconnected
+21:44:53 alexa uses modified data file
+21:44:53 BattlEye Server: Player #0 alexa (71.94.175.145:2304) connected
+21:44:53 Player alexa connecting.
+21:44:55 BattlEye Server: Player #0 alexa - BE GUID: c4dbec85061b67a25928f34ffb5c7867
+21:44:55 Player alexa connected (id=76561198015361602).
+21:44:55 BattlEye Server: Verified GUID (c4dbec85061b67a25928f34ffb5c7867) of player #0 alexa
+21:45:07 Player alexa disconnected.
+21:45:07 BattlEye Server: Player #0 alexa disconnected
+21:58:09 Mason uses modified data file
+21:58:09 BattlEye Server: Player #0 Mason (71.81.137.47:2309) connected
+21:58:09 Player Mason connecting.
+21:58:11 BattlEye Server: Player #0 Mason - BE GUID: 955d09b6e1dde9360ceebc2963df084d
+21:58:11 Player Mason connected (id=76561198026943270).
+21:58:11 BattlEye Server: Verified GUID (955d09b6e1dde9360ceebc2963df084d) of player #0 Mason
+22:16:53 SgtMajPrivate uses modified data file
+22:16:53 BattlEye Server: Player #1 SgtMajPrivate (73.93.167.13:2309) connected
+22:16:53 Player SgtMajPrivate connecting.
+22:16:55 BattlEye Server: Player #1 SgtMajPrivate - BE GUID: 4c2b9d687447cbad1213b89cfae82f46
+22:16:55 Player SgtMajPrivate connected (id=76561198164565751).
+22:16:55 BattlEye Server: Verified GUID (4c2b9d687447cbad1213b89cfae82f46) of player #1 SgtMajPrivate
+22:18:21 Admin logged in, player: SgtMajPrivate, playerUID: 76561198164565751, IP: 192.168.0.11:2309.
+22:19:08 BattlEye Server: (Side) SgtMajPrivate: Hey Mason
+22:24:11 Player Mason disconnected.
+22:24:11 BattlEye Server: Player #0 Mason disconnected
+22:24:13 Player SgtMajPrivate disconnected.
+22:24:13 BattlEye Ser

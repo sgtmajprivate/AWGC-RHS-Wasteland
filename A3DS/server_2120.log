@@ -1,0 +1,118 @@
+﻿15:02:02 BattlEye Server: Initialized (v1.217)
+15:02:02 Host identity created.
+15:02:02 Game Port: 2307, Steam Query Port: 2308
+15:02:02 Mission A3Wasteland Altis v1.4c read from bank.
+15:02:04 Roles assigned.
+15:02:04 Reading mission ...
+15:02:41 Mission read.
+15:02:41 Game started.
+15:29:41 WhiskyTangoFoxy uses modified data file
+15:29:41 BattlEye Server: Player #0 WhiskyTangoFoxy (68.209.125.150:2309) connected
+15:29:41 Player WhiskyTangoFoxy connecting.
+15:29:42 BattlEye Server: Connected to BE Master
+15:29:44 BattlEye Server: Player #0 WhiskyTangoFoxy - BE GUID: ccc3a0df36dbaafc41246bff61f93b24
+15:29:45 Player WhiskyTangoFoxy connected (id=76561197994843275).
+15:29:45 BattlEye Server: Verified GUID (ccc3a0df36dbaafc41246bff61f93b24) of player #0 WhiskyTangoFoxy
+16:46:00 BR1_Bandit uses modified data file
+16:46:00 BattlEye Server: Player #1 BR1_Bandit (134.41.96.129:2309) connected
+16:46:00 Player BR1_Bandit connecting.
+16:46:02 BattlEye Server: Player #1 BR1_Bandit - BE GUID: 8a701e7029ec21d8e45677830a84af43
+16:46:02 Player BR1_Bandit connected (id=76561198151022635).
+16:46:02 BattlEye Server: Verified GUID (8a701e7029ec21d8e45677830a84af43) of player #1 BR1_Bandit
+17:05:14 Player WhiskyTangoFoxy disconnected.
+17:05:14 BattlEye Server: Player #0 WhiskyTangoFoxy disconnected
+17:13:48 High Alert Highlander  uses modified data file
+17:13:48 BattlEye Server: Player #2 High Alert Highlander  (190.171.107.63:62725) connected
+17:13:48 Player High Alert Highlander  connecting.
+17:13:52 BattlEye Server: Player #2 High Alert Highlander  - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+17:13:55 Player High Alert Highlander  connected (id=76561198065774594).
+17:13:55 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #2 High Alert Highlander 
+17:17:53 Wrong admin password entered by player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+17:17:56 Admin logged in, player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+17:52:10 Sld1 Jacques v A uses modified data file
+17:52:10 BattlEye Server: Player #3 Sld1 Jacques v A (217.120.52.102:2309) connected
+17:52:10 Player Sld1 Jacques v A connecting.
+17:52:12 BattlEye Server: Player #3 Sld1 Jacques v A - BE GUID: b99d7fe91e4a05fbcf67ee620ef238f9
+17:52:27 Player Sld1 Jacques v A connected (id=76561198082891614).
+17:52:27 BattlEye Server: Verified GUID (b99d7fe91e4a05fbcf67ee620ef238f9) of player #3 Sld1 Jacques v A
+17:58:59 Ethan uses modified data file
+17:58:59 BattlEye Server: Player #4 Ethan (24.155.84.169:2304) connected
+17:58:59 Player Ethan connecting.
+17:59:01 BattlEye Server: Player #4 Ethan - BE GUID: 99170c04260e89a7ca9817fcc299453e
+17:59:01 Player Ethan connected (id=76561198179817101).
+17:59:01 BattlEye Server: Verified GUID (99170c04260e89a7ca9817fcc299453e) of player #4 Ethan
+17:59:06 Player Ethan disconnected.
+17:59:06 BattlEye Server: Player #4 Ethan disconnected
+18:01:44 Player BR1_Bandit disconnected.
+18:01:44 BattlEye Server: Player #1 BR1_Bandit disconnected
+18:08:15 Player High Alert Highlander  disconnected.
+18:08:15 BattlEye Server: Player #2 High Alert Highlander  disconnected
+18:08:15 Admin logged out, player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+18:23:46 rober uses modified data file
+18:23:46 BattlEye Server: Player #4 rober (172.4.66.127:2304) connected
+18:23:46 Player rober connecting.
+18:23:47 BattlEye Server: Player #4 rober - BE GUID: 1fdf10c8fb8f1321149d72634efdab0a
+18:23:48 Player rober connected (id=76561198064769564).
+18:23:48 BattlEye Server: Verified GUID (1fdf10c8fb8f1321149d72634efdab0a) of player #4 rober
+18:24:21 Player Sld1 Jacques v A disconnected.
+18:24:21 BattlEye Server: Player #3 Sld1 Jacques v A disconnected
+18:26:17 TexasHammer uses modified data file
+18:26:17 BattlEye Server: Player #5 TexasHammer (73.206.78.50:2304) connected
+18:26:18 Player TexasHammer connecting.
+18:26:20 BattlEye Server: Player #5 TexasHammer - BE GUID: 598f80db0282be6227531b9a40385ca1
+18:26:20 Player TexasHammer connected (id=76561198079524831).
+18:26:20 BattlEye Server: Verified GUID (598f80db0282be6227531b9a40385ca1) of player #5 TexasHammer
+18:28:10 Player TexasHammer disconnected.
+18:28:10 BattlEye Server: Player #5 TexasHammer disconnected
+18:28:27 Player rober disconnected.
+18:28:27 BattlEye Server: Player #4 rober disconnected
+19:37:48 Mason uses modified data file
+19:37:48 BattlEye Server: Player #0 Mason (71.81.137.47:2309) connected
+19:37:48 Player Mason connecting.
+19:37:50 BattlEye Server: Player #0 Mason - BE GUID: 955d09b6e1dde9360ceebc2963df084d
+19:37:50 Player Mason connected (id=76561198026943270).
+19:37:50 BattlEye Server: Verified GUID (955d09b6e1dde9360ceebc2963df084d) of player #0 Mason
+19:41:56 High Alert Highlander  uses modified data file
+19:41:56 BattlEye Server: Player #1 High Alert Highlander  (190.171.107.63:62725) connected
+19:41:56 Player High Alert Highlander  connecting.
+19:42:01 BattlEye Server: Player #1 High Alert Highlander  - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+19:42:04 Player High Alert Highlander  connected (id=76561198065774594).
+19:42:04 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #1 High Alert Highlander 
+19:44:42 BattlEye Server: (Side) High Alert Highlander : hi mason
+20:00:26 Admin logged in, player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+20:00:46 Player High Alert Highlander  disconnected.
+20:00:46 BattlEye Server: Player #1 High Alert Highlander  disconnected
+20:00:46 Admin logged out, player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+20:03:10 High Alert Highlander  uses modified data file
+20:03:10 BattlEye Server: Player #1 High Alert Highlander  (190.171.107.63:62725) connected
+20:03:10 Player High Alert Highlander  connecting.
+20:03:15 BattlEye Server: Player #1 High Alert Highlander  - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+20:03:17 Player High Alert Highlander  connected (id=76561198065774594).
+20:03:17 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #1 High Alert Highlander 
+20:05:57 BattlEye Server: (Side) High Alert Highlander : yes
+20:06:05 BattlEye Server: (Side) High Alert Highlander : i went totake ashower 
+20:06:25 BattlEye Server: (Side) High Alert Highlander : i feel like shit 
+20:06:44 BattlEye Server: (Side) High Alert Highlander : yes those r not the ones
+20:06:48 BattlEye Server: (Side) High Alert Highlander : just a sec
+20:06:58 Admin logged in, player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+20:09:08 BattlEye Server: (Side) High Alert Highlander : yea
+20:09:24 BattlEye Server: (Side) Mason: very nice mod my friend, very nice
+20:10:40 BattlEye Server: (Side) Mason: just keep thinking about vacation and the world cup, you'll get there soon enough
+20:10:52 BattlEye Server: (Side) High Alert Highlander : jajaj hope so
+20:10:59 BattlEye Server: (Side) Mason: oh yeah
+20:11:18 BattlEye Server: (Side) Mason: btw. watch out for the hostile heli's just north of us
+20:11:24 BattlEye Server: (Side) High Alert Highlander : ok
+20:17:17 BattlEye Server: (Side) Mason: i need to grab a med kit then i'll help ya
+20:17:29 BattlEye Server: (Side) High Alert Highlander : ok
+20:23:24 BattlEye Server: (Side) Mason: omw
+20:28:53 BattlEye Server: (Side) High Alert Highlander : i have been looking for somethiung since a wile a go with no luck 
+20:29:14 BattlEye Server: (Side) High Alert Highlander : a nightstalker
+20:29:31 BattlEye Server: (Side) High Alert Highlander : yes we did
+20:29:43 BattlEye Server: (Side) High Alert Highlander : but comesout 1 every 100 crates 
+20:30:09 BattlEye Server: (Side) High Alert Highlander : yea
+20:30:56 BattlEye Server: (Side) High Alert Highlander : yea is only way 
+20:31:43 BattlEye Server: (Side) Mason: lol, the weapon of choice
+20:32:12 BattlEye Server: (Side) High Alert Highlander : hey that couldbe a good base
+20:33:10 BattlEye Server: (Side) Mason: u done here?
+20:33:13 Player High Alert Highlander  is losing connection
+20:33:59 Player High Alert Highlander  kicked off by BattlEye: Client not responding

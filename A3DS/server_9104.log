@@ -1,0 +1,68 @@
+﻿ 9:01:47 BattlEye Server: Initialized (v1.217)
+ 9:01:47 Host identity created.
+ 9:01:47 Game Port: 2307, Steam Query Port: 2308
+ 9:01:48 Mission A3Wasteland Altis v1.4c read from bank.
+ 9:01:49 Roles assigned.
+ 9:01:49 Reading mission ...
+ 9:02:21 Mission read.
+ 9:02:21 Game started.
+ 9:10:45 Soft Fluffy Cuddlebear uses modified data file
+ 9:10:45 BattlEye Server: Player #0 Soft Fluffy Cuddlebear (190.171.107.27:62725) connected
+ 9:10:45 Player Soft Fluffy Cuddlebear connecting.
+ 9:10:46 BattlEye Server: Connected to BE Master
+ 9:10:50 BattlEye Server: Player #0 Soft Fluffy Cuddlebear - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+ 9:10:50 Player Soft Fluffy Cuddlebear connected (id=76561198065774594).
+ 9:10:50 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #0 Soft Fluffy Cuddlebear
+ 9:11:41 Max Mota uses modified data file
+ 9:11:41 BattlEye Server: Player #1 Max Mota (190.39.17.92:2309) connected
+ 9:11:41 Player Max Mota connecting.
+ 9:11:43 BattlEye Server: Player #1 Max Mota - BE GUID: b24b492882c5bff2195677387329ee4f
+ 9:11:45 Player Max Mota connected (id=76561198004095068).
+ 9:11:45 BattlEye Server: Verified GUID (b24b492882c5bff2195677387329ee4f) of player #1 Max Mota
+ 9:52:31 Rou Kowalski uses modified data file
+ 9:52:31 BattlEye Server: Player #2 Rou Kowalski (73.147.1.91:2309) connected
+ 9:52:31 Player Rou Kowalski connecting.
+ 9:52:34 BattlEye Server: Player #2 Rou Kowalski - BE GUID: 58cae163ea9d3a0ff8adde240b436737
+ 9:52:37 Player Rou Kowalski connected (id=76561198034110598).
+ 9:52:37 BattlEye Server: Verified GUID (58cae163ea9d3a0ff8adde240b436737) of player #2 Rou Kowalski
+11:28:56 Player Soft Fluffy Cuddlebear disconnected.
+11:28:56 BattlEye Server: Player #0 Soft Fluffy Cuddlebear disconnected
+11:29:04 Player Max Mota disconnected.
+11:29:04 BattlEye Server: Player #1 Max Mota disconnected
+11:29:13 Player Rou Kowalski disconnected.
+11:29:13 BattlEye Server: Player #2 Rou Kowalski disconnected
+13:16:10 Alph uses modified data file
+13:16:10 BattlEye Server: Player #0 Alph (73.144.95.183:2304) connected
+13:16:10 Player Alph connecting.
+13:16:12 BattlEye Server: Player #0 Alph - BE GUID: 7be2f15c86da58db2e59b3fec8724d77
+13:16:12 Player Alph connected (id=76561198133725300).
+13:16:12 BattlEye Server: Verified GUID (7be2f15c86da58db2e59b3fec8724d77) of player #0 Alph
+13:28:25 Will uses modified data file
+13:28:25 BattlEye Server: Player #1 Will (104.173.7.95:2304) connected
+13:28:25 Player Will connecting.
+13:28:28 BattlEye Server: Player #1 Will - BE GUID: 1e07a04ed27a2a75442a4ae1f28519fa
+13:28:28 Player Will connected (id=76561198304195990).
+13:28:28 BattlEye Server: Verified GUID (1e07a04ed27a2a75442a4ae1f28519fa) of player #1 Will
+13:33:18 mosiah uses modified data file
+13:33:18 BattlEye Server: Player #2 mosiah (45.36.14.226:2304) connected
+13:33:18 Player mosiah connecting.
+13:33:20 BattlEye Server: Player #2 mosiah - BE GUID: 3cce65e2132b0450e3ba04c804e442e5
+13:33:21 Player mosiah connected (id=76561198149932154).
+13:33:21 BattlEye Server: Verified GUID (3cce65e2132b0450e3ba04c804e442e5) of player #2 mosiah
+13:40:31 Player mosiah disconnected.
+13:40:32 BattlEye Server: Player #2 mosiah disconnected
+13:41:05 mosiah uses modified data file
+13:41:05 BattlEye Server: Player #2 mosiah (45.36.14.226:2304) connected
+13:41:05 Player mosiah connecting.
+13:41:07 BattlEye Server: Player #2 mosiah - BE GUID: 3cce65e2132b0450e3ba04c804e442e5
+13:41:07 Player mosiah connected (id=76561198149932154).
+13:41:07 BattlEye Server: Verified GUID (3cce65e2132b0450e3ba04c804e442e5) of player #2 mosiah
+13:45:41 Player mosiah disconnected.
+13:45:41 BattlEye Server: Player #2 mosiah disconnected
+13:52:43 Max Mota uses modified data file
+13:52:43 BattlEye Server: Player #2 Max Mota (190.39.17.92:2309) connected
+13:52:43 Player Max Mota connecting.
+13:52:45 BattlEye Server: Player #2 Max Mota - BE GUID: b24b492882c5bff2195677387329ee4f
+13:52:49 Player Max Mota connected (id=76561198004095068).
+13:52:49 BattlEye Server: Verified GUID (b24b492882c5bff2195677387329ee4f) of player #2 Max Mota
+14:16:29 BattlE

@@ -1,0 +1,70 @@
+﻿15:01:32 BattlEye Server: Initialized (v1.217)
+15:01:32 Host identity created.
+15:01:32 Game Port: 2307, Steam Query Port: 2308
+15:01:32 Mission A3Wasteland Altis v1.4c read from bank.
+15:01:33 Roles assigned.
+15:01:34 Reading mission ...
+15:02:04 Mission read.
+15:02:04 Game started.
+17:30:07 Mason uses modified data file
+17:30:07 BattlEye Server: Player #0 Mason (24.207.152.238:2309) connected
+17:30:07 Player Mason connecting.
+17:30:08 BattlEye Server: Connected to BE Master
+17:30:09 BattlEye Server: Player #0 Mason - BE GUID: 955d09b6e1dde9360ceebc2963df084d
+17:30:10 Player Mason connected (id=76561198026943270).
+17:30:10 BattlEye Server: Verified GUID (955d09b6e1dde9360ceebc2963df084d) of player #0 Mason
+17:50:38 Player Mason disconnected.
+17:50:38 BattlEye Server: Player #0 Mason disconnected
+18:16:54 ANATOLI CHEJOV uses modified data file
+18:16:54 BattlEye Server: Player #0 ANATOLI CHEJOV (190.171.107.94:62720) connected
+18:16:54 Player ANATOLI CHEJOV connecting.
+18:16:57 BattlEye Server: Player #0 ANATOLI CHEJOV - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+18:16:57 Player ANATOLI CHEJOV connected (id=76561198065774594).
+18:16:57 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #0 ANATOLI CHEJOV
+18:18:09 Mason uses modified data file
+18:18:09 BattlEye Server: Player #1 Mason (24.207.152.238:2309) connected
+18:18:09 Player Mason connecting.
+18:18:11 BattlEye Server: Player #1 Mason - BE GUID: 955d09b6e1dde9360ceebc2963df084d
+18:18:12 Player Mason connected (id=76561198026943270).
+18:18:12 BattlEye Server: Verified GUID (955d09b6e1dde9360ceebc2963df084d) of player #1 Mason
+18:26:48 Jaker uses modified data file
+18:26:48 BattlEye Server: Player #2 Jaker (71.88.115.251:2304) connected
+18:26:48 Player Jaker connecting.
+18:26:50 BattlEye Server: Player #2 Jaker - BE GUID: a2f8c5644c3b14c335b79f414caa5da1
+18:26:50 Player Jaker disconnected.
+18:26:50 BattlEye Server: Player #2 Jaker disconnected
+18:39:01 Nick uses modified data file
+18:39:01 BattlEye Server: Player #2 Nick (177.21.83.119:2309) connected
+18:39:01 Player Nick connecting.
+18:39:04 BattlEye Server: Player #2 Nick - BE GUID: e3a4d8cc7544cddada5244501e6e99b5
+18:39:04 Player Nick connected (id=76561198052251159).
+18:39:04 BattlEye Server: Verified GUID (e3a4d8cc7544cddada5244501e6e99b5) of player #2 Nick
+18:55:54 Player Nick disconnected.
+18:55:54 BattlEye Server: Player #2 Nick disconnected
+19:50:18 RockstarGaming uses modified data file
+19:50:18 BattlEye Server: Player #2 RockstarGaming (107.204.216.18:2304) connected
+19:50:18 Player RockstarGaming connecting.
+19:50:20 BattlEye Server: Player #2 RockstarGaming - BE GUID: 23fe7edb77e6acee989bf1757f516554
+19:50:20 Player RockstarGaming connected (id=76561198250040454).
+19:50:20 BattlEye Server: Verified GUID (23fe7edb77e6acee989bf1757f516554) of player #2 RockstarGaming
+19:52:43 BattlEye Server: (Side) RockstarGaming: Hi
+19:54:32 BattlEye Server: (Side) RockstarGaming: Why did you kill me?
+19:58:25 BattlEye Server: (Side) RockstarGaming: hi mason
+20:01:55 BattlEye Server: (Side) RockstarGaming: well cya later
+20:02:03 Player RockstarGaming disconnected.
+20:02:03 BattlEye Server: Player #2 RockstarGaming disconnected
+20:50:02 Rou Kowalski uses modified data file
+20:50:02 BattlEye Server: Player #2 Rou Kowalski (73.147.1.91:2309) connected
+20:50:02 Player Rou Kowalski connecting.
+20:50:04 BattlEye Server: Player #2 Rou Kowalski - BE GUID: 58cae163ea9d3a0ff8adde240b436737
+20:50:18 Player Rou Kowalski connected (id=76561198034110598).
+20:50:18 BattlEye Server: Verified GUID (58cae163ea9d3a0ff8adde240b436737) of player #2 Rou Kowalski
+20:52:39 BattlEye Server: (Global) Rou Kowalski: Invite please
+20:52:56 BattlEye Server: (Global) ANATOLI CHEJOV: the server will restart in 5 min 
+20:55:02 Failed attempt to execute serverCommand '#lock' by server.
+20:56:03 Player ANATOLI CHEJOV disconnected.
+20:56:03 BattlEye Server: Player #0 ANATOLI CHEJOV disconnected
+20:56:23 Player Mason disconnected.
+20:56:24 BattlEye Server: Player #1 Mason disconnected
+20:57:16 Player Rou Kowalski disconnected.
+20:57

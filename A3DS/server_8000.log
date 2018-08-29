@@ -1,0 +1,187 @@
+﻿ 9:01:45 BattlEye Server: Initialized (v1.217)
+ 9:01:45 Host identity created.
+ 9:01:45 Game Port: 2307, Steam Query Port: 2308
+ 9:01:45 Mission A3Wasteland Altis v1.4c read from bank.
+ 9:01:47 Roles assigned.
+ 9:01:47 Reading mission ...
+ 9:02:22 Mission read.
+ 9:02:22 Game started.
+10:07:29 Pv2.TonCo uses modified data file
+10:07:29 BattlEye Server: Player #0 Pv2.TonCo (179.25.50.91:2309) connected
+10:07:29 Player Pv2.TonCo connecting.
+10:07:30 BattlEye Server: Connected to BE Master
+10:07:35 BattlEye Server: Player #0 Pv2.TonCo - BE GUID: ee833b841d43b4780d30bd9849396bba
+10:07:35 Player Pv2.TonCo connected (id=76561198432942871).
+10:07:35 BattlEye Server: Verified GUID (ee833b841d43b4780d30bd9849396bba) of player #0 Pv2.TonCo
+10:07:49 Player Pv2.TonCo disconnected.
+10:07:49 BattlEye Server: Player #0 Pv2.TonCo disconnected
+10:12:01 Pv2.TonCo uses modified data file
+10:12:01 BattlEye Server: Player #0 Pv2.TonCo (179.25.50.91:2309) connected
+10:12:01 Player Pv2.TonCo connecting.
+10:12:06 BattlEye Server: Player #0 Pv2.TonCo - BE GUID: ee833b841d43b4780d30bd9849396bba
+10:12:06 Player Pv2.TonCo connected (id=76561198432942871).
+10:12:06 BattlEye Server: Verified GUID (ee833b841d43b4780d30bd9849396bba) of player #0 Pv2.TonCo
+10:13:30 Pv2.LocoRip uses modified data file
+10:13:30 BattlEye Server: Player #1 Pv2.LocoRip (186.54.22.173:2309) connected
+10:13:30 Player Pv2.LocoRip connecting.
+10:13:34 BattlEye Server: Player #1 Pv2.LocoRip - BE GUID: 6e14f10b0ec9d34577d93c5be4489630
+10:13:34 Player Pv2.LocoRip connected (id=76561198274624548).
+10:13:34 BattlEye Server: Verified GUID (6e14f10b0ec9d34577d93c5be4489630) of player #1 Pv2.LocoRip
+10:14:30 Player Pv2.TonCo disconnected.
+10:14:30 BattlEye Server: Player #0 Pv2.TonCo disconnected
+10:15:28 Pv2.TonCo uses modified data file
+10:15:28 BattlEye Server: Player #2 Pv2.TonCo (179.25.50.91:2309) connected
+10:15:28 Player Pv2.TonCo connecting.
+10:15:31 BattlEye Server: Player #2 Pv2.TonCo - BE GUID: ee833b841d43b4780d30bd9849396bba
+10:15:31 Player Pv2.TonCo connected (id=76561198432942871).
+10:15:31 BattlEye Server: Verified GUID (ee833b841d43b4780d30bd9849396bba) of player #2 Pv2.TonCo
+10:21:54 Yeet McDabbington uses modified data file
+10:21:54 BattlEye Server: Player #3 Yeet McDabbington (73.21.180.37:2309) connected
+10:21:54 Player Yeet McDabbington connecting.
+10:21:56 BattlEye Server: Player #3 Yeet McDabbington - BE GUID: e0845e254755825b22e6d30dc7e61b99
+10:22:01 Player Yeet McDabbington connected (id=76561198032540425).
+10:22:01 BattlEye Server: Verified GUID (e0845e254755825b22e6d30dc7e61b99) of player #3 Yeet McDabbington
+10:25:43 Player Pv2.TonCo is losing connection
+10:27:03 Player Pv2.TonCo disconnected.
+10:27:03 BattlEye Server: Player #2 Pv2.TonCo disconnected
+10:27:16 Pv2.TonCo uses modified data file
+10:27:16 BattlEye Server: Player #4 Pv2.TonCo (186.48.71.63:2309) connected
+10:27:16 Player Pv2.TonCo connecting.
+10:27:19 BattlEye Server: Player #4 Pv2.TonCo - BE GUID: ee833b841d43b4780d30bd9849396bba
+10:27:19 Player Pv2.TonCo connected (id=76561198432942871).
+10:27:19 BattlEye Server: Verified GUID (ee833b841d43b4780d30bd9849396bba) of player #4 Pv2.TonCo
+10:31:23 yanck uses modified data file
+10:31:23 BattlEye Server: Player #5 yanck (177.138.48.148:2304) connected
+10:31:23 Player yanck connecting.
+10:31:25 BattlEye Server: Player #5 yanck - BE GUID: 5f0e1d306fc9ef3146fe18b5a81a50b3
+10:31:26 Player yanck connected (id=76561198301639678).
+10:31:26 BattlEye Server: Verified GUID (5f0e1d306fc9ef3146fe18b5a81a50b3) of player #5 yanck
+10:31:33 Player yanck disconnected.
+10:31:34 BattlEye Server: Player #5 yanck disconnected
+10:36:44 Player Pv2.LocoRip is losing connection
+10:37:35 Player Pv2.LocoRip disconnected.
+10:37:35 BattlEye Server: Player #1 Pv2.LocoRip disconnected
+10:38:00 Pv2.LocoRip uses modified data file
+10:38:00 BattlEye Server: Player #5 Pv2.LocoRip (167.56.252.134:2309) connected
+10:38:00 Player Pv2.LocoRip connecting.
+10:38:02 BattlEye Server: Player #5 Pv2.LocoRip - BE GUID: 6e14f10b0ec9d34577d93c5be4489630
+10:38:03 Player Pv2.LocoRip connected (id=76561198274624548).
+10:38:03 BattlEye Server: Verified GUID (6e14f10b0ec9d34577d93c5be4489630) of player #5 Pv2.LocoRip
+10:58:29 Rou Kowalski uses modified data file
+10:58:29 BattlEye Server: Player #6 Rou Kowalski (73.147.1.91:2309) connected
+10:58:29 Player Rou Kowalski connecting.
+10:58:31 BattlEye Server: Player #6 Rou Kowalski - BE GUID: 58cae163ea9d3a0ff8adde240b436737
+10:58:48 Player Rou Kowalski connected (id=76561198034110598).
+10:58:48 BattlEye Server: Verified GUID (58cae163ea9d3a0ff8adde240b436737) of player #6 Rou Kowalski
+11:00:20 BattlEye Server: (Global) Rou Kowalski: Yeet, dont you sleep?
+11:00:34 BattlEye Server: (Global) Yeet McDabbington: Barely lol
+11:00:40 BattlEye Server: (Global) Rou Kowalski: lol
+11:00:45 BattlEye Server: (Global) Yeet McDabbington: Join Blue <3
+11:00:51 BattlEye Server: (Global) Rou Kowalski: ok
+11:28:08 Player Pv2.LocoRip is losing connection
+11:28:08 Player Pv2.LocoRip kicked off by BattlEye: Client not responding
+11:28:09 Player Pv2.LocoRip disconnected.
+11:30:41 Pv2.LocoRip uses modified data file
+11:30:41 BattlEye Server: Player #7 Pv2.LocoRip (167.56.252.134:2309) connected
+11:30:41 Player Pv2.LocoRip connecting.
+11:30:45 BattlEye Server: Player #7 Pv2.LocoRip - BE GUID: 6e14f10b0ec9d34577d93c5be4489630
+11:30:45 Player Pv2.LocoRip connected (id=76561198274624548).
+11:30:45 BattlEye Server: Verified GUID (6e14f10b0ec9d34577d93c5be4489630) of player #7 Pv2.LocoRip
+11:53:07 BattlEye Server: (Global) Pv2.LocoRip: -  why the fuck they kill if we are not at war and we are not looking to kill people to run to the idiot ghent
+11:53:28 BattlEye Server: (Global) Pv2.LocoRip:   why the fuck they kill if we are not at war and we are not looking to kill people to run to the idiot ghent
+11:56:29 Soft Fluffy Cuddlebear uses modified data file
+11:56:29 BattlEye Server: Player #8 Soft Fluffy Cuddlebear (190.171.107.94:62720) connected
+11:56:29 Player Soft Fluffy Cuddlebear connecting.
+11:56:29 Player Pv2.TonCo disconnected.
+11:56:29 BattlEye Server: Player #4 Pv2.TonCo disconnected
+11:56:31 BattlEye Server: Player #8 Soft Fluffy Cuddlebear - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+11:56:32 Player Soft Fluffy Cuddlebear connected (id=76561198065774594).
+11:56:32 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #8 Soft Fluffy Cuddlebear
+11:58:55 Player Pv2.LocoRip disconnected.
+11:58:55 BattlEye Server: Player #7 Pv2.LocoRip disconnected
+12:00:39 Pv2.TonCo uses modified data file
+12:00:39 BattlEye Server: Player #9 Pv2.TonCo (186.48.71.63:2309) connected
+12:00:39 Player Pv2.TonCo connecting.
+12:00:44 BattlEye Server: Player #9 Pv2.TonCo - BE GUID: ee833b841d43b4780d30bd9849396bba
+12:00:44 Player Pv2.TonCo connected (id=76561198432942871).
+12:00:44 BattlEye Server: Verified GUID (ee833b841d43b4780d30bd9849396bba) of player #9 Pv2.TonCo
+12:00:47 BattlEye Server: (Global) Soft Fluffy Cuddlebear: LOL WHAT DID I MISS
+12:01:09 BattlEye Server: (Global) Rou Kowalski: Just having some fun
+12:01:28 BattlEye Server: (Global) Soft Fluffy Cuddlebear: PVP FUN or pve fun 
+12:01:45 BattlEye Server: (Global) Rou Kowalski: Blue/Vs Indi
+12:01:58 BattlEye Server: (Global) Soft Fluffy Cuddlebear: lol 
+12:02:02 BattlEye Server: (Global) Soft Fluffy Cuddlebear: jajajaja
+12:02:40 BattlEye Server: (Global) Soft Fluffy Cuddlebear: no wionder why they left as soon i got in 
+12:02:58 BattlEye Server: (Global) Yeet McDabbington: Just doing the lord's work.
+12:03:05 BattlEye Server: (Global) Yeet McDabbington: Heart of a redfor.
+12:03:20 BattlEye Server: (Global) Yeet McDabbington: AKA a natural born cunt.
+12:03:20 BattlEye Server: (Global) Rou Kowalski: Come on over to bluefor Cuddlebear
+12:03:27 Player Pv2.TonCo disconnected.
+12:03:27 BattlEye Server: Player #9 Pv2.TonCo disconnected
+12:15:30 Player Soft Fluffy Cuddlebear is losing connection
+12:15:37 Player Soft Fluffy Cuddlebear kicked off by BattlEye: Client not responding
+12:15:37 Player Soft Fluffy Cuddlebear disconnected.
+12:23:49 Player Yeet McDabbington disconnected.
+12:23:49 BattlEye Server: Player #3 Yeet McDabbington disconnected
+12:26:13 Soft Fluffy Cuddlebear uses modified data file
+12:26:13 BattlEye Server: Player #7 Soft Fluffy Cuddlebear (190.171.107.94:62725) connected
+12:26:13 Player Soft Fluffy Cuddlebear connecting.
+12:26:17 BattlEye Server: Player #7 Soft Fluffy Cuddlebear - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+12:26:18 Player Soft Fluffy Cuddlebear connected (id=76561198065774594).
+12:26:18 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #7 Soft Fluffy Cuddlebear
+12:32:51 Hemlock Kowalski uses modified data file
+12:32:51 BattlEye Server: Player #8 Hemlock Kowalski (73.147.1.91:2304) connected
+12:32:51 Player Hemlock Kowalski connecting.
+12:32:52 Player Hemlock Kowalski disconnected.
+12:32:52 BattlEye Server: Player #8 Hemlock Kowalski disconnected
+12:35:03 Hemlock Kowalski uses modified data file
+12:35:03 BattlEye Server: Player #8 Hemlock Kowalski (73.147.1.91:61576) connected
+12:35:03 Player Hemlock Kowalski connecting.
+12:35:05 Player Hemlock Kowalski disconnected.
+12:35:05 BattlEye Server: Player #8 Hemlock Kowalski disconnected
+13:00:46 Pv2.TonCo uses modified data file
+13:00:47 BattlEye Server: Player #8 Pv2.TonCo (186.48.71.63:2309) connected
+13:00:47 Player Pv2.TonCo connecting.
+13:00:51 BattlEye Server: Player #8 Pv2.TonCo - BE GUID: ee833b841d43b4780d30bd9849396bba
+13:00:52 Player Pv2.TonCo connected (id=76561198432942871).
+13:00:52 BattlEye Server: Verified GUID (ee833b841d43b4780d30bd9849396bba) of player #8 Pv2.TonCo
+13:01:20 Pv2.LocoRip uses modified data file
+13:01:20 BattlEye Server: Player #9 Pv2.LocoRip (167.56.252.134:2309) connected
+13:01:21 Player Pv2.LocoRip connecting.
+13:01:25 BattlEye Server: Player #9 Pv2.LocoRip - BE GUID: 6e14f10b0ec9d34577d93c5be4489630
+13:01:25 Player Pv2.LocoRip connected (id=76561198274624548).
+13:01:25 BattlEye Server: Verified GUID (6e14f10b0ec9d34577d93c5be4489630) of player #9 Pv2.LocoRip
+13:10:53 Player Rou Kowalski disconnected.
+13:10:53 BattlEye Server: Player #6 Rou Kowalski disconnected
+13:13:11 Rou Kowalski uses modified data file
+13:13:11 BattlEye Server: Player #10 Rou Kowalski (73.147.1.91:2309) connected
+13:13:11 Player Rou Kowalski connecting.
+13:13:13 BattlEye Server: Player #10 Rou Kowalski - BE GUID: 58cae163ea9d3a0ff8adde240b436737
+13:13:19 Player Rou Kowalski connected (id=76561198034110598).
+13:13:19 BattlEye Server: Verified GUID (58cae163ea9d3a0ff8adde240b436737) of player #10 Rou Kowalski
+13:21:00 BattlEye Server: (Side) Soft Fluffy Cuddlebear: WTF WAS THAT \
+13:27:31 BattlEye Server: (Side) Soft Fluffy Cuddlebear: air potrt
+13:30:17 Hemlock Kowalski uses modified data file
+13:30:17 BattlEye Server: Player #11 Hemlock Kowalski (73.147.1.91:61592) connected
+13:30:17 Player Hemlock Kowalski connecting.
+13:30:19 BattlEye Server: Player #11 Hemlock Kowalski - BE GUID: 0e50d5bc222746efa845806a2af0fed1
+13:30:31 Player Hemlock Kowalski connected (id=76561198201473535).
+13:30:31 BattlEye Server: Verified GUID (0e50d5bc222746efa845806a2af0fed1) of player #11 Hemlock Kowalski
+13:31:47 Zim Bashue uses modified data file
+13:31:47 BattlEye Server: Player #12 Zim Bashue (72.130.188.126:2304) connected
+13:31:47 Player Zim Bashue connecting.
+13:31:48 Player Zim Bashue disconnected.
+13:31:48 BattlEye Server: Player #12 Zim Bashue disconnected
+13:34:29 Player Hemlock Kowalski disconnected.
+13:34:29 BattlEye Server: Player #11 Hemlock Kowalski disconnected
+14:11:28 Player Pv2.LocoRip disconnected.
+14:11:28 BattlEye Server: Player #9 Pv2.LocoRip disconnected
+14:16:12 Pv2.LocoRip uses modified data file
+14:16:12 BattlEye Server: Player #11 Pv2.LocoRip (167.56.252.134:2309) connected
+14:16:12 Player Pv2.LocoRip connecting.
+14:16:16 BattlEye Server: Player #11 Pv2.LocoRip - BE GUID: 6e14f10b0ec9d34577d93c5be4489630
+14:16:17 Player Pv2.LocoRip connected (id=76561198274624548).
+14:16:17 BattlEye Server: Verified GUID (6e14f10b0ec9d34577d93c5be4489630) of player #11 Pv2.LocoRip
+14:21:03 BattlEye Server: (Group) Pv2.TonCo: NO ME SETAS ESCUCHANDO DE NUEVO
+14:23:42 Player Soft Fluffy Cuddlebear disconnected.
+14:23:42 BattlEye Server: Player #7 Soft Fluffy C

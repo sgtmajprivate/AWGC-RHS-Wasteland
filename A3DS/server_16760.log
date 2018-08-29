@@ -1,0 +1,66 @@
+﻿ 9:01:33 BattlEye Server: Initialized (v1.217)
+ 9:01:33 Host identity created.
+ 9:01:33 Game Port: 2307, Steam Query Port: 2308
+ 9:01:33 Mission A3Wasteland Altis v1.4c read from bank.
+ 9:01:35 Roles assigned.
+ 9:01:35 Reading mission ...
+ 9:02:07 Mission read.
+ 9:02:08 Game started.
+10:43:59 High Alert Highlander  uses modified data file
+10:43:59 BattlEye Server: Player #0 High Alert Highlander  (190.171.107.63:62725) connected
+10:43:59 Player High Alert Highlander  connecting.
+10:44:00 BattlEye Server: Connected to BE Master
+10:44:05 BattlEye Server: Player #0 High Alert Highlander  - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+10:44:08 Player High Alert Highlander  connected (id=76561198065774594).
+10:44:08 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #0 High Alert Highlander 
+10:47:35 Admin logged in, player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+11:13:49 pk uses modified data file
+11:13:49 BattlEye Server: Player #1 pk (92.1.217.222:2309) connected
+11:13:49 Player pk connecting.
+11:13:52 BattlEye Server: Player #1 pk - BE GUID: 1a6d51773ca921b31b02249a9b1c5c2a
+11:14:01 Player pk connected (id=76561198150959298).
+11:14:01 BattlEye Server: Verified GUID (1a6d51773ca921b31b02249a9b1c5c2a) of player #1 pk
+11:18:17 GrayFox uses modified data file
+11:18:17 BattlEye Server: Player #2 GrayFox (77.182.64.210:2309) connected
+11:18:18 Player GrayFox connecting.
+11:18:21 BattlEye Server: Player #2 GrayFox - BE GUID: 1dc8d9a5b28a4fff7fa693c103856baf
+11:18:21 Player GrayFox connected (id=76561198084340624).
+11:18:21 BattlEye Server: Verified GUID (1dc8d9a5b28a4fff7fa693c103856baf) of player #2 GrayFox
+11:21:26 BattlEye Server: (Side) GrayFox: hey my sizilia pizza brother
+11:21:49 BattlEye Server: (Side) High Alert Highlander : Hi fox
+11:22:29 BattlEye Server: (Side) GrayFox: you installed my wapeon
+11:22:41 BattlEye Server: (Side) High Alert Highlander : Buongiorno
+11:22:49 BattlEye Server: (Side) pk: do no vehicles spawn in towns here ?
+11:22:58 BattlEye Server: (Side) High Alert Highlander : not yet 
+11:23:08 BattlEye Server: (Side) High Alert Highlander : but there is new vehiculs in VS 
+11:23:28 BattlEye Server: (Side) High Alert Highlander : yes they di spwn but only 30 inallthe map
+11:23:38 BattlEye Server: (Side) pk: thats a bloody long run 
+11:23:44 BattlEye Server: (Side) High Alert Highlander : yes it is 
+11:23:47 BattlEye Server: (Side) GrayFox: wappeons here
+11:24:08 BattlEye Server: (Side) High Alert Highlander : you respwan fully arm dependson your class
+11:24:26 BattlEye Server: (Side) High Alert Highlander : if you want new stuffu need to vuy that 
+11:24:38 BattlEye Server: (Side) GrayFox: no i mean the ak47 in gunstore
+11:24:51 BattlEye Server: (Side) High Alert Highlander : no not yet fox
+11:25:07 BattlEye Server: (Side) High Alert Highlander : u can use the 72 for now 
+11:25:16 BattlEye Server: (Side) GrayFox: thats not enough
+11:25:30 BattlEye Server: (Side) High Alert Highlander : well choose other gun
+11:26:36 Player pk disconnected.
+11:26:36 BattlEye Server: Player #1 pk disconnected
+11:27:19 Player GrayFox disconnected.
+11:27:19 BattlEye Server: Player #2 GrayFox disconnected
+11:37:28 User uses modified data file
+11:37:28 BattlEye Server: Player #1 User (74.89.42.223:2309) connected
+11:37:28 Player User connecting.
+11:37:49 Player User disconnected.
+11:37:49 BattlEye Server: Player #1 User disconnected
+11:38:05 User uses modified data file
+11:38:05 BattlEye Server: Player #1 User (74.89.42.223:2309) connected
+11:38:05 Player User connecting.
+11:38:08 BattlEye Server: Player #1 User - BE GUID: d6213a39899a3c49c72d765b0a55acdc
+11:38:08 Player User connected (id=76561198130106989).
+11:38:08 BattlEye Server: Verified GUID (d6213a39899a3c49c72d765b0a55acdc) of player #1 User
+11:38:39 Player User disconnected.
+11:38:39 BattlEye Server: Player #1 User disconnected
+12:19:24 Player High Alert Highlander  disconnected.
+12:19:24 BattlEye Server: Player #0 High Alert Highlander  disconnected
+12:19:25 Admin logged out, player: High Alert Highlander 

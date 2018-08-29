@@ -1,0 +1,308 @@
+﻿21:01:39 BattlEye Server: Initialized (v1.217)
+21:01:39 Host identity created.
+21:01:39 Game Port: 2307, Steam Query Port: 2308
+21:01:40 Mission A3Wasteland Altis v1.4c read from bank.
+21:01:41 Roles assigned.
+21:01:41 Reading mission ...
+21:02:12 Mission read.
+21:02:13 Hemlock Kowalski uses modified data file
+21:02:13 BattlEye Server: Player #0 Hemlock Kowalski (73.147.1.91:2304) connected
+21:02:13 Player Hemlock Kowalski connecting.
+21:02:13 Game started.
+21:02:13 BattlEye Server: Connected to BE Master
+21:02:14 BattlEye Server: Player #0 Hemlock Kowalski - BE GUID: 0e50d5bc222746efa845806a2af0fed1
+21:02:16 Player Hemlock Kowalski connected (id=76561198201473535).
+21:02:16 BattlEye Server: Verified GUID (0e50d5bc222746efa845806a2af0fed1) of player #0 Hemlock Kowalski
+21:13:13 ANATOLI CHEJOV uses modified data file
+21:13:13 BattlEye Server: Player #1 ANATOLI CHEJOV (190.171.107.50:62725) connected
+21:13:13 Player ANATOLI CHEJOV connecting.
+21:13:17 BattlEye Server: Player #1 ANATOLI CHEJOV - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+21:13:18 Player ANATOLI CHEJOV connected (id=76561198065774594).
+21:13:18 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #1 ANATOLI CHEJOV
+21:13:46 Мотиус uses modified data file
+21:13:46 BattlEye Server: Player #2 Мотиус (213.24.134.3:54715) connected
+21:13:46 Player Мотиус connecting.
+21:13:49 BattlEye Server: Player #2 Мотиус - BE GUID: 2954e377faa5e32fd2e4b41a09df7684
+21:13:49 Player Мотиус connected (id=76561198170950578).
+21:13:49 BattlEye Server: Verified GUID (2954e377faa5e32fd2e4b41a09df7684) of player #2 Мотиус
+21:21:22 BattlEye Server: (Group) ANATOLI CHEJOV: ok
+21:22:12 BattlEye Server: (Group) ANATOLI CHEJOV: thatguyisin kavalabe carefull
+21:22:41 BattlEye Server: (Group) ANATOLI CHEJOV: kabala
+21:23:31 BattlEye Server: (Group) ANATOLI CHEJOV: ok
+21:26:25 Арвел uses modified data file
+21:26:25 BattlEye Server: Player #3 Арвел (31.130.95.149:2304) connected
+21:26:25 Player Арвел connecting.
+21:26:27 BattlEye Server: Player #3 Арвел - BE GUID: a2c514f01869a830d8e9ea90685b0f22
+21:26:27 Player Арвел connected (id=76561198305541717).
+21:26:28 BattlEye Server: Verified GUID (a2c514f01869a830d8e9ea90685b0f22) of player #3 Арвел
+21:26:58 Ser Eblan uses modified data file
+21:26:58 BattlEye Server: Player #4 Ser Eblan (95.25.13.35:2304) connected
+21:26:58 Player Ser Eblan connecting.
+21:27:00 BattlEye Server: Player #4 Ser Eblan - BE GUID: 244b637f4295715693785e75e605bc1e
+21:27:01 Player Ser Eblan connected (id=76561198140085058).
+21:27:01 BattlEye Server: Verified GUID (244b637f4295715693785e75e605bc1e) of player #4 Ser Eblan
+21:27:26 BattlEye Server: (Group) ANATOLI CHEJOV: allof them
+21:27:35 BattlEye Server: (Group) ANATOLI CHEJOV: last night 
+21:27:37 BattlEye Server: (Group) ANATOLI CHEJOV: no
+21:28:51 Akov uses modified data file
+21:28:51 BattlEye Server: Player #5 Akov (5.100.74.198:2304) connected
+21:28:51 Player Akov connecting.
+21:28:54 BattlEye Server: Player #5 Akov - BE GUID: 99cc84a8ff4b4f16ac89e1fb8cbe0431
+21:28:54 Player Akov connected (id=76561198097571481).
+21:28:55 BattlEye Server: Verified GUID (99cc84a8ff4b4f16ac89e1fb8cbe0431) of player #5 Akov
+21:30:21 Player Арвел: Signature check timed out
+21:30:21 Player Арвел disconnected.
+21:30:21 BattlEye Server: Player #3 Арвел disconnected
+21:31:15 Арвел uses modified data file
+21:31:15 BattlEye Server: Player #6 Арвел (31.130.95.149:2304) connected
+21:31:15 Player Арвел connecting.
+21:31:17 BattlEye Server: Player #6 Арвел - BE GUID: a2c514f01869a830d8e9ea90685b0f22
+21:31:18 Player Арвел connected (id=76561198305541717).
+21:31:18 BattlEye Server: Verified GUID (a2c514f01869a830d8e9ea90685b0f22) of player #6 Арвел
+21:34:45 BattlEye Server: (Group) ANATOLI CHEJOV: thereisablackx onthemapthat is the basein case you want tocome
+21:38:59 yutsuki_ uses modified data file
+21:38:59 BattlEye Server: Player #7 yutsuki_ (45.199.148.34:37391) connected
+21:38:59 Player yutsuki_ connecting.
+21:39:02 BattlEye Server: Player #7 yutsuki_ - BE GUID: bf608ece7c3af61f1df2c4f304c04816
+21:39:02 Player yutsuki_ connected (id=76561198532708105).
+21:39:02 BattlEye Server: Verified GUID (bf608ece7c3af61f1df2c4f304c04816) of player #7 yutsuki_
+21:39:03 Player yutsuki_ disconnected.
+21:39:03 BattlEye Server: Player #7 yutsuki_ disconnected
+21:43:53 BattlEye Server: (Group) ANATOLI CHEJOV: all of them r toguether 
+21:44:03 BattlEye Server: (Group) ANATOLI CHEJOV: in towninvacion
+21:44:09 BattlEye Server: (Group) ANATOLI CHEJOV: close to kabala
+21:44:46 BattlEye Server: (Group) ANATOLI CHEJOV: u r not amedic
+21:45:03 BattlEye Server: (Group) ANATOLI CHEJOV: first kit canbe usewhenu r  less than 75 % 
+21:45:15 BattlEye Server: (Group) ANATOLI CHEJOV: and they healupto  75% max 
+21:49:51 BattlEye Server: (Group) ANATOLI CHEJOV: imthere
+21:59:51 BattlEye Server: (Group) ANATOLI CHEJOV: seeu inpurpledot near asal flats
+22:01:52 BattlEye Server: (Group) ANATOLI CHEJOV: where u r 
+22:02:23 BattlEye Server: (Group) ANATOLI CHEJOV: u wantmetopickuup
+22:02:36 BattlEye Server: (Group) ANATOLI CHEJOV: ok
+22:02:49 BattlEye Server: (Group) ANATOLI CHEJOV: im going tothe base
+22:07:34 BattlEye Server: (Group) ANATOLI CHEJOV: NOWORRIESWEHAVE 3
+22:07:41 BattlEye Server: (Group) ANATOLI CHEJOV: sorry caps
+22:21:07 BattlEye Server: (Group) ANATOLI CHEJOV: not really
+22:22:02 BattlEye Server: (Group) ANATOLI CHEJOV: they are just messing arround between them
+22:23:19 BattlEye Server: (Group) ANATOLI CHEJOV: yes
+22:24:00 BattlEye Server: (Group) ANATOLI CHEJOV: yes
+22:27:45 BattlEye Server: (Group) ANATOLI CHEJOV: yes
+22:29:58 BattlEye Server: (Group) ANATOLI CHEJOV: it seemsthey are going to the air port 
+22:30:08 BattlEye Server: (Group) ANATOLI CHEJOV: yes
+22:33:39 BattlEye Server: (Group) ANATOLI CHEJOV: yes
+22:33:45 BattlEye Server: (Group) ANATOLI CHEJOV: yes
+22:34:42 Aidan uses modified data file
+22:34:42 BattlEye Server: Player #7 Aidan (70.170.127.199:2304) connected
+22:34:42 Player Aidan connecting.
+22:34:44 BattlEye Server: Player #7 Aidan - BE GUID: 42623e56edce380b3e90e751e6ad7bc9
+22:34:44 Player Aidan connected (id=76561198227906908).
+22:34:44 BattlEye Server: Verified GUID (42623e56edce380b3e90e751e6ad7bc9) of player #7 Aidan
+22:35:20 BattlEye Server: (Group) ANATOLI CHEJOV: what
+22:35:27 BattlEye Server: (Group) ANATOLI CHEJOV: ni
+22:35:29 BattlEye Server: (Group) ANATOLI CHEJOV: no
+22:35:43 BattlEye Server: (Group) ANATOLI CHEJOV: not at least in 1 week
+22:36:25 BattlEye Server: (Group) ANATOLI CHEJOV: yes
+22:36:33 BattlEye Server: (Group) ANATOLI CHEJOV: yes
+22:41:50 BattlEye Server: (Group) ANATOLI CHEJOV: yes
+22:41:52 Player Aidan disconnected.
+22:41:52 BattlEye Server: Player #7 Aidan disconnected
+22:44:02 BattlEye Server: (Direct) Мотиус: Ебать ты пидорас
+22:44:08 BattlEye Server: (Global) Мотиус: Ебать ты пидорас
+22:47:52 BattlEye Server: (Global) Мотиус: ЛОХ ЕБАНЫЙ
+22:47:54 BattlEye Server: (Group) ANATOLI CHEJOV: jets
+22:50:06 BattlEye Server: (Group) ANATOLI CHEJOV: lol
+22:50:11 BattlEye Server: (Global) ANATOLI CHEJOV: lol
+22:50:27 BattlEye Server: (Global) Мотиус: Пашол нахуй
+22:50:27 BattlEye Server: (Global) ANATOLI CHEJOV: yes
+22:51:35 BattlEye Server: (Group) ANATOLI CHEJOV: what 
+22:51:53 BattlEye Server: (Group) Мотиус: В атиру беги ФЫР
+22:52:07 BattlEye Server: (Group) Мотиус: Мы то пиздеть не можем
+22:52:21 BattlEye Server: (Group) Мотиус: Нет,ждем
+22:52:40 BattlEye Server: (Group) Мотиус: Оружие за спину
+22:53:29 Benjamin uses modified data file
+22:53:29 BattlEye Server: Player #7 Benjamin (68.44.228.56:2304) connected
+22:53:29 Player Benjamin connecting.
+22:53:31 BattlEye Server: Player #7 Benjamin - BE GUID: 1bed9e9c1eecb48dbcd5f4c94d220f16
+22:53:31 Player Benjamin connected (id=76561198071152044).
+22:53:31 BattlEye Server: Verified GUID (1bed9e9c1eecb48dbcd5f4c94d220f16) of player #7 Benjamin
+22:54:11 BattlEye Server: (Group) Мотиус: Ну что?
+22:56:53 BattlEye Server: (Global) Benjamin: sup nerds
+22:57:17 Ficklepuss uses modified data file
+22:57:17 BattlEye Server: Player #8 Ficklepuss (99.49.57.86:2304) connected
+22:57:17 Player Ficklepuss connecting.
+22:57:19 BattlEye Server: Player #8 Ficklepuss - BE GUID: 7daf1e72cb4e728dc28e5e437fa886d3
+22:57:20 Player Ficklepuss connected (id=76561198025853961).
+22:57:20 BattlEye Server: Verified GUID (7daf1e72cb4e728dc28e5e437fa886d3) of player #8 Ficklepuss
+22:57:21 BattlEye Server: (Group) ANATOLI CHEJOV: hide
+22:57:28 BattlEye Server: (Group) ANATOLI CHEJOV: turnoff that 
+22:57:42 BattlEye Server: (Group) ANATOLI CHEJOV: ruuning engines bring them
+22:59:57 BattlEye Server: (Group) ANATOLI CHEJOV: yes
+23:00:05 BattlEye Server: (Group) ANATOLI CHEJOV: no 
+23:00:11 BattlEye Server: (Group) ANATOLI CHEJOV: leave that inthewater
+23:00:37 BattlEye Server: (Group) ANATOLI CHEJOV: this base isnotmadeforhavingboats sweetie
+23:00:52 BattlEye Server: (Group) ANATOLI CHEJOV: yes
+23:05:09 Donovan uses modified data file
+23:05:09 BattlEye Server: Player #9 Donovan (73.206.5.13:2304) connected
+23:05:09 Player Donovan connecting.
+23:05:11 BattlEye Server: Player #9 Donovan - BE GUID: 80038f43e6226fb4ce85de06f18910f6
+23:05:11 Player Donovan connected (id=76561198069601728).
+23:05:11 BattlEye Server: Verified GUID (80038f43e6226fb4ce85de06f18910f6) of player #9 Donovan
+23:06:33 BattlEye Server: (Group) ANATOLI CHEJOV: stupid jets 
+23:08:00 Player Donovan disconnected.
+23:08:00 BattlEye Server: Player #9 Donovan disconnected
+23:08:50 Justice Brewster uses modified data file
+23:08:50 BattlEye Server: Player #9 Justice Brewster (71.94.2.90:2304) connected
+23:08:50 Player Justice Brewster connecting.
+23:08:52 BattlEye Server: Player #9 Justice Brewster - BE GUID: d3ad62a3febe323fa39b657370a3aa0c
+23:08:53 Player Justice Brewster connected (id=76561198799373891).
+23:08:53 BattlEye Server: Verified GUID (d3ad62a3febe323fa39b657370a3aa0c) of player #9 Justice Brewster
+23:14:08 BattlEye Server: (Group) ANATOLI CHEJOV: guns storeabdera
+23:14:23 BattlEye Server: (Group) ANATOLI CHEJOV: ufill then in gas  stations
+23:15:58 BattlEye Server: (Group) ANATOLI CHEJOV: yes
+23:18:06 BattlEye Server: (Group) Hemlock Kowalski: they are acting like ai just running around
+23:18:34 BattlEye Server: (Group) Hemlock Kowalski: yeah lets turn on heli than get out
+23:19:00 Player Justice Brewster disconnected.
+23:19:01 BattlEye Server: Player #9 Justice Brewster disconnected
+23:19:05 BattlEye Server: (Global) Benjamin: 103 player kills..?
+23:19:06 BattlEye Server: (Group) Hemlock Kowalski: well that hit.
+23:20:09 BattlEye Server: (Group) Hemlock Kowalski: too close to our points
+23:20:52 BattlEye Server: (Group) ANATOLI CHEJOV: directhit 
+23:21:11 BattlEye Server: (Group) ANATOLI CHEJOV: yes
+23:21:15 BattlEye Server: (Group) ANATOLI CHEJOV: diferent 
+23:21:43 BattlEye Server: (Group) ANATOLI CHEJOV: they did not have time
+23:23:48 Player Ficklepuss disconnected.
+23:23:48 BattlEye Server: Player #8 Ficklepuss disconnected
+23:26:42 BattlEye Server: (Group) Hemlock Kowalski: ATV TOWN TO LEFT
+23:27:08 BattlEye Server: (Group) Hemlock Kowalski: lol oops
+23:27:56 BattlEye Server: (Group) Hemlock Kowalski: well now they cant say you are cheating
+23:30:41 Justice Brewster uses modified data file
+23:30:41 BattlEye Server: Player #8 Justice Brewster (71.94.2.90:2304) connected
+23:30:41 Player Justice Brewster connecting.
+23:30:44 BattlEye Server: Player #8 Justice Brewster - BE GUID: d3ad62a3febe323fa39b657370a3aa0c
+23:30:45 Player Justice Brewster connected (id=76561198799373891).
+23:30:45 BattlEye Server: Verified GUID (d3ad62a3febe323fa39b657370a3aa0c) of player #8 Justice Brewster
+23:32:17 BattlEye Server: (Group) ANATOLI CHEJOV: they r not toguetehr 
+23:32:28 BattlEye Server: (Group) ANATOLI CHEJOV: they are indies
+23:33:24 BattlEye Server: (Global) Benjamin: you blow
+23:33:25 BattlEye Server: (Global) ANATOLI CHEJOV: lol dude im sorry i was aimimng themission 
+23:33:28 BattlEye Server: (Global) Benjamin: :(
+23:33:40 BattlEye Server: (Global) Benjamin: i crawled so damn far to get the tank i just disabled
+23:33:45 BattlEye Server: (Global) ANATOLI CHEJOV: ihave nothing against u
+23:33:49 Player Benjamin disconnected.
+23:33:49 BattlEye Server: Player #7 Benjamin disconnected
+23:34:10 BattlEye Server: (Group) ANATOLI CHEJOV: yes
+23:34:12 BattlEye Server: (Group) ANATOLI CHEJOV: lol
+23:35:47 BattlEye Server: (Group) ANATOLI CHEJOV: yeshe is
+23:36:13 Player Justice Brewster disconnected.
+23:36:13 BattlEye Server: Player #8 Justice Brewster disconnected
+23:36:14 BattlEye Server: (Group) ANATOLI CHEJOV: ilike having you guys here
+23:36:24 BattlEye Server: (Group) ANATOLI CHEJOV: likeold times in rift 
+23:36:36 BattlEye Server: (Group) ANATOLI CHEJOV: such a shame that rift went to hell
+23:36:56 BattlEye Server: (Group) ANATOLI CHEJOV: i spoend so many hours like 45000
+23:37:02 BattlEye Server: (Group) ANATOLI CHEJOV: 4500
+23:37:23 BattlEye Server: (Group) ANATOLI CHEJOV: miss that game i really like it 
+23:37:43 BattlEye Server: (Group) ANATOLI CHEJOV: but they fuck it up with the pvp 
+23:37:56 BattlEye Server: (Group) ANATOLI CHEJOV: nothe make that game  for raiders 
+23:38:16 BattlEye Server: (Group) ANATOLI CHEJOV: not everyone  likes rding 
+23:38:21 BattlEye Server: (Group) ANATOLI CHEJOV: is too expensive 
+23:38:33 BattlEye Server: (Group) ANATOLI CHEJOV: and the pvp rightnow sucksmayor time
+23:38:49 BattlEye Server: (Group) ANATOLI CHEJOV: they even deleted from the game  some war fronts 
+23:39:10 BattlEye Server: (Group) ANATOLI CHEJOV: there is only like two scenarios for war fronts 
+23:39:39 BattlEye Server: (Group) ANATOLI CHEJOV: yea
+23:40:02 BattlEye Server: (Group) ANATOLI CHEJOV: pvpformmos is  not for everyone
+23:40:17 BattlEye Server: (Group) ANATOLI CHEJOV: i have been thinking going back to wow 
+23:40:46 BattlEye Server: (Group) ANATOLI CHEJOV: but then i   start thinking in that monthly fee 
+23:40:50 BattlEye Server: (Group) ANATOLI CHEJOV: and hell no 
+23:41:00 BattlEye Server: (Group) ANATOLI CHEJOV: yes
+23:42:25 BattlEye Server: (Group) ANATOLI CHEJOV: ok
+23:42:31 BattlEye Server: (Group) ANATOLI CHEJOV: gn sweetie
+23:42:37 BattlEye Server: (Group) ANATOLI CHEJOV: u too
+23:42:40 BattlEye Server: (Group) ANATOLI CHEJOV: ok 
+23:42:45 BattlEye Server: (Group) ANATOLI CHEJOV: i wiill
+23:42:59 BattlEye Server: (Group) ANATOLI CHEJOV: above me
+23:43:03 Liam uses modified data file
+23:43:03 BattlEye Server: Player #7 Liam (121.218.79.3:2309) connected
+23:43:04 Player Liam connecting.
+23:43:05 BattlEye Server: (Group) ANATOLI CHEJOV: in her bed
+23:43:06 BattlEye Server: Player #7 Liam - BE GUID: f804b83b000a91b675283462ff2623ff
+23:43:07 Player Liam connected (id=76561198262431658).
+23:43:07 BattlEye Server: Verified GUID (f804b83b000a91b675283462ff2623ff) of player #7 Liam
+23:43:20 BattlEye Server: (Group) ANATOLI CHEJOV: yes in the ait 
+23:43:26 BattlEye Server: (Group) ANATOLI CHEJOV: air
+23:43:39 BattlEye Server: (Group) ANATOLI CHEJOV: she likes toclimb 
+23:43:51 BattlEye Server: (Group) ANATOLI CHEJOV: thats not good
+23:43:57 BattlEye Server: (Group) ANATOLI CHEJOV: jajajaja
+23:44:37 BattlEye Server: (Group) ANATOLI CHEJOV: hair balls
+23:44:58 BattlEye Server: (Group) ANATOLI CHEJOV: okyes
+23:46:31 BattlEye Server: (Group) ANATOLI CHEJOV: night sweetie
+23:49:18 Wilky uses modified data file
+23:49:18 BattlEye Server: Player #8 Wilky (76.115.255.124:2304) connected
+23:49:18 Player Wilky connecting.
+23:49:24 BattlEye Server: Player #8 Wilky - BE GUID: 2f0210ab0fc6223d69768a512f59f64c
+23:49:25 Player Wilky connected (id=76561197998354299).
+23:49:25 BattlEye Server: Verified GUID (2f0210ab0fc6223d69768a512f59f64c) of player #8 Wilky
+23:50:12 Justice Brewster uses modified data file
+23:50:12 BattlEye Server: Player #9 Justice Brewster (71.94.2.90:2304) connected
+23:50:12 Player Justice Brewster connecting.
+23:50:15 BattlEye Server: Player #9 Justice Brewster - BE GUID: d3ad62a3febe323fa39b657370a3aa0c
+23:50:16 Player Justice Brewster connected (id=76561198799373891).
+23:50:16 BattlEye Server: Verified GUID (d3ad62a3febe323fa39b657370a3aa0c) of player #9 Justice Brewster
+23:50:23 Player Hemlock Kowalski disconnected.
+23:50:23 BattlEye Server: Player #0 Hemlock Kowalski disconnected
+23:51:21 Player Wilky disconnected.
+23:51:21 BattlEye Server: Player #8 Wilky disconnected
+23:53:34 Player Justice Brewster disconnected.
+23:53:34 BattlEye Server: Player #9 Justice Brewster disconnected
+ 0:19:07 Player Liam disconnected.
+ 0:19:07 BattlEye Server: Player #7 Liam disconnected
+ 0:19:25 BattlEye Server: (Group) Мотиус: В город пиздуйте быстрее
+ 0:19:48 BattlEye Server: (Group) Ser Eblan: зато весело c:
+ 0:20:50 BattlEye Server: (Group) Мотиус: Там танк?
+ 0:20:52 BattlEye Server: (Group) Ser Eblan: оружие за спину, Егор
+ 0:20:59 BattlEye Server: (Group) Ser Eblan: ок
+ 0:21:08 BattlEye Server: (Group) Мотиус: Понял,принял
+ 0:21:14 BattlEye Server: (Group) Мотиус: Бегите быстрее блаять
+ 0:21:37 BattlEye Server: (Group) Мотиус: Не трогайте нахуй его,щас глянем живой или нет
+ 0:21:54 BattlEye Server: (Group) Мотиус: Там еще ест хуесосы?
+ 0:22:08 BattlEye Server: (Group) Ser Eblan: я слышу выстрелы все еще
+ 0:22:10 BattlEye Server: (Group) Мотиус: Все,забирай там оружия
+ 0:22:17 BattlEye Server: (Group) Ser Eblan: не трогай нас ток
+ 0:22:25 BattlEye Server: (Group) Ser Eblan: на мне было денег много
+ 0:22:43 BattlEye Server: (Group) Ser Eblan: я не могу
+ 0:22:47 BattlEye Server: (Group) Ser Eblan: загрузка
+ 0:39:31 BattlEye Server: (Group) Мотиус: КАРТУ ОТКРОЙТЕ И ПОСМОТРИТЕ,ВИДИТЕ СВАЛКУ
+ 0:39:41 BattlEye Server: (Group) Мотиус: ТУДА БЕГИТЕ,РЯДЖОМ КРУГ,Я ТАМ ВОЗРОЖУСЬ
+ 0:39:46 BattlEye Server: (Group) Мотиус: Быстрее только
+ 0:39:56 BattlEye Server: (Group) Мотиус: Машину вызовите
+ 0:40:14 BattlEye Server: (Group) Мотиус: СВАЛКА
+ 0:40:27 BattlEye Server: (Group) Мотиус: Потом полутаете блять
+ 0:40:34 BattlEye Server: (Group) Мотиус: Вызовите машину
+ 0:40:47 BattlEye Server: (Group) Мотиус: хахах сука ахах
+ 0:47:43 Player ANATOLI CHEJOV disconnected.
+ 0:47:43 BattlEye Server: Player #1 ANATOLI CHEJOV disconnected
+ 1:12:47 Rou Kowalski uses modified data file
+ 1:12:47 BattlEye Server: Player #7 Rou Kowalski (73.147.1.91:2309) connected
+ 1:12:47 Player Rou Kowalski connecting.
+ 1:12:50 BattlEye Server: Player #7 Rou Kowalski - BE GUID: 58cae163ea9d3a0ff8adde240b436737
+ 1:13:12 Player Rou Kowalski connected (id=76561198034110598).
+ 1:13:12 BattlEye Server: Verified GUID (58cae163ea9d3a0ff8adde240b436737) of player #7 Rou Kowalski
+ 1:36:59 BattlEye Server: (Group) Ser Eblan: Z
+ 1:37:01 BattlEye Server: (Group) Ser Eblan: Я.
+ 1:37:02 BattlEye Server: (Group) Ser Eblan: Я
+ 1:37:03 BattlEye Server: (Group) Ser Eblan: Я
+ 1:37:05 BattlEye Server: (Group) Ser Eblan: ОК
+ 1:37:15 BattlEye Server: (Group) Ser Eblan: давайте
+ 1:54:34 ANATOLI CHEJOV uses modified data file
+ 1:54:34 BattlEye Server: Player #8 ANATOLI CHEJOV (190.171.107.50:62725) connected
+ 1:54:34 Player ANATOLI CHEJOV connecting.
+ 1:54:38 BattlEye Server: Player #8 ANATOLI CHEJOV - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+ 1:54:39 Player ANATOLI CHEJOV connected (id=76561198065774594).
+ 1:54:39 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #8 ANATOLI CHEJOV
+ 2:00:57 BattlEye Server: (Group) ANATOLI CHEJOV: what r u doing 
+ 2:01:05 BattlEye Server: (Group) ANATOLI CHEJOV: orwhat r u going to do
+ 2:04:47 BattlEye Server: (Group) ANATOLI CHEJOV: yes
+ 2:10:19 BattlEye Server: (Group) ANATOLI CHEJOV: OH PK
+ 2:11:24 BattlEye Server: (Group) ANATOLI CHEJOV: yea
+ 2:11:44 BattlEye Server: (Group) ANATOLI CHEJOV: imgoing to buildlike a little fortification here inside 
+ 2:12:07 BattlEye Server: (Group) ANATOLI CHEJOV: yes
+ 2:12:21 BattlEye Server: (Group) ANATOLI CHEJOV: allot

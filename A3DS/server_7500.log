@@ -1,0 +1,69 @@
+﻿ 9:01:38 BattlEye Server: Initialized (v1.217)
+ 9:01:38 Host identity created.
+ 9:01:39 Game Port: 2307, Steam Query Port: 2308
+ 9:01:39 Mission A3Wasteland Altis v1.4c read from bank.
+ 9:01:40 Roles assigned.
+ 9:01:40 Reading mission ...
+ 9:02:09 Mission read.
+ 9:02:10 Game started.
+ 9:12:18 Joey uses modified data file
+ 9:12:18 BattlEye Server: Player #0 Joey (72.46.149.64:2309) connected
+ 9:12:18 Player Joey connecting.
+ 9:12:19 BattlEye Server: Connected to BE Master
+ 9:12:20 BattlEye Server: Player #0 Joey - BE GUID: 4a229150a8b72a287ebf113b7e640ee6
+ 9:12:20 Player Joey connected (id=76561198137328966).
+ 9:12:20 BattlEye Server: Verified GUID (4a229150a8b72a287ebf113b7e640ee6) of player #0 Joey
+ 9:18:40 Reece Burch uses modified data file
+ 9:18:40 BattlEye Server: Player #1 Reece Burch (24.117.239.76:2304) connected
+ 9:18:40 Player Reece Burch connecting.
+ 9:18:42 Player Reece Burch disconnected.
+ 9:18:42 BattlEye Server: Player #1 Reece Burch disconnected
+ 9:39:35 ANATOLI CHEJOV uses modified data file
+ 9:39:35 BattlEye Server: Player #1 ANATOLI CHEJOV (190.171.107.94:62725) connected
+ 9:39:35 Player ANATOLI CHEJOV connecting.
+ 9:39:39 BattlEye Server: Player #1 ANATOLI CHEJOV - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+ 9:39:40 Player ANATOLI CHEJOV connected (id=76561198065774594).
+ 9:39:40 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #1 ANATOLI CHEJOV
+ 9:41:54 Jason Hackbarth uses modified data file
+ 9:41:54 BattlEye Server: Player #2 Jason Hackbarth (71.36.104.226:2304) connected
+ 9:41:54 Player Jason Hackbarth connecting.
+ 9:42:34 Player Jason Hackbarth disconnected.
+ 9:42:34 BattlEye Server: Player #2 Jason Hackbarth disconnected
+ 9:42:35 Jason Hackbarth uses modified data file
+ 9:42:35 BattlEye Server: Player #2 Jason Hackbarth (71.36.104.226:2304) connected
+ 9:42:35 Player Jason Hackbarth connecting.
+ 9:42:37 BattlEye Server: Player #2 Jason Hackbarth - BE GUID: 9b47ba78938583d2850f25b8e6b31da5
+ 9:42:38 Player Jason Hackbarth connected (id=76561198121624334).
+ 9:42:38 BattlEye Server: Verified GUID (9b47ba78938583d2850f25b8e6b31da5) of player #2 Jason Hackbarth
+ 9:42:38 Rou Kowalski uses modified data file
+ 9:42:38 BattlEye Server: Player #3 Rou Kowalski (73.147.1.91:2309) connected
+ 9:42:38 Player Rou Kowalski connecting.
+ 9:42:41 BattlEye Server: Player #3 Rou Kowalski - BE GUID: 58cae163ea9d3a0ff8adde240b436737
+ 9:42:54 Player Rou Kowalski connected (id=76561198034110598).
+ 9:42:54 BattlEye Server: Verified GUID (58cae163ea9d3a0ff8adde240b436737) of player #3 Rou Kowalski
+ 9:46:41 Player Jason Hackbarth disconnected.
+ 9:46:41 BattlEye Server: Player #2 Jason Hackbarth disconnected
+ 9:57:07 Player Joey disconnected.
+ 9:57:07 BattlEye Server: Player #0 Joey disconnected
+11:03:44 Player ANATOLI CHEJOV disconnected.
+11:03:44 BattlEye Server: Player #1 ANATOLI CHEJOV disconnected
+11:04:09 Player Rou Kowalski disconnected.
+11:04:09 BattlEye Server: Player #3 Rou Kowalski disconnected
+13:59:54 Nuno Reguenga uses modified data file
+13:59:54 BattlEye Server: Player #0 Nuno Reguenga (188.83.231.207:51576) connected
+13:59:54 Player Nuno Reguenga connecting.
+13:59:57 BattlEye Server: Player #0 Nuno Reguenga - BE GUID: 2d661f2ae0c67cd5aca9d4de55efa404
+14:00:00 Player Nuno Reguenga connected (id=76561198388702468).
+14:00:00 BattlEye Server: Verified GUID (2d661f2ae0c67cd5aca9d4de55efa404) of player #0 Nuno Reguenga
+14:01:03 Mason uses modified data file
+14:01:03 BattlEye Server: Player #1 Mason (24.207.152.238:2309) connected
+14:01:03 Player Mason connecting.
+14:01:05 BattlEye Server: Player #1 Mason - BE GUID: 955d09b6e1dde9360ceebc2963df084d
+14:01:06 Player Mason connected (id=76561198026943270).
+14:01:06 BattlEye Server: Verified GUID (955d09b6e1dde9360ceebc2963df084d) of player #1 Mason
+14:01:16 Player Mason disconnected.
+14:01:16 BattlEye Server: Player #1 Mason disconnected
+14:35:40 karmay uses modified data file
+14:35:40 BattlEye Server: Player #1 karmay (83.42.143.143:2309) connected
+14:35:40 Player karmay connecting.
+14:35:42 BattlEye Server: Player #1 karmay - BE GUID: e31f1

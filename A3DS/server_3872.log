@@ -1,0 +1,63 @@
+﻿ 9:01:31 BattlEye Server: Initialized (v1.217)
+ 9:01:31 Host identity created.
+ 9:01:31 Game Port: 2307, Steam Query Port: 2308
+ 9:01:31 Mission A3Wasteland Altis v1.4c read from bank.
+ 9:01:32 Roles assigned.
+ 9:01:32 Reading mission ...
+ 9:02:04 Mission read.
+ 9:02:05 Game started.
+ 9:13:29 Kingston uses modified data file
+ 9:13:29 BattlEye Server: Player #0 Kingston (80.120.94.58:2309) connected
+ 9:13:29 Player Kingston connecting.
+ 9:13:29 BattlEye Server: Connected to BE Master
+ 9:13:32 BattlEye Server: Player #0 Kingston - BE GUID: 281acc675d40a7e9e29d18ef0bc24702
+ 9:13:32 Player Kingston connected (id=76561198091728821).
+ 9:13:32 BattlEye Server: Verified GUID (281acc675d40a7e9e29d18ef0bc24702) of player #0 Kingston
+10:06:09 Player Kingston disconnected.
+10:06:09 BattlEye Server: Player #0 Kingston disconnected
+13:01:51 High Alert Highlander  uses modified data file
+13:01:51 BattlEye Server: Player #0 High Alert Highlander  (190.171.107.63:62725) connected
+13:01:51 Player High Alert Highlander  connecting.
+13:01:57 BattlEye Server: Player #0 High Alert Highlander  - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+13:01:59 Player High Alert Highlander  connected (id=76561198065774594).
+13:01:59 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #0 High Alert Highlander 
+13:02:30 Player High Alert Highlander  disconnected.
+13:02:30 BattlEye Server: Player #0 High Alert Highlander  disconnected
+13:05:32 High Alert Highlander  uses modified data file
+13:05:32 BattlEye Server: Player #0 High Alert Highlander  (190.171.107.63:62725) connected
+13:05:32 Player High Alert Highlander  connecting.
+13:05:35 BattlEye Server: Player #0 High Alert Highlander  - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+13:05:37 Player High Alert Highlander  connected (id=76561198065774594).
+13:05:37 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #0 High Alert Highlander 
+13:10:14 Admin logged in, player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+13:48:18 Player High Alert Highlander  disconnected.
+13:48:18 BattlEye Server: Player #0 High Alert Highlander  disconnected
+13:48:18 Admin logged out, player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+13:52:04 Kingston uses modified data file
+13:52:04 BattlEye Server: Player #0 Kingston (80.120.94.58:2309) connected
+13:52:04 Player Kingston connecting.
+13:52:07 BattlEye Server: Player #0 Kingston - BE GUID: 281acc675d40a7e9e29d18ef0bc24702
+13:52:07 Player Kingston connected (id=76561198091728821).
+13:52:07 BattlEye Server: Verified GUID (281acc675d40a7e9e29d18ef0bc24702) of player #0 Kingston
+14:06:03 High Alert Highlander  uses modified data file
+14:06:03 BattlEye Server: Player #1 High Alert Highlander  (190.171.107.63:62725) connected
+14:06:03 Player High Alert Highlander  connecting.
+14:06:05 BattlEye Server: Player #1 High Alert Highlander  - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+14:06:08 Player High Alert Highlander  connected (id=76561198065774594).
+14:06:08 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #1 High Alert Highlander 
+14:08:01 Admin logged in, player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+14:08:09 Player Kingston disconnected.
+14:08:09 BattlEye Server: Player #0 Kingston disconnected
+14:08:53 Kingston uses modified data file
+14:08:53 BattlEye Server: Player #2 Kingston (80.120.94.58:2309) connected
+14:08:53 Player Kingston connecting.
+14:08:55 Player Kingston disconnected.
+14:08:55 BattlEye Server: Player #2 Kingston disconnected
+14:09:02 Player High Alert Highlander  disconnected.
+14:09:02 BattlEye Server: Player #1 High Alert Highlander  disconnected
+14:09:02 Admin logged out, player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+14:10:47 Kingston uses modified data file
+14:10:47 BattlEye Server: Player #0 Kingston (80.120.94.58:2309) connected
+14:10:47 Player Kingston connecting.
+14:10:49 Player Kingston disconnected.
+14:10:50 BattlEye Server: Player #0 Kingston

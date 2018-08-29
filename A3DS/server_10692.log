@@ -1,0 +1,256 @@
+﻿15:01:54 BattlEye Server: Initialized (v1.217)
+15:01:54 Host identity created.
+15:01:54 Game Port: 2307, Steam Query Port: 2308
+15:01:54 Mission A3Wasteland Altis v1.4c read from bank.
+15:01:56 Roles assigned.
+15:01:56 Reading mission ...
+15:02:32 Mission read.
+15:02:32 Rou Kowalski uses modified data file
+15:02:32 BattlEye Server: Player #0 Rou Kowalski (73.147.1.91:2309) connected
+15:02:32 Player Rou Kowalski connecting.
+15:02:32 Game started.
+15:02:33 BattlEye Server: Connected to BE Master
+15:02:34 BattlEye Server: Player #0 Rou Kowalski - BE GUID: 58cae163ea9d3a0ff8adde240b436737
+15:02:36 Player Rou Kowalski connected (id=76561198034110598).
+15:02:36 BattlEye Server: Verified GUID (58cae163ea9d3a0ff8adde240b436737) of player #0 Rou Kowalski
+15:04:05 High Alert Highlander  uses modified data file
+15:04:05 BattlEye Server: Player #1 High Alert Highlander  (190.171.107.27:62725) connected
+15:04:05 Player High Alert Highlander  connecting.
+15:04:07 BattlEye Server: Player #1 High Alert Highlander  - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+15:04:08 Player High Alert Highlander  connected (id=76561198065774594).
+15:04:08 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #1 High Alert Highlander 
+15:04:17 AJ uses modified data file
+15:04:17 BattlEye Server: Player #2 AJ (142.59.100.69:2309) connected
+15:04:17 Player AJ connecting.
+15:04:19 BattlEye Server: Player #2 AJ - BE GUID: 1f059c541e3e8d5963cd6ccb777a1713
+15:04:20 Player AJ connected (id=76561198080094233).
+15:04:20 BattlEye Server: Verified GUID (1f059c541e3e8d5963cd6ccb777a1713) of player #2 AJ
+15:05:05 Player AJ: Wrong signature for file E:\SteamLibrary\steamapps\common\Arma 3\expansion\addons\missions_f_exp_video.pbo
+15:05:05 Player AJ disconnected.
+15:05:05 BattlEye Server: Player #2 AJ disconnected
+15:05:44 AJ uses modified data file
+15:05:44 BattlEye Server: Player #2 AJ (142.59.100.69:2309) connected
+15:05:44 Player AJ connecting.
+15:05:46 BattlEye Server: Player #2 AJ - BE GUID: 1f059c541e3e8d5963cd6ccb777a1713
+15:05:47 Player AJ connected (id=76561198080094233).
+15:05:47 BattlEye Server: Verified GUID (1f059c541e3e8d5963cd6ccb777a1713) of player #2 AJ
+15:07:11 Player AJ: Wrong signature for file E:\SteamLibrary\steamapps\common\Arma 3\expansion\addons\missions_f_exp_video.pbo
+15:07:11 Player AJ disconnected.
+15:07:11 BattlEye Server: Player #2 AJ disconnected
+15:07:26 AJ uses modified data file
+15:07:26 BattlEye Server: Player #2 AJ (142.59.100.69:2309) connected
+15:07:26 Player AJ connecting.
+15:07:28 BattlEye Server: Player #2 AJ - BE GUID: 1f059c541e3e8d5963cd6ccb777a1713
+15:07:28 Player AJ connected (id=76561198080094233).
+15:07:28 BattlEye Server: Verified GUID (1f059c541e3e8d5963cd6ccb777a1713) of player #2 AJ
+15:07:40 Player High Alert Highlander : Wrong signature for file a3\data_f\penetration\cloth.rvmat
+15:07:40 Player High Alert Highlander  disconnected.
+15:07:40 BattlEye Server: Player #1 High Alert Highlander  disconnected
+15:07:43 Player AJ: Wrong signature for file E:\SteamLibrary\steamapps\common\Arma 3\expansion\addons\missions_f_exp_video.pbo
+15:07:43 Player AJ disconnected.
+15:07:43 BattlEye Server: Player #2 AJ disconnected
+15:07:48 High Alert Highlander  uses modified data file
+15:07:48 BattlEye Server: Player #1 High Alert Highlander  (190.171.107.27:62725) connected
+15:07:48 Player High Alert Highlander  connecting.
+15:07:51 BattlEye Server: Player #1 High Alert Highlander  - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+15:07:52 Player High Alert Highlander  connected (id=76561198065774594).
+15:07:52 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #1 High Alert Highlander 
+15:10:22 tyler uses modified data file
+15:10:22 BattlEye Server: Player #2 tyler (174.24.117.3:2304) connected
+15:10:22 Player tyler connecting.
+15:10:24 BattlEye Server: Player #2 tyler - BE GUID: e7e9a8f469a929bae87f8af9399eebf9
+15:10:24 Player tyler connected (id=76561198169535407).
+15:10:25 BattlEye Server: Verified GUID (e7e9a8f469a929bae87f8af9399eebf9) of player #2 tyler
+15:10:43 Player tyler disconnected.
+15:10:43 BattlEye Server: Player #2 tyler disconnected
+15:11:27 Max Mota uses modified data file
+15:11:27 BattlEye Server: Player #2 Max Mota (190.75.120.106:2309) connected
+15:11:27 Player Max Mota connecting.
+15:11:29 BattlEye Server: Player #2 Max Mota - BE GUID: b24b492882c5bff2195677387329ee4f
+15:11:30 Player Max Mota connected (id=76561198004095068).
+15:11:30 BattlEye Server: Verified GUID (b24b492882c5bff2195677387329ee4f) of player #2 Max Mota
+15:12:16 Player High Alert Highlander  disconnected.
+15:12:16 BattlEye Server: Player #1 High Alert Highlander  disconnected
+15:16:10 Mason uses modified data file
+15:16:10 BattlEye Server: Player #3 Mason (24.207.152.238:2309) connected
+15:16:10 Player Mason connecting.
+15:16:12 BattlEye Server: Player #3 Mason - BE GUID: 955d09b6e1dde9360ceebc2963df084d
+15:16:13 Player Mason connected (id=76561198026943270).
+15:16:13 BattlEye Server: Verified GUID (955d09b6e1dde9360ceebc2963df084d) of player #3 Mason
+15:53:53 AJ uses modified data file
+15:53:53 BattlEye Server: Player #4 AJ (142.59.100.69:2309) connected
+15:53:53 Player AJ connecting.
+15:53:55 BattlEye Server: Player #4 AJ - BE GUID: 1f059c541e3e8d5963cd6ccb777a1713
+15:53:56 Player AJ connected (id=76561198080094233).
+15:53:56 BattlEye Server: Verified GUID (1f059c541e3e8d5963cd6ccb777a1713) of player #4 AJ
+15:54:19 Player AJ: Wrong signature for file E:\SteamLibrary\steamapps\common\Arma 3\expansion\addons\missions_f_exp_video.pbo
+15:54:19 Player AJ disconnected.
+15:54:19 BattlEye Server: Player #4 AJ disconnected
+16:03:34 RCT.MASSEY.T uses modified data file
+16:03:34 BattlEye Server: Player #4 RCT.MASSEY.T (174.194.24.17:7754) connected
+16:03:34 Player RCT.MASSEY.T connecting.
+16:03:36 BattlEye Server: Player #4 RCT.MASSEY.T - BE GUID: c32ead9d50d7c8b043291951e92544ad
+16:03:36 Player RCT.MASSEY.T connected (id=76561198036148836).
+16:03:36 BattlEye Server: Verified GUID (c32ead9d50d7c8b043291951e92544ad) of player #4 RCT.MASSEY.T
+16:07:26 Carpe_Noctem uses modified data file
+16:07:26 BattlEye Server: Player #5 Carpe_Noctem (75.111.201.105:2304) connected
+16:07:27 Player Carpe_Noctem connecting.
+16:07:29 BattlEye Server: Player #5 Carpe_Noctem - BE GUID: a5f5d31bdc09c97271696c271705e6ca
+16:07:29 Player Carpe_Noctem connected (id=76561198111528064).
+16:07:29 BattlEye Server: Verified GUID (a5f5d31bdc09c97271696c271705e6ca) of player #5 Carpe_Noctem
+16:11:18 BattlEye Server: (Side) RCT.MASSEY.T: let me know if someone is doing the altis patrol, if not, im going to pursue it
+16:11:50 BattlEye Server: (Side) Mason: its all yours
+16:12:01 BattlEye Server: (Side) Max Mota: im doing altis patrol
+16:12:03 BattlEye Server: (Side) RCT.MASSEY.T: merry fucking christmas to me
+16:12:09 BattlEye Server: (Side) RCT.MASSEY.T: dammit max
+16:12:14 BattlEye Server: (Side) RCT.MASSEY.T: why didnt you say something earlier
+16:12:19 BattlEye Server: (Side) RCT.MASSEY.T: before getting my hopes up
+16:12:31 Player Carpe_Noctem disconnected.
+16:12:31 BattlEye Server: Player #5 Carpe_Noctem disconnected
+16:13:28 BattlEye Server: (Side) RCT.MASSEY.T: were you joking max
+16:13:34 BattlEye Server: (Side) RCT.MASSEY.T: or are you really doing it
+16:14:28 BattlEye Server: (Side) RCT.MASSEY.T: that answers my question i guess
+16:15:20 BattlEye Server: (Side) Max Mota: im shooting an stuff
+16:15:38 BattlEye Server: (Side) RCT.MASSEY.T: could i get a pickup
+16:15:40 BattlEye Server: (Side) RCT.MASSEY.T: im stranded
+16:15:41 AJ uses modified data file
+16:15:41 BattlEye Server: Player #5 AJ (142.59.100.69:2309) connected
+16:15:41 Player AJ connecting.
+16:15:43 BattlEye Server: (Side) RCT.MASSEY.T: with no vehicle
+16:15:44 BattlEye Server: Player #5 AJ - BE GUID: 1f059c541e3e8d5963cd6ccb777a1713
+16:15:44 Player AJ connected (id=76561198080094233).
+16:15:44 BattlEye Server: Verified GUID (1f059c541e3e8d5963cd6ccb777a1713) of player #5 AJ
+16:16:14 BattlEye Server: (Side) Max Mota: what you need?
+16:16:31 BattlEye Server: (Side) RCT.MASSEY.T: a ride to the nearest garage
+16:16:42 BattlEye Server: (Side) RCT.MASSEY.T: i will pay you 
+16:16:49 BattlEye Server: (Side) RCT.MASSEY.T: it would be like an uber ride
+16:16:51 BattlEye Server: (Side) RCT.MASSEY.T: it'll be fun
+16:16:58 BattlEye Server: (Side) Max Mota: you can call one airdroop
+16:17:05 BattlEye Server: (Side) RCT.MASSEY.T: i want to call Max
+16:17:12 BattlEye Server: (Side) RCT.MASSEY.T: i dont want an airdrop
+16:21:21 BattlEye Server: (Side) RCT.MASSEY.T: SUP AJ
+16:21:40 BattlEye Server: (Side) RCT.MASSEY.T: stayin out of trouble?
+16:21:55 BattlEye Server: (Side) RCT.MASSEY.T: let me assist you
+16:23:16 Bob Lee uses modified data file
+16:23:16 BattlEye Server: Player #6 Bob Lee (217.42.61.228:2309) connected
+16:23:16 Player Bob Lee connecting.
+16:23:19 BattlEye Server: Player #6 Bob Lee - BE GUID: 52d9ca92b8c3298ec24172bdac71006f
+16:23:20 Player Bob Lee connected (id=76561198354803567).
+16:23:20 BattlEye Server: Verified GUID (52d9ca92b8c3298ec24172bdac71006f) of player #6 Bob Lee
+16:23:55 Player AJ: Signature check timed out
+16:23:55 Player AJ disconnected.
+16:23:55 BattlEye Server: Player #5 AJ disconnected
+16:24:34 BattlEye Server: (Side) Max Mota: is one armored in the airport if you want to take it
+16:24:42 BattlEye Server: (Side) Max Mota: you need to rep him and is good to go
+16:25:25 BattlEye Server: (Side) Max Mota: is 3 here, you can sell the cars of keep it
+16:25:28 BattlEye Server: (Side) Max Mota: 3 armored
+16:25:38 Speaks With Lead uses modified data file
+16:25:38 BattlEye Server: Player #7 Speaks With Lead (172.223.92.133:2309) connected
+16:25:38 Player Speaks With Lead connecting.
+16:25:39 BattlEye Server: Player #7 Speaks With Lead - BE GUID: d66a4a9e15e07da01464a99e034786ab
+16:25:40 Player Speaks With Lead connected (id=76561198059661014).
+16:25:40 BattlEye Server: Verified GUID (d66a4a9e15e07da01464a99e034786ab) of player #7 Speaks With Lead
+16:26:06 BattlEye Server: (Side) Max Mota: yeah close
+16:26:19 BattlEye Server: (Side) Max Mota: just go to the airport and you are going to see the armored
+16:27:13 BattlEye Server: (Side) Max Mota: the other are close to the bush
+16:27:18 AJ uses modified data file
+16:27:18 BattlEye Server: Player #8 AJ (142.59.100.69:2309) connected
+16:27:18 Player AJ connecting.
+16:27:21 BattlEye Server: Player #8 AJ - BE GUID: 1f059c541e3e8d5963cd6ccb777a1713
+16:27:22 Player AJ connected (id=76561198080094233).
+16:27:22 BattlEye Server: Verified GUID (1f059c541e3e8d5963cd6ccb777a1713) of player #8 AJ
+16:28:22 BattlEye Server: (Side) Max Mota: :)
+16:29:40 Player RCT.MASSEY.T disconnected.
+16:29:40 BattlEye Server: Player #4 RCT.MASSEY.T disconnected
+16:30:12 RCT.MASSEY.T uses modified data file
+16:30:12 BattlEye Server: Player #9 RCT.MASSEY.T (174.194.24.17:7754) connected
+16:30:12 Player RCT.MASSEY.T connecting.
+16:30:14 BattlEye Server: Player #9 RCT.MASSEY.T - BE GUID: c32ead9d50d7c8b043291951e92544ad
+16:30:14 Player RCT.MASSEY.T connected (id=76561198036148836).
+16:30:14 BattlEye Server: Verified GUID (c32ead9d50d7c8b043291951e92544ad) of player #9 RCT.MASSEY.T
+16:31:20 Player Speaks With Lead disconnected.
+16:31:20 BattlEye Server: Player #7 Speaks With Lead disconnected
+16:31:27 Player RCT.MASSEY.T disconnected.
+16:31:27 BattlEye Server: Player #9 RCT.MASSEY.T disconnected
+16:35:02 Player Rou Kowalski disconnected.
+16:35:02 BattlEye Server: Player #0 Rou Kowalski disconnected
+16:37:54 Player Mason disconnected.
+16:37:54 BattlEye Server: Player #3 Mason disconnected
+16:38:10 Player Bob Lee disconnected.
+16:38:10 BattlEye Server: Player #6 Bob Lee disconnected
+16:57:54 LT.Matt uses modified data file
+16:57:54 BattlEye Server: Player #9 LT.Matt (98.239.30.235:2309) connected
+16:57:54 Player LT.Matt connecting.
+16:57:56 BattlEye Server: Player #9 LT.Matt - BE GUID: 1ae43f8b6c403b9da909b7207b38a6cf
+16:57:57 Player LT.Matt connected (id=76561198189646014).
+16:57:57 BattlEye Server: Verified GUID (1ae43f8b6c403b9da909b7207b38a6cf) of player #9 LT.Matt
+17:01:51 BattlEye Server: (Global) LT.Matt: Hello
+17:02:02 BattlEye Server: (Global) AJ: HEY
+17:02:09 BattlEye Server: (Global) LT.Matt: how are you guys
+17:02:14 BattlEye Server: (Global) AJ: peachy
+17:02:18 BattlEye Server: (Global) LT.Matt: fun
+17:02:19 BattlEye Server: (Global) AJ: you
+17:02:39 BattlEye Server: (Global) LT.Matt: im fine
+17:03:06 BattlEye Server: (Global) Max Mota: all good
+17:03:14 Player LT.Matt disconnected.
+17:03:14 BattlEye Server: Player #9 LT.Matt disconnected
+17:15:28 BattlEye Server: (Global) Max Mota: nice job
+17:15:53 BattlEye Server: (Global) Max Mota: with that tank youa re fine
+17:17:01 BattlEye Server: (Global) Max Mota: i just come to fix my tank
+17:17:06 BattlEye Server: (Global) Max Mota: need any help_
+17:17:12 BattlEye Server: (Global) Max Mota: k
+17:34:12 BattlEye Server: (Direct) Max Mota: lol
+18:17:40 Player Max Mota disconnected.
+18:17:41 BattlEye Server: Player #2 Max Mota disconnected
+18:56:14 High Alert Highlander  uses modified data file
+18:56:14 BattlEye Server: Player #9 High Alert Highlander  (190.171.107.27:62725) connected
+18:56:14 Player High Alert Highlander  connecting.
+18:56:19 BattlEye Server: Player #9 High Alert Highlander  - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+18:56:21 Player High Alert Highlander  connected (id=76561198065774594).
+18:56:21 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #9 High Alert Highlander 
+18:56:26 PPAP uses modified data file
+18:56:26 BattlEye Server: Player #10 PPAP (171.7.43.131:2304) connected
+18:56:26 Player PPAP connecting.
+18:56:29 BattlEye Server: Player #10 PPAP - BE GUID: 37101c9167d8fd75de49b289e9c184f2
+18:56:29 Player PPAP connected (id=76561198158543135).
+18:56:29 BattlEye Server: Verified GUID (37101c9167d8fd75de49b289e9c184f2) of player #10 PPAP
+18:56:39 Player PPAP disconnected.
+18:56:39 BattlEye Server: Player #10 PPAP disconnected
+19:02:40 Player AJ disconnected.
+19:02:40 BattlEye Server: Player #8 AJ disconnected
+19:11:25 Rou Kowalski uses modified data file
+19:11:25 BattlEye Server: Player #10 Rou Kowalski (73.147.1.91:2309) connected
+19:11:25 Player Rou Kowalski connecting.
+19:11:28 BattlEye Server: Player #10 Rou Kowalski - BE GUID: 58cae163ea9d3a0ff8adde240b436737
+19:11:29 Player Rou Kowalski connected (id=76561198034110598).
+19:11:29 BattlEye Server: Verified GUID (58cae163ea9d3a0ff8adde240b436737) of player #10 Rou Kowalski
+19:20:45 Hemlock Kowalski uses modified data file
+19:20:45 BattlEye Server: Player #11 Hemlock Kowalski (73.147.1.91:62241) connected
+19:20:45 Player Hemlock Kowalski connecting.
+19:20:48 BattlEye Server: Player #11 Hemlock Kowalski - BE GUID: 0e50d5bc222746efa845806a2af0fed1
+19:20:49 Player Hemlock Kowalski connected (id=76561198201473535).
+19:20:49 BattlEye Server: Verified GUID (0e50d5bc222746efa845806a2af0fed1) of player #11 Hemlock Kowalski
+19:36:49 Max Mota uses modified data file
+19:36:49 BattlEye Server: Player #12 Max Mota (190.75.120.106:2309) connected
+19:36:49 Player Max Mota connecting.
+19:36:51 BattlEye Server: Player #12 Max Mota - BE GUID: b24b492882c5bff2195677387329ee4f
+19:36:52 Player Max Mota connected (id=76561198004095068).
+19:36:52 BattlEye Server: Verified GUID (b24b492882c5bff2195677387329ee4f) of player #12 Max Mota
+19:43:37 PPAP uses modified data file
+19:43:37 BattlEye Server: Player #13 PPAP (171.7.43.131:2304) connected
+19:43:38 Player PPAP connecting.
+19:43:40 BattlEye Server: Player #13 PPAP - BE GUID: 37101c9167d8fd75de49b289e9c184f2
+19:43:40 Player PPAP connected (id=76561198158543135).
+19:43:40 BattlEye Server: Verified GUID (37101c9167d8fd75de49b289e9c184f2) of player #13 PPAP
+19:44:52 Mason uses modified data file
+19:44:52 BattlEye Server: Player #14 Mason (24.207.152.238:2309) connected
+19:44:52 Player Mason connecting.
+19:44:54 BattlEye Server: Player #14 Mason - BE GUID: 955d09b6e1dde9360ceebc2963df084d
+19:44:54 Player Mason connected (id=76561198026943270).
+19:44:54 BattlEye Server: Verified GUID (955d09b6e1dde9360ceebc2963df084d) of player #14 Mason
+19:47:26 Player PPAP disconnected.
+19:47:26 BattlEye Server: Player #13 PPAP disconnected
+19:51:02 PPAP uses modified data file
+19:51:02 BattlEye Server: Player #15 PPAP (171.7.43.131:2304) connected
+19:51:02 Player PPAP connecting.
+19:51:04 BattlEye Server: Player #15 PPAP - BE GUID: 37101c91

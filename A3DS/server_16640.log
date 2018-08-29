@@ -1,0 +1,116 @@
+﻿19:19:46 BattlEye Server: Initialized (v1.217)
+19:19:46 Host identity created.
+19:19:46 Game Port: 2307, Steam Query Port: 2308
+19:19:46 Mission A3Wasteland Altis v1.4c read from bank.
+19:19:47 Roles assigned.
+19:19:47 Reading mission ...
+19:20:20 Mission read.
+19:20:20 Game started.
+19:24:13 High Alert Highlander  uses modified data file
+19:24:13 BattlEye Server: Player #0 High Alert Highlander  (190.171.107.63:62725) connected
+19:24:13 Player High Alert Highlander  connecting.
+19:24:14 BattlEye Server: Connected to BE Master
+19:24:16 BattlEye Server: Player #0 High Alert Highlander  - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+19:24:18 Player High Alert Highlander  connected (id=76561198065774594).
+19:24:18 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #0 High Alert Highlander 
+19:31:54 Admin logged in, player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+19:33:33 SgtMajPrivate uses modified data file
+19:33:33 BattlEye Server: Player #1 SgtMajPrivate (73.93.167.13:2309) connected
+19:33:34 Player SgtMajPrivate connecting.
+19:33:36 BattlEye Server: Player #1 SgtMajPrivate - BE GUID: 4c2b9d687447cbad1213b89cfae82f46
+19:33:36 Player SgtMajPrivate connected (id=76561198164565751).
+19:33:36 BattlEye Server: Verified GUID (4c2b9d687447cbad1213b89cfae82f46) of player #1 SgtMajPrivate
+19:35:29 BattlEye Server: (Global) SgtMajPrivate: is it working?
+19:35:41 BattlEye Server: (Global) High Alert Highlander : dont know yet 
+19:35:50 BattlEye Server: (Global) High Alert Highlander : imdestroing allthe empty tanks
+19:36:03 BattlEye Server: (Global) SgtMajPrivate: ok
+19:36:27 BattlEye Server: (Global) SgtMajPrivate: it working
+19:36:32 BattlEye Server: (Global) High Alert Highlander : yes it is 
+19:36:43 BattlEye Server: (Global) SgtMajPrivate: cool
+19:37:11 BattlEye Server: (Global) High Alert Highlander : dude u want to keepsome tanks foryou
+19:37:14 BattlEye Server: (Global) High Alert Highlander : ?
+19:37:38 BattlEye Server: (Global) SgtMajPrivate: nah, i really don'thave time to keep and store them
+19:37:49 BattlEye Server: (Global) SgtMajPrivate: i like to get on and just play
+19:38:21 BattlEye Server: (Global) SgtMajPrivate: you can spawn me a stallion and i will take them and sell them
+19:39:05 Trans-fights uses modified data file
+19:39:05 BattlEye Server: Player #2 Trans-fights (72.79.218.2:2309) connected
+19:39:05 Player Trans-fights connecting.
+19:39:08 BattlEye Server: Player #2 Trans-fights - BE GUID: 5963ef09c03283890a08815e3b3b11f6
+19:39:08 Player Trans-fights connected (id=76561198275319572).
+19:39:08 BattlEye Server: Verified GUID (5963ef09c03283890a08815e3b3b11f6) of player #2 Trans-fights
+19:39:25 BattlEye Server: (Global) SgtMajPrivate: come to me and spawn a stallion
+19:39:32 BattlEye Server: (Global) SgtMajPrivate: or i can take the rights for a min
+19:40:05 Admin logged out, player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+19:40:20 BattlEye Server: (Global) High Alert Highlander : i just logout u take the console
+19:40:47 BattlEye Server: (Global) SgtMajPrivate: k
+19:40:49 Admin logged in, player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+19:41:05 Admin logged out, player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+19:41:12 Admin logged in, player: SgtMajPrivate, playerUID: 76561198164565751, IP: 192.168.0.11:2309.
+19:42:24 Admin logged out, player: SgtMajPrivate, playerUID: 76561198164565751, IP: 192.168.0.11:2309.
+19:43:19 Admin logged in, player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+19:43:57 BattlEye Server: (Global) High Alert Highlander : Trans acouple days agou had a discution withanother player mason
+19:44:12 BattlEye Server: (Global) High Alert Highlander : in where some things were said 
+19:44:26 Player Trans-fights kicked off by BattlEye: Client not responding
+19:44:26 Player Trans-fights disconnected.
+19:44:46 BattlEye Server: (Global) SgtMajPrivate: problem solved
+19:44:47 BattlEye Server: (Global) High Alert Highlander : i waswaiting for that guy 
+19:45:33 Trans-fights uses modified data file
+19:45:33 BattlEye Server: Player #2 Trans-fights (72.79.218.2:2309) connected
+19:45:33 Player Trans-fights connecting.
+19:45:35 BattlEye Server: Player #2 Trans-fights - BE GUID: 5963ef09c03283890a08815e3b3b11f6
+19:45:36 Player Trans-fights connected (id=76561198275319572).
+19:45:36 BattlEye Server: Verified GUID (5963ef09c03283890a08815e3b3b11f6) of player #2 Trans-fights
+19:45:46 Player Trans-fights disconnected.
+19:45:46 BattlEye Server: Player #2 Trans-fights disconnected
+19:46:31 Trans-fights uses modified data file
+19:46:31 BattlEye Server: Player #2 Trans-fights (72.79.218.2:2309) connected
+19:46:31 Player Trans-fights connecting.
+19:46:33 Player Trans-fights disconnected.
+19:46:33 BattlEye Server: Player #2 Trans-fights disconnected
+19:55:37 BattlEye Server: (Global) High Alert Highlander : dude i have destroi like 50 tanks 
+19:56:04 BattlEye Server: (Global) SgtMajPrivate: that trans guy just joined our discord
+19:59:10 Mason uses modified data file
+19:59:10 BattlEye Server: Player #2 Mason (71.81.137.47:2309) connected
+19:59:10 Player Mason connecting.
+19:59:12 BattlEye Server: Player #2 Mason - BE GUID: 955d09b6e1dde9360ceebc2963df084d
+19:59:12 Player Mason connected (id=76561198026943270).
+19:59:12 BattlEye Server: Verified GUID (955d09b6e1dde9360ceebc2963df084d) of player #2 Mason
+20:07:03 BattlEye Server: (Global) High Alert Highlander : sarg i make the banned for 24hours 
+20:07:13 BattlEye Server: (Global) High Alert Highlander : he is apologisin tomason
+20:07:13 BattlEye Server: (Global) SgtMajPrivate: k
+20:07:28 BattlEye Server: (Global) High Alert Highlander : and  he will have a warning 
+20:07:35 BattlEye Server: (Global) SgtMajPrivate: cool
+20:07:41 BattlEye Server: (Global) High Alert Highlander : that i keep onmy reciords 
+20:07:53 BattlEye Server: (Global) SgtMajPrivate: if he is apolagizzing let him in
+20:07:59 BattlEye Server: (Global) High Alert Highlander : yes
+20:08:09 BattlEye Server: (Global) High Alert Highlander : he says that he was drunk 
+20:08:22 Trans-fights uses modified data file
+20:08:22 BattlEye Server: Player #3 Trans-fights (72.79.218.2:2309) connected
+20:08:22 Player Trans-fights connecting.
+20:08:24 Player Trans-fights disconnected.
+20:08:24 BattlEye Server: Player #3 Trans-fights disconnected
+20:08:25 BattlEye Server: (Global) High Alert Highlander : like i toll him next one is permanent 
+20:08:31 BattlEye Server: (Global) SgtMajPrivate: l
+20:09:52 BattlEye Server: (Global) High Alert Highlander : dude if you seemore empty tanks somewherelet meknow
+20:10:05 BattlEye Server: (Global) High Alert Highlander : i think that i removed all of them
+20:11:17 BattlEye Server: (Global) High Alert Highlander : more toyourleft 
+20:11:25 BattlEye Server: (Global) High Alert Highlander : there
+20:12:46 Trans-fights uses modified data file
+20:12:46 BattlEye Server: Player #3 Trans-fights (72.79.218.2:2309) connected
+20:12:46 Player Trans-fights connecting.
+20:12:48 Player Trans-fights disconnected.
+20:12:49 BattlEye Server: Player #3 Trans-fights disconnected
+20:13:07 BattlEye Server: (Global) High Alert Highlander : sarg that is yours
+20:13:11 BattlEye Server: (Global) SgtMajPrivate: thanks man
+20:14:35 BattlEye Server: (Global) High Alert Highlander : mason
+20:14:44 BattlEye Server: (Global) High Alert Highlander : we have new helis in VS 
+20:14:51 BattlEye Server: (Global) High Alert Highlander : so check them
+20:18:16 BattlEye Server: (Global) High Alert Highlander : sorry 
+20:19:57 BattlEye Server: (Global) High Alert Highlander : lookthis bby 
+20:20:39 BattlEye Server: (Global) High Alert Highlander : mason lokk 
+20:20:49 BattlEye Server: (Global) High Alert Highlander : it is
+20:20:53 BattlEye Server: (Global) High Alert Highlander : no
+20:21:02 BattlEye Server: (Global) High Alert Highlander : this is a russian KA-52
+20:21:18 BattlEye Server: (Global) High Alert Highlander : HELL YEA 
+20:25:33 BattlEye Server: (Global) High Alert Highlander : what happen
+20:25:44 BattlEye Server: (Glo

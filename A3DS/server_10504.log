@@ -1,0 +1,63 @@
+﻿21:01:52 BattlEye Server: Initialized (v1.217)
+21:01:52 Host identity created.
+21:01:53 Game Port: 2307, Steam Query Port: 2308
+21:01:53 Mission A3Wasteland Altis v1.4c read from bank.
+21:01:55 Roles assigned.
+21:01:55 Reading mission ...
+21:02:32 Mission read.
+21:02:32 Game started.
+21:03:27 WhiskyTangoFoxy uses modified data file
+21:03:27 BattlEye Server: Player #0 WhiskyTangoFoxy (68.209.125.150:2309) connected
+21:03:27 Player WhiskyTangoFoxy connecting.
+21:03:27 BattlEye Server: Connected to BE Master
+21:03:34 Yeet McDabbington uses modified data file
+21:03:34 BattlEye Server: Player #1 Yeet McDabbington (73.21.180.37:2309) connected
+21:03:34 Player Yeet McDabbington connecting.
+21:03:36 BattlEye Server: Player #1 Yeet McDabbington - BE GUID: e0845e254755825b22e6d30dc7e61b99
+21:03:36 Player Yeet McDabbington connected (id=76561198032540425).
+21:03:36 BattlEye Server: Verified GUID (e0845e254755825b22e6d30dc7e61b99) of player #1 Yeet McDabbington
+21:03:37 Player WhiskyTangoFoxy disconnected.
+21:03:37 BattlEye Server: Player #0 WhiskyTangoFoxy disconnected
+21:05:28 Player Yeet McDabbington is losing connection
+21:06:15 Player Yeet McDabbington: Signature check timed out
+21:06:15 Player Yeet McDabbington disconnected.
+21:06:15 BattlEye Server: Player #1 Yeet McDabbington disconnected
+21:06:34 Yeet McDabbington uses modified data file
+21:06:34 BattlEye Server: Player #0 Yeet McDabbington (73.21.180.37:2309) connected
+21:06:34 Player Yeet McDabbington connecting.
+21:06:36 BattlEye Server: Player #0 Yeet McDabbington - BE GUID: e0845e254755825b22e6d30dc7e61b99
+21:06:39 Player Yeet McDabbington connected (id=76561198032540425).
+21:06:39 BattlEye Server: Verified GUID (e0845e254755825b22e6d30dc7e61b99) of player #0 Yeet McDabbington
+21:08:23 Hemlock Kowalski uses modified data file
+21:08:23 BattlEye Server: Player #1 Hemlock Kowalski (73.147.1.91:2309) connected
+21:08:23 Player Hemlock Kowalski connecting.
+21:08:25 BattlEye Server: Player #1 Hemlock Kowalski - BE GUID: 0e50d5bc222746efa845806a2af0fed1
+21:08:27 Player Hemlock Kowalski connected (id=76561198201473535).
+21:08:27 BattlEye Server: Verified GUID (0e50d5bc222746efa845806a2af0fed1) of player #1 Hemlock Kowalski
+21:28:12 High Alert Highlander  uses modified data file
+21:28:12 BattlEye Server: Player #2 High Alert Highlander  (190.171.107.27:62725) connected
+21:28:12 Player High Alert Highlander  connecting.
+21:28:14 BattlEye Server: Player #2 High Alert Highlander  - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+21:28:15 Player High Alert Highlander  connected (id=76561198065774594).
+21:28:15 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #2 High Alert Highlander 
+22:00:01 Player Yeet McDabbington kicked off by BattlEye: Client not responding
+22:00:01 Player Yeet McDabbington disconnected.
+22:00:26 Yeet McDabbington uses modified data file
+22:00:26 BattlEye Server: Player #3 Yeet McDabbington (73.21.180.37:2309) connected
+22:00:26 Player Yeet McDabbington connecting.
+22:00:28 BattlEye Server: Player #3 Yeet McDabbington - BE GUID: e0845e254755825b22e6d30dc7e61b99
+22:00:31 Player Yeet McDabbington connected (id=76561198032540425).
+22:00:31 BattlEye Server: Verified GUID (e0845e254755825b22e6d30dc7e61b99) of player #3 Yeet McDabbington
+22:01:04 Piss Pump uses modified data file
+22:01:04 BattlEye Server: Player #4 Piss Pump (98.209.149.59:2304) connected
+22:01:04 Player Piss Pump connecting.
+22:01:06 BattlEye Server: Player #4 Piss Pump - BE GUID: 0edbc5490ca804b56183c28e7567c410
+22:01:07 Player Piss Pump connected (id=76561198022089152).
+22:01:07 BattlEye Server: Verified GUID (0edbc5490ca804b56183c28e7567c410) of player #4 Piss Pump
+22:04:32 Player Piss Pump disconnected.
+22:04:32 BattlEye Server: Player #4 Piss Pump disconnected
+22:28:25 Lt.Col. R Johnson uses modified data file
+22:28:25 BattlEye Server: Player #4 Lt.Col. R Johnson (73.202.233.86:2309) connected
+22:28:25 Player Lt.Col. R Johnson connecting.
+22:28:28 BattlEye Server: Player #4 Lt.Col. R Johnson - BE GUID: aa92480645a65a4b59387bdb30bc2f3a
+22:28:28 Player Lt.Col. R Johnson co

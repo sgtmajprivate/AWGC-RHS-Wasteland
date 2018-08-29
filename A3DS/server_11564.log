@@ -1,0 +1,66 @@
+﻿ 9:01:38 BattlEye Server: Initialized (v1.217)
+ 9:01:38 Host identity created.
+ 9:01:39 Game Port: 2307, Steam Query Port: 2308
+ 9:01:39 Mission awgc_rhs_wasteland.Altis read from bank.
+ 9:01:41 Roles assigned.
+ 9:01:41 Reading mission ...
+ 9:02:21 Mission read.
+ 9:02:21 Game started.
+ 9:49:45 Sal uses modified data file
+ 9:49:45 BattlEye Server: Player #0 Sal (72.225.194.186:2304) connected
+ 9:49:45 Player Sal connecting.
+ 9:49:45 BattlEye Server: Connected to BE Master
+ 9:49:47 BattlEye Server: Player #0 Sal - BE GUID: 06f97cd1c11e3700abfa5e3df95849d6
+ 9:49:47 Player Sal connected (id=76561198210952217).
+ 9:49:47 BattlEye Server: Verified GUID (06f97cd1c11e3700abfa5e3df95849d6) of player #0 Sal
+ 9:49:48 Player Sal disconnected.
+ 9:49:48 BattlEye Server: Player #0 Sal disconnected
+11:58:44 maida uses modified data file
+11:58:44 BattlEye Server: Player #0 maida (62.44.134.29:2309) connected
+11:58:44 Player maida connecting.
+11:58:46 BattlEye Server: Player #0 maida - BE GUID: c9430d597347c89ee182da463e151d8a
+11:58:46 Player maida connected (id=76561198430157991).
+11:58:46 BattlEye Server: Verified GUID (c9430d597347c89ee182da463e151d8a) of player #0 maida
+12:35:00 Player maida disconnected.
+12:35:00 BattlEye Server: Player #0 maida disconnected
+12:42:16 Milan uses modified data file
+12:42:16 BattlEye Server: Player #0 Milan (84.193.23.23:2309) connected
+12:42:16 Player Milan connecting.
+12:42:19 BattlEye Server: Player #0 Milan - BE GUID: b4fb33e2e2ae4f982a541e08f394f9a2
+12:42:21 Player Milan connected (id=76561197965530128).
+12:42:21 BattlEye Server: Verified GUID (b4fb33e2e2ae4f982a541e08f394f9a2) of player #0 Milan
+12:43:28 RockstarGaming uses modified data file
+12:43:28 BattlEye Server: Player #1 RockstarGaming (107.204.216.18:2304) connected
+12:43:28 Player RockstarGaming connecting.
+12:43:30 BattlEye Server: Player #1 RockstarGaming - BE GUID: 23fe7edb77e6acee989bf1757f516554
+12:43:31 Player RockstarGaming connected (id=76561198250040454).
+12:43:31 BattlEye Server: Verified GUID (23fe7edb77e6acee989bf1757f516554) of player #1 RockstarGaming
+12:43:43 Player RockstarGaming disconnected.
+12:43:43 BattlEye Server: Player #1 RockstarGaming disconnected
+12:56:29 Bellm0nT uses modified data file
+12:56:29 BattlEye Server: Player #1 Bellm0nT (200.215.116.250:2304) connected
+12:56:29 Player Bellm0nT connecting.
+12:56:35 BattlEye Server: Player #1 Bellm0nT - BE GUID: c669d6bf83f818af5a2802ea26484d7b
+12:56:35 Player Bellm0nT connected (id=76561198010364697).
+12:56:35 BattlEye Server: Verified GUID (c669d6bf83f818af5a2802ea26484d7b) of player #1 Bellm0nT
+13:17:20 BattlEye Server: (Global) Bellm0nT: hey milan..you are new in server?
+13:17:30 BattlEye Server: (Global) Milan: yes
+13:17:47 BattlEye Server: (Global) Bellm0nT: hum ok
+13:23:44 High Alert Highlander  uses modified data file
+13:23:44 BattlEye Server: Player #2 High Alert Highlander  (190.171.107.109:62725) connected
+13:23:44 Player High Alert Highlander  connecting.
+13:23:50 BattlEye Server: Player #2 High Alert Highlander  - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+13:24:06 Player High Alert Highlander  connected (id=76561198065774594).
+13:24:06 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #2 High Alert Highlander 
+13:26:43 Admin logged in, player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+13:31:32 Player Bellm0nT disconnected.
+13:31:32 BattlEye Server: Player #1 Bellm0nT disconnected
+13:44:00 Player High Alert Highlander  disconnected.
+13:44:00 BattlEye Server: Player #2 High Alert Highlander  disconnected
+13:44:00 Admin logged out, player: High Alert Highlander , playerUID: 76561198065774594, IP: 192.168.0.10:2309.
+13:51:51 RockstarGaming uses modified data file
+13:51:51 BattlEye Server: Player #1 RockstarGaming (107.204.216.18:2304) connected
+13:51:51 Player RockstarGaming connecting.
+13:51:53 BattlEye Server: Player #1 RockstarGaming - BE GUID: 23fe7edb77e6acee989bf1757f516554
+13:51:53 Player RockstarGaming connected (id=76561198250040454).
+13:51:53 BattlEye Server: Verified GUID (23fe7edb77e6ace

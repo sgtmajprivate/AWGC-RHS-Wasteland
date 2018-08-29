@@ -1,0 +1,67 @@
+﻿21:01:36 BattlEye Server: Initialized (v1.217)
+21:01:36 Host identity created.
+21:01:36 Game Port: 2307, Steam Query Port: 2308
+21:01:36 Mission A3Wasteland Altis v1.4c read from bank.
+21:01:38 Roles assigned.
+21:01:38 Reading mission ...
+21:02:10 Mission read.
+21:02:11 Game started.
+21:03:28 RockstarGaming uses modified data file
+21:03:28 BattlEye Server: Player #0 RockstarGaming (107.204.216.18:2304) connected
+21:03:28 Player RockstarGaming connecting.
+21:03:28 BattlEye Server: Connected to BE Master
+21:03:30 BattlEye Server: Player #0 RockstarGaming - BE GUID: 23fe7edb77e6acee989bf1757f516554
+21:03:30 Player RockstarGaming connected (id=76561198250040454).
+21:03:30 BattlEye Server: Verified GUID (23fe7edb77e6acee989bf1757f516554) of player #0 RockstarGaming
+21:03:31 Mason uses modified data file
+21:03:31 BattlEye Server: Player #1 Mason (71.81.137.47:2309) connected
+21:03:31 Player Mason connecting.
+21:03:33 BattlEye Server: Player #1 Mason - BE GUID: 955d09b6e1dde9360ceebc2963df084d
+21:03:33 Player Mason connected (id=76561198026943270).
+21:03:33 BattlEye Server: Verified GUID (955d09b6e1dde9360ceebc2963df084d) of player #1 Mason
+21:07:02 SgtMajPrivate uses modified data file
+21:07:02 BattlEye Server: Player #2 SgtMajPrivate (73.93.167.13:2304) connected
+21:07:02 Player SgtMajPrivate connecting.
+21:07:04 BattlEye Server: Player #2 SgtMajPrivate - BE GUID: 4c2b9d687447cbad1213b89cfae82f46
+21:07:04 Player SgtMajPrivate connected (id=76561198164565751).
+21:07:04 BattlEye Server: Verified GUID (4c2b9d687447cbad1213b89cfae82f46) of player #2 SgtMajPrivate
+21:09:03 pman uses modified data file
+21:09:03 BattlEye Server: Player #3 pman (201.6.132.191:16766) connected
+21:09:03 Player pman connecting.
+21:09:30 Player pman disconnected.
+21:09:30 BattlEye Server: Player #3 pman disconnected
+21:10:06 Admin logged in, player: SgtMajPrivate, playerUID: 76561198164565751, IP: 192.168.0.11:2304.
+21:11:11 pman uses modified data file
+21:11:11 BattlEye Server: Player #3 pman (201.6.132.191:16766) connected
+21:11:11 Player pman connecting.
+21:11:13 BattlEye Server: Player #3 pman - BE GUID: d4ba32b865d32e320768e0e5c4b83d1e
+21:11:14 Player pman connected (id=76561198050257394).
+21:11:14 BattlEye Server: Verified GUID (d4ba32b865d32e320768e0e5c4b83d1e) of player #3 pman
+21:14:26 Player pman disconnected.
+21:14:26 BattlEye Server: Player #3 pman disconnected
+22:03:34 David Herrera uses modified data file
+22:03:34 BattlEye Server: Player #3 David Herrera (47.219.209.144:2304) connected
+22:03:34 Player David Herrera connecting.
+22:03:36 BattlEye Server: Player #3 David Herrera - BE GUID: b9fb601aa5fb93387520f835fa668103
+22:03:37 Player David Herrera connected (id=76561198151574704).
+22:03:37 BattlEye Server: Verified GUID (b9fb601aa5fb93387520f835fa668103) of player #3 David Herrera
+22:09:27 BattlEye Server: (Side) RockstarGaming: NO
+22:09:30 BattlEye Server: (Side) RockstarGaming: sry caps
+22:14:46 Player David Herrera is losing connection
+22:16:07 Player David Herrera disconnected.
+22:16:07 BattlEye Server: Player #3 David Herrera disconnected
+22:20:42 David Herrera uses modified data file
+22:20:42 BattlEye Server: Player #3 David Herrera (47.219.209.144:2304) connected
+22:20:42 Player David Herrera connecting.
+22:20:44 BattlEye Server: Player #3 David Herrera - BE GUID: b9fb601aa5fb93387520f835fa668103
+22:20:45 Player David Herrera connected (id=76561198151574704).
+22:20:45 BattlEye Server: Verified GUID (b9fb601aa5fb93387520f835fa668103) of player #3 David Herrera
+22:20:48 Player David Herrera disconnected.
+22:20:48 BattlEye Server: Player #3 David Herrera disconnected
+22:25:25 David Herrera uses modified data file
+22:25:25 BattlEye Server: Player #3 David Herrera (47.219.209.144:2304) connected
+22:25:25 Player David Herrera connecting.
+22:25:27 BattlEye Server: Player #3 David Herrera - BE GUID: b9fb601aa5fb93387520f835fa668103
+22:25:27 Player David Herrera connected (id=76561198151574704).
+22:25:28 BattlEye Server: Verified GUID (b9fb601aa5fb93387520f835fa668103) of player #3 David Herrera
+22:59:35 Player RockstarGaming disconnected

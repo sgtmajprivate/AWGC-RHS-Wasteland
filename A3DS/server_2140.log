@@ -1,0 +1,211 @@
+15:01:37 BattlEye Server: Initialized (v1.217)
+15:01:37 Host identity created.
+15:01:37 Game Port: 2307, Steam Query Port: 2308
+15:01:37 Mission A3Wasteland Altis v1.4c read from bank.
+15:01:39 Roles assigned.
+15:01:39 Reading mission ...
+15:02:10 Mission read.
+15:02:10 Game started.
+15:04:57 karmay uses modified data file
+15:04:58 BattlEye Server: Player #0 karmay (83.42.143.143:2309) connected
+15:04:58 Player karmay connecting.
+15:04:58 BattlEye Server: Connected to BE Master
+15:05:00 BattlEye Server: Player #0 karmay - BE GUID: e31f124e7d128a472e667d56f28850b7
+15:05:01 Player karmay connected (id=76561198142708997).
+15:05:01 BattlEye Server: Verified GUID (e31f124e7d128a472e667d56f28850b7) of player #0 karmay
+15:15:51 Joey uses modified data file
+15:15:51 BattlEye Server: Player #1 Joey (72.46.149.64:2309) connected
+15:15:51 Player Joey connecting.
+15:15:53 BattlEye Server: Player #1 Joey - BE GUID: 4a229150a8b72a287ebf113b7e640ee6
+15:15:53 Player Joey connected (id=76561198137328966).
+15:15:53 BattlEye Server: Verified GUID (4a229150a8b72a287ebf113b7e640ee6) of player #1 Joey
+15:24:07 Home uses modified data file
+15:24:07 BattlEye Server: Player #2 Home (94.194.152.193:2304) connected
+15:24:07 Player Home connecting.
+15:24:10 BattlEye Server: Player #2 Home - BE GUID: 86b171d30bf17da5ea477e88a8022722
+15:24:10 Player Home connected (id=76561198042546357).
+15:24:10 BattlEye Server: Verified GUID (86b171d30bf17da5ea477e88a8022722) of player #2 Home
+15:26:04 Radiation uses modified data file
+15:26:04 BattlEye Server: Player #3 Radiation (72.46.149.64:49153) connected
+15:26:04 Player Radiation connecting.
+15:26:06 BattlEye Server: Player #3 Radiation - BE GUID: eb59097683e574c420e1712f86d5046a
+15:26:07 Player Radiation connected (id=76561198138544919).
+15:26:07 BattlEye Server: Verified GUID (eb59097683e574c420e1712f86d5046a) of player #3 Radiation
+15:29:34 Player Radiation disconnected.
+15:29:34 BattlEye Server: Player #3 Radiation disconnected
+15:30:01 Radiation uses modified data file
+15:30:02 BattlEye Server: Player #3 Radiation (72.46.149.64:49153) connected
+15:30:02 Player Radiation connecting.
+15:30:03 BattlEye Server: Player #3 Radiation - BE GUID: eb59097683e574c420e1712f86d5046a
+15:30:04 Player Radiation connected (id=76561198138544919).
+15:30:04 BattlEye Server: Verified GUID (eb59097683e574c420e1712f86d5046a) of player #3 Radiation
+15:32:35 BattlEye Server: (Group) Joey: hello
+15:33:02 BattlEye Server: (Group) Joey: you in oreo?
+15:33:15 BattlEye Server: (Group) Radiation: huh
+16:02:42 Player Home disconnected.
+16:02:42 BattlEye Server: Player #2 Home disconnected
+16:02:50 RCT.MASSEY.T uses modified data file
+16:02:50 BattlEye Server: Player #4 RCT.MASSEY.T (173.188.151.26:2309) connected
+16:02:50 Player RCT.MASSEY.T connecting.
+16:02:52 BattlEye Server: Player #4 RCT.MASSEY.T - BE GUID: c32ead9d50d7c8b043291951e92544ad
+16:02:53 Player RCT.MASSEY.T connected (id=76561198036148836).
+16:02:53 BattlEye Server: Verified GUID (c32ead9d50d7c8b043291951e92544ad) of player #4 RCT.MASSEY.T
+16:04:11 BattlEye Server: (Global) RCT.MASSEY.T: are you guys really working together?
+16:18:18 BattlEye Server: (Side) Radiation: get outa here
+16:21:40 Player karmay disconnected.
+16:21:40 BattlEye Server: Player #0 karmay disconnected
+16:55:59 Player Radiation disconnected.
+16:55:59 BattlEye Server: Player #3 Radiation disconnected
+17:38:38 ANATOLI CHEJOV uses modified data file
+17:38:38 BattlEye Server: Player #5 ANATOLI CHEJOV (190.171.107.94:62725) connected
+17:38:38 Player ANATOLI CHEJOV connecting.
+17:38:42 BattlEye Server: Player #5 ANATOLI CHEJOV - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+17:38:43 Player ANATOLI CHEJOV connected (id=76561198065774594).
+17:38:43 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #5 ANATOLI CHEJOV
+17:52:19 Player ANATOLI CHEJOV disconnected.
+17:52:20 BattlEye Server: Player #5 ANATOLI CHEJOV disconnected
+17:59:08 Player RCT.MASSEY.T disconnected.
+17:59:08 BattlEye Server: Player #4 RCT.MASSEY.T disconnected
+18:06:09 Player Joey disconnected.
+18:06:09 BattlEye Server: Player #1 Joey disconnected
+18:29:35 DJJ uses modified data file
+18:29:35 BattlEye Server: Player #0 DJJ (24.246.166.249:10305) connected
+18:29:35 Player DJJ connecting.
+18:29:38 BattlEye Server: Player #0 DJJ - BE GUID: d4f2ff524e729d033921c4674279bea4
+18:29:39 Player DJJ connected (id=76561198214020164).
+18:29:39 BattlEye Server: Verified GUID (d4f2ff524e729d033921c4674279bea4) of player #0 DJJ
+18:29:45 Joey uses modified data file
+18:29:45 BattlEye Server: Player #1 Joey (72.46.149.64:2309) connected
+18:29:45 Player Joey connecting.
+18:29:47 BattlEye Server: Player #1 Joey - BE GUID: 4a229150a8b72a287ebf113b7e640ee6
+18:29:48 Player Joey connected (id=76561198137328966).
+18:29:48 BattlEye Server: Verified GUID (4a229150a8b72a287ebf113b7e640ee6) of player #1 Joey
+18:32:51 BattlEye Server: (Side) Joey: what's up?
+18:34:43 BattlEye Server: (Side) Joey: what're you up to?
+18:35:29 BattlEye Server: (Side) DJJ: lookin at heaven while i walk into the light
+18:35:34 BattlEye Server: (Side) Joey: oof
+18:35:42 BattlEye Server: (Side) Joey: what mission you planning on doing?
+18:36:33 BattlEye Server: (Side) Joey: ?
+18:38:12 BattlEye Server: (Side) Joey: i think i should let you know, i'm at altis patrol
+18:38:56 BattlEye Server: (Side) DJJ: srry in gun store
+18:39:03 BattlEye Server: (Side) Joey: aight
+18:45:00 BattlEye Server: (Side) Joey: oof
+18:46:12 BattlEye Server: (Side) DJJ: tryna find a vechile
+18:49:00 BattlEye Server: (Side) DJJ: u there
+18:49:04 BattlEye Server: (Side) Joey: yea
+18:49:29 BattlEye Server: (Side) DJJ: im in sofia
+18:49:35 BattlEye Server: (Side) Joey: aight
+18:49:43 BattlEye Server: (Side) Joey: i'm still in the altis patrol area
+18:49:49 BattlEye Server: (Side) Joey: my tank was destroyed
+18:50:01 BattlEye Server: (Side) Joey: there are 2 tanks left
+18:50:08 BattlEye Server: (Side) Joey: one of the big tanks was destroyed
+18:50:24 BattlEye Server: (Side) Joey: i think it's an apc that has a shitty 50 cal gun
+18:50:37 BattlEye Server: (Side) Joey: i also have an lav with a 40mm
+18:53:35 BattlEye Server: (Side) Joey: the apc got a 40 mm
+18:53:45 BattlEye Server: (Side) Joey: that you can't use
+18:55:22 BattlEye Server: (Side) DJJ: hunker down im on foot gonna take me a while
+18:55:30 BattlEye Server: (Side) Joey: ok
+18:55:37 BattlEye Server: (Side) Joey: get here asap
+18:56:04 BattlEye Server: (Side) DJJ: u at the patrol in the salt flats right
+18:56:13 BattlEye Server: (Side) Joey: yea
+19:01:52 BattlEye Server: (Side) Joey: i have a launcher
+19:01:56 BattlEye Server: (Side) Joey: with 3 rockets
+19:02:05 BattlEye Server: (Side) Joey: where you at?
+19:02:12 BattlEye Server: (Side) DJJ: ive got rpg with at rockets
+19:03:21 BattlEye Server: (Side) Joey: lemme see if i can get another tank
+19:03:34 BattlEye Server: (Side) DJJ: im omw but im on foot
+19:03:38 BattlEye Server: (Side) Joey: aight
+19:04:02 BattlEye Server: (Side) DJJ: i see ur red square
+19:04:29 BattlEye Server: (Side) DJJ: u here that it me
+19:04:43 BattlEye Server: (Side) Joey: 0-0
+19:05:39 BattlEye Server: (Side) DJJ: freeze
+19:05:53 BattlEye Server: (Side) Joey: do you like my small ass tank?
+19:06:13 BattlEye Server: (Side) DJJ: yea i think were fucked but hey let go and try it 
+19:06:36 BattlEye Server: (Side) Joey: if you think we are going to get fucked then you should do this your way with your rockets
+19:06:44 BattlEye Server: (Side) DJJ: lol jkjk 
+19:06:44 BattlEye Server: (Side) Joey: i'm very used to getting fucked
+19:07:03 BattlEye Server: (Side) DJJ: i was kidding bud
+19:07:04 BattlEye Server: (Side) Joey: font
+19:07:11 BattlEye Server: (Side) Joey: kill em
+19:07:14 BattlEye Server: (Side) Joey: they can see us
+19:07:19 BattlEye Server: (Side) Joey: truck
+19:07:31 BattlEye Server: (Side) Joey: front
+19:08:01 BattlEye Server: (Side) Joey: ramming speed
+19:08:08 BattlEye Server: (Side) DJJ: were i dont see it
+19:08:38 BattlEye Server: (Side) Joey: oof
+19:08:43 BattlEye Server: (Side) Joey: kill dem
+19:09:00 BattlEye Server: (Side) Joey: it's down
+19:09:07 BattlEye Server: (Side) Joey: use the machine gun
+19:09:27 BattlEye Server: (Side) Joey: i have medi on me
+19:09:56 BattlEye Server: (Side) Joey: thanks
+19:10:15 BattlEye Server: (Side) Joey: grab my medi in my bag
+19:10:17 BattlEye Server: (Side) Joey: if you can
+19:10:56 BattlEye Server: (Side) DJJ: no fuckin way that shit bugged bro i revied u but u aint get it
+19:10:59 BattlEye Server: (Side) DJJ: wtf
+19:11:05 BattlEye Server: (Side) Joey: you don't have a medi
+19:11:09 BattlEye Server: (Side) Joey: you stabalized me
+19:11:17 BattlEye Server: (Side) Joey: grab my medi and revive me
+19:11:18 BattlEye Server: (Side) DJJ: i do it wont let me 
+19:11:27 BattlEye Server: (Side) Joey: ?
+19:11:29 BattlEye Server: (Side) Joey: hm
+19:11:37 BattlEye Server: (Side) Joey: it says no nearby medics
+19:11:55 BattlEye Server: (Side) Joey: there you go
+19:12:04 BattlEye Server: (Side) Joey: nice
+19:12:05 BattlEye Server: (Side) Joey: thanks
+19:13:38 BattlEye Server: (Side) Joey: you going to take that car?
+19:14:00 BattlEye Server: (Side) Joey: ima take that as a yes
+19:14:16 BattlEye Server: (Side) DJJ: yea um i was kidding erler i hope i aint make u mad bro
+19:14:40 BattlEye Server: (Side) Joey: ?
+19:14:40 BattlEye Server: (Side) Joey: i'm not mad
+19:15:11 BattlEye Server: (Side) Joey: oof
+19:15:31 BattlEye Server: (Side) Joey: hold on a minute
+19:16:07 BattlEye Server: (Side) DJJ: we make a good team
+19:16:58 BattlEye Server: (Side) Joey: got him
+19:17:01 BattlEye Server: (Side) Joey: we finished it!
+19:17:07 BattlEye Server: (Side) Joey: you good?
+19:17:23 BattlEye Server: (Side) DJJ: yea take the crates im good bud
+19:21:43 BattlEye Server: (Side) DJJ: hey can we go gs
+19:21:57 BattlEye Server: (Side) Joey: gun store
+19:22:01 BattlEye Server: (Side) Joey: ?
+19:22:05 BattlEye Server: (Side) DJJ: no the other one
+19:22:11 BattlEye Server: (Side) Joey: general store?
+19:22:19 BattlEye Server: (Side) DJJ: yea 
+19:22:25 BattlEye Server: (Side) Joey: sure
+19:22:27 BattlEye Server: (Side) Joey: hold on
+19:22:37 ANATOLI CHEJOV uses modified data file
+19:22:37 BattlEye Server: Player #2 ANATOLI CHEJOV (190.171.107.94:62725) connected
+19:22:37 Player ANATOLI CHEJOV connecting.
+19:22:41 BattlEye Server: Player #2 ANATOLI CHEJOV - BE GUID: a01f35e030c4464ff5b5e9c18ddf0195
+19:22:42 Player ANATOLI CHEJOV connected (id=76561198065774594).
+19:22:42 BattlEye Server: Verified GUID (a01f35e030c4464ff5b5e9c18ddf0195) of player #2 ANATOLI CHEJOV
+19:23:08 BattlEye Server: (Side) Joey: do you know the max bank account?
+19:23:22 BattlEye Server: (Side) DJJ: no
+19:23:26 BattlEye Server: (Side) Joey: darn
+19:26:58 BattlEye Server: (Side) Joey: ?
+19:26:59 BattlEye Server: (Side) DJJ: die evil bunny die
+19:27:05 BattlEye Server: (Side) Joey: lol
+19:27:27 BattlEye Server: (Side) DJJ: there fuckin everywhere ah!!!!!
+19:28:24 BattlEye Server: (Side) Joey: the fuck is duke
+19:28:44 BattlEye Server: (Side) DJJ: wat lol
+19:28:53 BattlEye Server: (Side) Joey: this thing doesn't have smoke
+19:28:58 BattlEye Server: (Side) Joey: it has DUKE
+19:29:11 BattlEye Server: (Side) Joey: every time i click c is deativates or activates it
+19:29:17 BattlEye Server: (Side) Joey: idk what it does
+19:30:42 BattlEye Server: (Side) DJJ: srry i see a bunny i shot just how i roll lol
+19:30:47 BattlEye Server: (Side) Joey: lol
+19:31:10 BattlEye Server: (Side) DJJ: fuck this shitty villge
+19:32:22 BattlEye Server: (Side) Joey: the fuck
+19:32:24 BattlEye Server: (Side) Joey: is going on
+19:32:33 BattlEye Server: (Side) Joey: what just happened
+19:32:54 BattlEye Server: (Side) DJJ: not sure think we got bomb 
+19:33:03 BattlEye Server: (Side) Joey: damb
+19:35:00 BattlEye Server: (Side) Joey: shot
+19:35:05 BattlEye Server: (Side) Joey: explosions
+19:35:08 BattlEye Server: (Side) Joey: oof
+19:35:11 BattlEye Server: (Side) Joey: fucker
+19:35:28 BattlEye Server: (Side) Joey: i think i figured out why the server's pop is so low
+19:35:55 BattlEye Server: (Side) Joey: i can't spawn on you
+19:38:23 Player DJJ disconnected.
+19:38:23 BattlEye Server: Player #0 DJJ disconnected
+19:38:30 BattlEye Server: (Global) Joey: wow man
+19:38:36 BattlEye Server: (Global) Joey: you're r
