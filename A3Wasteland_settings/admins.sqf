@@ -19,14 +19,15 @@
 lowAdmins = 
 [
 	// Put player UIDs here
-	"76561198065774594",		// Highlander
-	"76561198026943270"			// Mason
+
 ];
 
 // High Administrators: manage & spectate players, remove hacked vehicles, show player tags
 highAdmins = 
 [
 	// Put player UIDs here
+	"76561198065774594",		// Highlander
+	"76561198026943270"			// Mason
 ];
 
 // Server Owners: access to everything, including god mode, money, guns, and vehicles
