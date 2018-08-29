@@ -38,7 +38,8 @@ SideMissions =
 	["mission_TownInvasion", 1.5],
 	["mission_TownInvasionUSAF", 1.75],
 	["mission_Outpost", 1.25],
-	["mission_Truck", 1]
+	["mission_Truck", 1],
+	["mission_HostageRescue", 1.5]
 ];
 
 MoneyMissions =
