@@ -315,6 +315,7 @@ R3F_LOG_CFG_objets_transportables =
 	["Land_Cargo_HQ_V1_F", 10],
 	["Land_LightHouse_F", 10],
 	["Land_Shed_Small_F", 10],
+	["Land_Shed_big_F", 20],
 	["Land_Pod_Heli_Transport_04_Box_F", 5],
 	["Land_runway_edgelight", 2],
 	["Static_Designator_01_base_F", 2],

@@ -1208,6 +1208,7 @@ genObjectsArray = compileFinal str
 	["Cargo HQ", "Land_Cargo_HQ_V1_F", 250000, "object"],
 	["LightHouse", "Land_LightHouse_F", 300000, "object"],
 	["Car Port", "Land_Shed_Small_F", 200000, "object"],
+	["Car Port Big", "Land_Shed_big_F", 300000, "object"],
 	["Pier Ladder", "Land_PierLadder_F", 2500, "object"],
 	["Ammo Cache", "Box_FIA_Support_F", 2500, "ammocrate"],
 	["Taru Cargo Pod", "Land_Pod_Heli_Transport_04_Box_F", 7500, "object"],
