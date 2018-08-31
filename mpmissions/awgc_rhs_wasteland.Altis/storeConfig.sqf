@@ -1444,6 +1444,7 @@ helicoptersArray = compileFinal str
 	["Russian Mi-8 Unarmed", "RHS_Mi8mt_vvs", 50000, "vehicle"],		// RHS
 	["Russian Mi-8 Armed", "RHS_Mi8MTV3_vvs", 75000, "vehicle"],		// RHS
 
+	["Ka-60 UnArmed", "rhs_ka60_grey", 30000, "vehicle"],		// RHS
 	["UH-1H UnArmed", "rhs_uh1h_hidf_unarmed", 30000, "vehicle"],		// RHS
 	["UH-1H DoorGuns", "rhs_uh1h_hidf", 35000, "vehicle"],		// RHS
 	["UH-1H GunShip", "rhs_uh1h_hidf_gunship", 35000, "vehicle"],		// RHS
@@ -1457,7 +1458,8 @@ helicoptersArray = compileFinal str
 	// ["AH-99 Blackfoot", "B_Heli_Attack_01_dynamicLoadout_F", 500000, "vehicle"], // RAH-66 with gunner
 	["UH-1Y Venom", "RHS_UH1Y", 500000, "vehicle"], 		// RHS
 	// ["Mi-48 Kajman", "O_Heli_Attack_02_dynamicLoadout_F", 600000, "vehicle"], // Mi-28 with gunner
-	["Mi-24V", "RHS_Mi24V_vvs", 550000, "vehicle"], 		// RHS	
+	["Mi-24V", "RHS_Mi24V_vvs", 550000, "vehicle"], 		// RHS
+	["Mi-24P", "RHS_Mi24P_vvs", 550000, "vehicle"], 		// RHS
 	["Mi-24G", "rhsgref_mi24g_CAS", 575000, "vehicle"], 		// RHS	
 	["Russian Mi-28", "rhs_mi28n_vvs", 600000, "vehicle"],		// RHS
 	["Kamov Ka-52", "RHS_Ka52_vvsc", 600000, "vehicle"],		// RHS
