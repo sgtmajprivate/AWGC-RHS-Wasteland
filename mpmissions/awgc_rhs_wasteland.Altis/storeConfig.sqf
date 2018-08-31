@@ -1444,6 +1444,9 @@ helicoptersArray = compileFinal str
 	["Russian Mi-8 Unarmed", "RHS_Mi8mt_vvs", 50000, "vehicle"],		// RHS
 	["Russian Mi-8 Armed", "RHS_Mi8MTV3_vvs", 75000, "vehicle"],		// RHS
 
+	["UH-1H UnArmed", "rhs_uh1h_hidf_unarmed", 30000, "vehicle"],		// RHS
+	["UH-1H DoorGuns", "rhs_uh1h_hidf", 35000, "vehicle"],		// RHS
+	["UH-1H GunShip", "rhs_uh1h_hidf_gunship", 35000, "vehicle"],		// RHS
 	["UH-60 Black Hawk UnArmed", "RHS_UH60M2", 50000, "vehicle"],		// RHS
 	["UH-60 Black Hawk Armed", "RHS_UH60M", 100000, "vehicle"],		// RHS
 	["UH-80 Ghost Hawk", "B_Heli_Transport_01_F", 125000, "vehicle"], // UH-60 Stealth with 2 side miniguns
