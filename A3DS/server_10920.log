@@ -1,0 +1,125 @@
+﻿21:01:55 BattlEye Server: Initialized (v1.217)
+21:01:55 Host identity created.
+21:01:55 Game Port: 2307, Steam Query Port: 2308
+21:01:55 Mission A3Wasteland Altis v1.4c read from bank.
+21:01:57 Roles assigned.
+21:01:57 Reading mission ...
+21:02:36 Mission read.
+21:02:36 Game started.
+21:03:31 Rou Kowalski uses modified data file
+21:03:31 BattlEye Server: Player #0 Rou Kowalski (73.147.1.91:61321) connected
+21:03:31 Player Rou Kowalski connecting.
+21:03:31 BattlEye Server: Connected to BE Master
+21:03:33 BattlEye Server: Player #0 Rou Kowalski - BE GUID: 58cae163ea9d3a0ff8adde240b436737
+21:03:35 Player Rou Kowalski connected (id=76561198034110598).
+21:03:35 BattlEye Server: Verified GUID (58cae163ea9d3a0ff8adde240b436737) of player #0 Rou Kowalski
+21:03:55 mike smith uses modified data file
+21:03:55 BattlEye Server: Player #1 mike smith (58.109.196.32:2304) connected
+21:03:55 Player mike smith connecting.
+21:03:58 BattlEye Server: Player #1 mike smith - BE GUID: 9629f54f16c526049552446949f51080
+21:04:01 Player mike smith connected (id=76561198167263444).
+21:04:01 BattlEye Server: Verified GUID (9629f54f16c526049552446949f51080) of player #1 mike smith
+21:04:06 Hemlock Kowalski uses modified data file
+21:04:06 BattlEye Server: Player #2 Hemlock Kowalski (73.147.1.91:2309) connected
+21:04:06 Player Hemlock Kowalski connecting.
+21:04:08 BattlEye Server: Player #2 Hemlock Kowalski - BE GUID: 0e50d5bc222746efa845806a2af0fed1
+21:04:13 Player Hemlock Kowalski connected (id=76561198201473535).
+21:04:13 BattlEye Server: Verified GUID (0e50d5bc222746efa845806a2af0fed1) of player #2 Hemlock Kowalski
+21:05:08 Mason uses modified data file
+21:05:08 BattlEye Server: Player #3 Mason (24.207.152.238:2309) connected
+21:05:08 Player Mason connecting.
+21:05:11 Max Mota uses modified data file
+21:05:11 BattlEye Server: Player #4 Max Mota (201.242.162.174:2309) connected
+21:05:11 Player Max Mota connecting.
+21:05:12 BattlEye Server: Player #3 Mason - BE GUID: 955d09b6e1dde9360ceebc2963df084d
+21:05:12 Player Mason connected (id=76561198026943270).
+21:05:12 BattlEye Server: Verified GUID (955d09b6e1dde9360ceebc2963df084d) of player #3 Mason
+21:05:14 BattlEye Server: Player #4 Max Mota - BE GUID: b24b492882c5bff2195677387329ee4f
+21:05:21 Player Max Mota connected (id=76561198004095068).
+21:05:21 BattlEye Server: Verified GUID (b24b492882c5bff2195677387329ee4f) of player #4 Max Mota
+21:11:35 Ars3nic uses modified data file
+21:11:35 BattlEye Server: Player #5 Ars3nic (76.164.245.15:2309) connected
+21:11:35 Player Ars3nic connecting.
+21:11:37 BattlEye Server: Player #5 Ars3nic - BE GUID: 762306ed27a8c64a9e78e22aadb09877
+21:11:38 Player Ars3nic connected (id=76561198079013407).
+21:11:38 BattlEye Server: Verified GUID (762306ed27a8c64a9e78e22aadb09877) of player #5 Ars3nic
+21:14:35 ROADGLIDE uses modified data file
+21:14:35 BattlEye Server: Player #6 ROADGLIDE (63.142.112.13:2309) connected
+21:14:35 Player ROADGLIDE connecting.
+21:14:38 BattlEye Server: Player #6 ROADGLIDE - BE GUID: 0c6a9ddac9dd8980c3d63e983e2a4cd6
+21:14:38 Player ROADGLIDE connected (id=76561198448325882).
+21:14:38 BattlEye Server: Verified GUID (0c6a9ddac9dd8980c3d63e983e2a4cd6) of player #6 ROADGLIDE
+21:15:20 Player ROADGLIDE disconnected.
+21:15:20 BattlEye Server: Player #6 ROADGLIDE disconnected
+21:28:13 Player Hemlock Kowalski is losing connection
+21:29:14 Player Hemlock Kowalski disconnected.
+21:29:14 BattlEye Server: Player #2 Hemlock Kowalski disconnected
+21:29:14 Hemlock Kowalski uses modified data file
+21:29:14 BattlEye Server: Player #6 Hemlock Kowalski (73.147.1.91:2309) connected
+21:29:14 Player Hemlock Kowalski connecting.
+21:29:22 Player Hemlock Kowalski disconnected.
+21:29:22 BattlEye Server: Player #6 Hemlock Kowalski disconnected
+21:29:37 Hemlock Kowalski uses modified data file
+21:29:37 BattlEye Server: Player #6 Hemlock Kowalski (73.147.1.91:2309) connected
+21:29:37 Player Hemlock Kowalski connecting.
+21:29:39 BattlEye Server: Player #6 Hemlock Kowalski - BE GUID: 0e50d5bc222746efa845806a2af0fed1
+21:29:41 Player Hemlock Kowalski connected (id=76561198201473535).
+21:29:41 BattlEye Server: Verified GUID (0e50d5bc222746efa845806a2af0fed1) of player #6 Hemlock Kowalski
+21:31:46 Player Hemlock Kowalski kicked off by BattlEye: Client not responding
+21:31:46 Player Hemlock Kowalski disconnected.
+21:33:17 Hemlock Kowalski uses modified data file
+21:33:17 BattlEye Server: Player #6 Hemlock Kowalski (73.147.1.91:2309) connected
+21:33:17 Player Hemlock Kowalski connecting.
+21:33:19 BattlEye Server: Player #6 Hemlock Kowalski - BE GUID: 0e50d5bc222746efa845806a2af0fed1
+21:33:21 Player Hemlock Kowalski connected (id=76561198201473535).
+21:33:21 BattlEye Server: Verified GUID (0e50d5bc222746efa845806a2af0fed1) of player #6 Hemlock Kowalski
+21:35:45 Player Hemlock Kowalski kicked off by BattlEye: Client not responding
+21:35:46 Player Hemlock Kowalski disconnected.
+21:37:03 BattlEye Server: (Global) Ars3nic: Ya'll want it?
+21:38:05 ROADGLIDE uses modified data file
+21:38:05 BattlEye Server: Player #6 ROADGLIDE (63.142.112.13:2309) connected
+21:38:05 Player ROADGLIDE connecting.
+21:38:08 BattlEye Server: Player #6 ROADGLIDE - BE GUID: 0c6a9ddac9dd8980c3d63e983e2a4cd6
+21:38:08 Player ROADGLIDE connected (id=76561198448325882).
+21:38:08 BattlEye Server: Verified GUID (0c6a9ddac9dd8980c3d63e983e2a4cd6) of player #6 ROADGLIDE
+21:38:47 Hemlock Kowalski uses modified data file
+21:38:47 BattlEye Server: Player #7 Hemlock Kowalski (73.147.1.91:2309) connected
+21:38:47 Player Hemlock Kowalski connecting.
+21:38:49 BattlEye Server: Player #7 Hemlock Kowalski - BE GUID: 0e50d5bc222746efa845806a2af0fed1
+21:39:34 Player Hemlock Kowalski connected (id=76561198201473535).
+21:39:34 BattlEye Server: Verified GUID (0e50d5bc222746efa845806a2af0fed1) of player #7 Hemlock Kowalski
+21:42:07 Player Hemlock Kowalski kicked off by BattlEye: Client not responding
+21:42:08 Player Hemlock Kowalski disconnected.
+21:42:41 Hemlock Kowalski uses modified data file
+21:42:41 BattlEye Server: Player #7 Hemlock Kowalski (73.147.1.91:2309) connected
+21:42:41 Player Hemlock Kowalski connecting.
+21:42:43 BattlEye Server: Player #7 Hemlock Kowalski - BE GUID: 0e50d5bc222746efa845806a2af0fed1
+21:42:45 Player Hemlock Kowalski connected (id=76561198201473535).
+21:42:45 BattlEye Server: Verified GUID (0e50d5bc222746efa845806a2af0fed1) of player #7 Hemlock Kowalski
+21:44:54 Player Hemlock Kowalski kicked off by BattlEye: Client not responding
+21:44:54 Player Hemlock Kowalski disconnected.
+21:46:57 Player Max Mota is losing connection
+21:48:03 Player Max Mota is losing connection
+21:49:12 Player Max Mota disconnected.
+21:49:12 BattlEye Server: Player #4 Max Mota disconnected
+21:49:46 Hemlock Kowalski uses modified data file
+21:49:46 BattlEye Server: Player #7 Hemlock Kowalski (73.147.1.91:2309) connected
+21:49:46 Player Hemlock Kowalski connecting.
+21:49:48 BattlEye Server: Player #7 Hemlock Kowalski - BE GUID: 0e50d5bc222746efa845806a2af0fed1
+21:49:50 Player Hemlock Kowalski connected (id=76561198201473535).
+21:49:50 BattlEye Server: Verified GUID (0e50d5bc222746efa845806a2af0fed1) of player #7 Hemlock Kowalski
+21:50:10 Max Mota uses modified data file
+21:50:10 BattlEye Server: Player #8 Max Mota (201.211.76.152:2309) connected
+21:50:10 Player Max Mota connecting.
+21:50:12 BattlEye Server: Player #8 Max Mota - BE GUID: b24b492882c5bff2195677387329ee4f
+21:50:28 Player Max Mota connected (id=76561198004095068).
+21:50:28 BattlEye Server: Verified GUID (b24b492882c5bff2195677387329ee4f) of player #8 Max Mota
+21:51:12 Player Hemlock Kowalski: Wrong signature for file a3\rocks_f\sharp\sharpstone_01_lc.p3d
+21:51:12 Player Hemlock Kowalski disconnected.
+21:51:12 BattlEye Server: Player #7 Hemlock Kowalski disconnected
+21:52:31 Hemlock Kowalski uses modified data file
+21:52:32 BattlEye Server: Player #9 Hemlock Kowalski (73.147.1.91:2309) connected
+21:52:32 Player Hemlock Kowalski connecting.
+21:52:34 BattlEye Server: Player #9 Hemlock Kowalski - BE GUID: 0e50d5bc222746efa845806a2af0fed1
+21:52:36 Player Hemlock Kowalski connected (id=76561198201473535).
+21:52:36 BattlEye Server: Verified GUID (0e50d5bc222746efa845806a2af0fed1) of player #9 Hemlo
